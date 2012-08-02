@@ -1,3 +1,4 @@
 johnredwoodsdiary.com###cc-notification-wrapper
 www.tfa.net##cccwr
+cookieControl-*.js?ver=*$script
 

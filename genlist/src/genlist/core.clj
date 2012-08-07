@@ -12,6 +12,7 @@
     (join "\n" (split-lines input)))
 
  (defn update-filter-timestamp
+  "Ugly function to update timestamp of filter list. mostly stolen from the original Python"
    [in]
    (let [ts-pattern #"(?i)(?m)^\s*!\s*last\smodified[\s\-:]+([\w\+\/=]+).*\n"
          dt-now (str "! Last Modified: " (unparse (formatter "dd MMM yyyy hh:mm z") (now)) "\n")]

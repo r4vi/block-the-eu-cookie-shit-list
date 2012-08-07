@@ -2,19 +2,9 @@
   (:use [clojure.tools.cli :only (cli)]
         [clojure.string :only (split-lines join replace-first)]
         [clj-time.core :only (now)]
-        [clj-time.format :only (unparse formatter)])
+        [clj-time.format :only (unparse formatter)]
+        [clj-message-digest.core :only (md5-base64)])
   (:gen-class :main true))
-
-  (defn md5
-    "Generate a md5 checksum for the given string"
-  [token]
-  (let [hash-bytes
-        (doto (java.security.MessageDigest/getInstance "MD5")
-          (.reset)
-           (.update (.getBytes token)))]
-    (.toString
-      (new java.math.BigInteger 1 (.digest hash-bytes)) ; Positive and the size of the number
-         16))) ; Use base16 i.e. hex
 
   (defn normalise-string
     "turns \r\n and \r into \n in a string"
@@ -34,7 +24,7 @@
           cleaned (update-filter-timestamp (replace-first (normalise-string input) 
                               #"(?i)(?m)^\s*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n"
                               ""))
-          checksum (md5 cleaned)]
+          checksum (md5-base64 cleaned)]
       (println checksum)
       (spit (:file opts) 
             (replace-first cleaned "\n" (str "\n! Checksum: " checksum "\n")))))

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: rJ3EqyxMU8aeiJnruoG76Q==
+! Checksum: WuIu6cDfaEjMaNUjttFUXw==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 22 Aug 2012 06:08 UTC
+! Last Modified: 28 Aug 2012 11:33 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -18,3 +18,4 @@ group.barclays.com###cookiesInitialDialog
 group.barclays.com##.dialogMask
 www.theepinal.co.uk##.pea_cook_wrapper
 www.tfl.gov.uk###tfl-cookies
+iblanky.co.cc###update

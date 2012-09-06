@@ -25,4 +25,4 @@ www.hsbc.co.uk###cookieBox
 www.cineworld.co.uk##.notification.cookie.box
 www.bbc.co.uk###bbccookies
 www.blockbuster.co.uk##.toast-type-newCookie
-*.film4.com###cookieNotification
+film4.com###cookieNotification

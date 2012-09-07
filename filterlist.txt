@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: /aLVHhto8+m3d17nettPLA==
+! Checksum: KXfng/fVX16JQCB9LYfPCw==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 06 Sep 2012 07:58 UTC
+! Last Modified: 07 Sep 2012 06:58 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -26,3 +26,4 @@ www.cineworld.co.uk##.notification.cookie.box
 www.bbc.co.uk###bbccookies
 www.blockbuster.co.uk##.toast-type-newCookie
 channel4.com,film4.com###cookieNotification
+prospectmagazine.co.uk###catapult-cookie-bar

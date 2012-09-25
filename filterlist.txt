@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: /4QS2HP77M3LwRGxwtyVAw==
+! Checksum: UIlpEZul3wdREd5dvFfgPg==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 25 Sep 2012 10:19 UTC
+! Last Modified: 25 Sep 2012 01:30 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -36,3 +36,4 @@ ee.co.uk###cookie-banner
 www.findanyfilm.com##.cc-cookies
 www.last.fm###cookie-law-bar
 www.rightmove.co.uk###cookiemodalbar
+www.your-move.co.uk###Footer_cookieLawBox

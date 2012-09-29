@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: RhLul59oywts7ZgYW6+pwQ==
+! Checksum: vZnbnRG8xsRKH3KzTLatjg==
 <<<<<<< HEAD
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 29 Sep 2012 09:12 UTC
+! Last Modified: 29 Sep 2012 11:27 UTC
 =======
 ! Checksum: UIlpEZul3wdREd5dvFfgPg==
 ! Title: Block-EU-Cookie-Shit-List
@@ -44,3 +44,4 @@ www.last.fm###cookie-law-bar
 news.o2.co.uk###cookiesdirective
 www.rightmove.co.uk###cookiemodalbar
 www.your-move.co.uk###Footer_cookieLawBox
+www.diy.com###noScriptCookies

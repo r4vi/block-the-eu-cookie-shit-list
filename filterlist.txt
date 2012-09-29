@@ -39,4 +39,4 @@ news.o2.co.uk###cookiesdirective
 www.rightmove.co.uk###cookiemodalbar
 www.your-move.co.uk###Footer_cookieLawBox
 diy.com###noScriptCookies
-diy.com###cookies
+diy.com###cookie-bar

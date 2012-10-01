@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: MeKcAtDczmH4q6U+Pxr7aw==
+! Checksum: S/EYTeuariIJp78FTr2CEg==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 01 Oct 2012 10:47 UTC
+! Last Modified: 01 Oct 2012 10:54 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -43,3 +43,4 @@ diy.com###cookie-bar
 bt.com###cookieNotification
 landregistry.gov.uk###cookieBar
 postcodeanywhere.co.uk###cookie-info-bar
+checkmyfile.com###cookieBar

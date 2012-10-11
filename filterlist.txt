@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: zLAJK7IKtSuxpkGtr+4phg==
+! Checksum: OeVIQvy33WyWY0lG+Un7PA==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 09 Oct 2012 07:31 UTC
+! Last Modified: 11 Oct 2012 10:30 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -51,3 +51,4 @@ which.co.uk###eprivacy-outer
 barclaycard.co.uk###cookiesMessageBanner
 barclaycard.co.uk##.cookiesMessageBanner
 giffgaff.com###cookies-modal
+www.caterersearch.com###rbiCookiePolicy_mainInformation

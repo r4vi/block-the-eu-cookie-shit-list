@@ -53,3 +53,4 @@ barclaycard.co.uk###cookiesMessageBanner
 barclaycard.co.uk##.cookiesMessageBanner
 giffgaff.com###cookies-modal
 www.caterersearch.com###rbiCookiePolicy_mainInformation
+www.travelsupermarket.com###cookieDirective

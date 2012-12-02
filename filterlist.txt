@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: M8aSXLv1x1kjyAvgcNU1KA==
+! Checksum: 6EpbDkFtjkqSe+I0QDwb8A==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 02 Dec 2012 02:46 UTC
+! Last Modified: 02 Dec 2012 02:42 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -78,3 +78,4 @@ bbcgoodfood.com###cookie-policy-container
 jobs.ac.uk##.eucookies
 www.brandwatch.com###catapult-cookie-bar
 www.bigsocietycapital.com###cccwr
+dolce-gusto.co.uk###nimgrowler

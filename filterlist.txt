@@ -87,3 +87,4 @@ www.guardian.co.uk##.identity-noticebar
 www.orange.co.uk##.cookieBanner
 www.orange.co.uk##.cookieStandard
 cnet.co.uk###cookiePolicy
+santanderbillpayment.co.uk###euPrivacy_control_euPrivacy_cookiesMsg

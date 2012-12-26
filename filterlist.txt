@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: T81i29Wdtgh7BhK6gukNvw==
+! Checksum: gN7LyG1kQmPkiQTawlGL8w==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 26 Dec 2012 12:26 UTC
+! Last Modified: 26 Dec 2012 12:29 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -88,6 +88,6 @@ www.orange.co.uk##.cookieBanner
 www.orange.co.uk##.cookieStandard
 cnet.co.uk###cookiePolicy
 santanderbillpayment.co.uk###euPrivacy_control_euPrivacy_cookiesMsg
-www.landscapesforlife.org.uk/cookieControl-4.1.min.js$script
-http://du8783wkf05yr.cloudfront.net/rbi_uk.js$script
-http://www.newscientist.com/###rbiCookiePolicy_pushDownBoxWrapper
+cookieControl-*.js.js$script
+du8783wkf05yr.cloudfront.net/rbi_uk.js$script
+www.newscientist.com/###rbiCookiePolicy_pushDownBoxWrapper

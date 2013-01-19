@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: UGqodp6f419d6y/9K2OZUA==
+! Checksum: vo3sH9THpN+97PaXsI4Bdg==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 19 Jan 2013 02:05 UTC
+! Last Modified: 19 Jan 2013 02:10 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -97,3 +97,4 @@ www.tddirectinvesting.co.uk###cookieWindowContainer
 www.theviewfromtheshard.com###cookie_alert
 www.blood.co.uk###cookie-warning
 metoffice.gov.uk###EUCookie
+metoffice.gov.uk##.EUCookie

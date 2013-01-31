@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: gIrrDfdIgsv1v/5M0sz/gA==
+! Checksum: fKNe5knvvDn4ATHEpk4kXA==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 19 Jan 2013 02:20 UTC
+! Last Modified: 31 Jan 2013 01:07 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -92,7 +92,6 @@ cookieControl-*.js.js$script
 du8783wkf05yr.cloudfront.net/rbi_uk.js$script
 www.newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
 rbicookiepolicy.js$script
-<<<<<<< Updated upstream
 techrepublic.com###cookieCont
 www.tddirectinvesting.co.uk###cookieWindowContainer
 www.theviewfromtheshard.com###cookie_alert
@@ -100,3 +99,4 @@ www.blood.co.uk###cookie-warning
 metoffice.gov.uk###EUCookie
 metoffice.gov.uk##.EUCookie
 lifeboatmarketing.co.uk###id_cookieconsent
+www.tesco.com###cp

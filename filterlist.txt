@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: EUP7OK7/5KIoZ/RwvQ4r0A==
+! Checksum: eieJ9L12sJzx90sKehHpUQ==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 04 Feb 2013 01:28 UTC
+! Last Modified: 04 Feb 2013 05:46 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -101,3 +101,4 @@ metoffice.gov.uk##.EUCookie
 lifeboatmarketing.co.uk###id_cookieconsent
 www.tesco.com###cp
 jqueryCookieGuard*.js$script
+www.humansinvent.com/*/eu_rp_cookie.js$script

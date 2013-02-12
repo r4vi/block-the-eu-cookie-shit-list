@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: opqsdKK86heJtdGhfF5mZA==
+! Checksum: iK/mgnX+khmluLNnkpZwhw==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 09 Feb 2013 09:48 UTC
+! Last Modified: 12 Feb 2013 11:32 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -32,7 +32,7 @@ channel4.com,film4.com###cookieNotification
 prospectmagazine.co.uk###catapult-cookie-bar
 thewolseley.com###cookie_policy_banner
 www.h-online.com###cookie_warning
-www.out-law.com###cookie
+www.out-law.com###cookies-panel
 policy.cookiereports.com
 www.postoffice.co.uk###cookiereports-badge
 ee.co.uk###cookie-banner
@@ -71,10 +71,11 @@ www.codehousegroup.com/js/libs/cookie-check.js$script
 www.spotify.com##.notification-bar uk-cookies
 www.vanguard.co.uk###cookieDrawer
 www.ico.gov.uk###banner
-www.nationwide.co.uk###cnContent
+www.nationwide.co.uk###cn
 eastcoast.co.uk##.cookie-message
 www.gocompare.com##.globalcookiepolicycontainer
 uk.virginmoney.com###e-privacy-message
+uk.virginmoneygiving.com###e-privacy-message
 bbcgoodfood.com###cookie-policy-container
 jobs.ac.uk##.eucookies
 www.brandwatch.com###catapult-cookie-bar
@@ -104,3 +105,13 @@ jqueryCookieGuard*.js$script
 www.humansinvent.com/*/eu_rp_cookie.js$script
 harrys.co.uk/js/toucanCookie.js$script
 vouchercodes.co.uk###cookie-popup
+www.bing.com###thp_notf_div
+www.crossrail.co.uk###cookielaw
+www.diginate.com###cookie-message-container
+www.ing.com###cookie_info
+www.nhsbt.nhs.uk###cookie-warning
+www.taylorwessing.com###twCookieConsent
+www.trustedreviews.com###cookie-warning
+www.virgintrains.co.uk###cookies-fancybox
+www.waitrose.com###topEuCookieAlert
+www.wolframalpha.com###EUCookie

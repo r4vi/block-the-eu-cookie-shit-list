@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: iK/mgnX+khmluLNnkpZwhw==
+! Checksum: jtXIKWfL2pRxRtzn4ztVzA==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 12 Feb 2013 11:32 UTC
+! Last Modified: 12 Feb 2013 06:51 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -115,3 +115,4 @@ www.trustedreviews.com###cookie-warning
 www.virgintrains.co.uk###cookies-fancybox
 www.waitrose.com###topEuCookieAlert
 www.wolframalpha.com###EUCookie
+www.eastmidlandstrains.co.uk##.cookieouter.cookie-policy

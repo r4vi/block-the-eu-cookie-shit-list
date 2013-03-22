@@ -128,3 +128,10 @@ www.rail-reg.gov.uk###CookieQBanner
 www.rncm.ac.uk###cookie_warning
 www.ukti.gov.uk###cookieBanner
 www.jrf.org.uk###cookieconsent
+jakilinux.org##DIV[id="cookie-compliance-bottom"]
+tlen.pl##DIV[id="cookieMonsterWrapper"]
+www.netia.pl##DIV[id="cookie_div"]
+www.tvp.pl##DIV[id="cookieControl"]
+www.ubuntu.com##DIV[class="cookie-policy"]
+www.wp.pl##DIV[id="WP-cookie-info"]
+www.pb.pl##DIV[id="cookies-agreement-box"]

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
 ! Checksum: HYtKAW2QziA83xnqpMUXXQ==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 23 Mar 2013 16:45 UTC
+! Last Modified: 12 Mar 2013 04:06 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -46,7 +46,6 @@ metoffice.gov.uk###EUCookie
 news.o2.co.uk###cookiesdirective
 ofcom.org.uk###cookie-bar
 ourwatch.org.uk###cookie-policy
-plus.pl##div[id="cookies-info"]
 plus.pl##DIV[id="cookies-info"][class="cookies-info"]
 policy.cookiereports.com
 postcodeanywhere.co.uk###cookie-info-bar
@@ -60,12 +59,15 @@ techrepublic.com###cookieCont
 theregister.co.uk,channelregister.co.uk,reghardware.com###RegCCO
 thewolseley.com###cookie_policy_banner
 tlen.pl##DIV[id="cookieMonsterWrapper"]
+tnttorrent.info##DIV[id="cookie_policies"]
 uk.virginmoney.com###e-privacy-message
 uk.virginmoneygiving.com###e-privacy-message
 vouchercodes.co.uk###cookie-popup
 walkit.com###cookie-notice
 which.co.uk###eprivacy-outer
+wrzucacz.pl##P[class="info"]
 www.1and1.co.uk###cookies-info
+www.bankier.pl##DIV[id="cookiepolicydiv"]
 www.bigsocietycapital.com###cccwr
 www.bing.com###thp_notf_div
 www.blockbuster.co.uk##.toast-type-newCookie
@@ -82,6 +84,7 @@ www.drinkaware.co.uk##.cookie-check
 www.eastmidlandstrains.co.uk##.cookieouter.cookie-policy
 www.edexcel.com###cookiemsgbox
 www.fidelity.co.uk###cookieMgn
+www.filmweb.pl##DIV[class="topBarCont"]
 www.findanyfilm.com##.cc-cookies
 www.gocompare.com##.globalcookiepolicycontainer
 www.gov.uk###global-cookie-message
@@ -92,6 +95,7 @@ www.hsbc.co.uk##.eucookie_disclaimer
 www.humansinvent.com/*/eu_rp_cookie.js$script
 www.ico.gov.uk###banner
 www.ing.com###cookie_info
+www.instalki.pl##DIV[id="ciasteczka"]
 www.jrf.org.uk###cookieconsent
 www.last.fm###cookie-law-bar
 www.lufbra.net##.cwcookielaw
@@ -109,7 +113,6 @@ www.orange.co.uk##.cookieStandard
 www.out-law.com###cookies-panel
 www.pb.pl##DIV[id="cookies-agreement-box"]
 www.pcworld.pl##DIV[id="cookie-info"]
-www.pcworld.pl##div[id="cookies-info"]
 www.postoffice.co.uk###cookiereports-badge
 www.rail-reg.gov.uk###CookieQBanner
 www.rightmove.co.uk###cookiemodalbar

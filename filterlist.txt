@@ -113,6 +113,7 @@ www.orange.co.uk##.cookieStandard
 www.out-law.com###cookies-panel
 www.pb.pl##DIV[id="cookies-agreement-box"]
 www.pcworld.pl##DIV[id="cookie-info"]
+www.play.pl##DIV[id="cookies"]
 www.postoffice.co.uk###cookiereports-badge
 www.rail-reg.gov.uk###CookieQBanner
 www.rightmove.co.uk###cookiemodalbar

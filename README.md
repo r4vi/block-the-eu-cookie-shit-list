@@ -10,7 +10,7 @@ Please submit pull-reqs to filterlist.txt and I'll merge them in as soon as I ca
 Tested in Chrome (Adblock Plus) but should work on Firefox too.
 
 # Contributors
-
+- https://github.com/morfikov
 - https://github.com/mikecardwell
 - https://github.com/alexmuller
 - https://github.com/r4vi

@@ -19,6 +19,10 @@ cnet.co.uk###cookiePolicy
 cookieControl-*.js.js$script
 cookieControl-*.js?ver=*$script
 cookielawinfo.js?ver=*$script
+##DIV[id="cookie-info"]
+##DIV[id="cookieInfoMsgWrapper"]
+##DIV[id="cookiepolicydiv"]
+##DIV[id="cookies-info"]
 diy.com###cookie-bar
 diy.com###noScriptCookies
 dolce-gusto.co.uk###nimgrowler
@@ -46,7 +50,6 @@ metoffice.gov.uk###EUCookie
 news.o2.co.uk###cookiesdirective
 ofcom.org.uk###cookie-bar
 ourwatch.org.uk###cookie-policy
-plus.pl##DIV[id="cookies-info"][class="cookies-info"]
 policy.cookiereports.com
 postcodeanywhere.co.uk###cookie-info-bar
 prospectmagazine.co.uk###catapult-cookie-bar
@@ -67,7 +70,6 @@ walkit.com###cookie-notice
 which.co.uk###eprivacy-outer
 wrzucacz.pl##P[class="info"]
 www.1and1.co.uk###cookies-info
-www.bankier.pl##DIV[id="cookiepolicydiv"]
 www.bigsocietycapital.com###cccwr
 www.bing.com###thp_notf_div
 www.blockbuster.co.uk##.toast-type-newCookie
@@ -82,6 +84,8 @@ www.crucial.com##.cookieInfo
 www.diginate.com###cookie-message-container
 www.drinkaware.co.uk##.cookie-check
 www.eastmidlandstrains.co.uk##.cookieouter.cookie-policy
+www.economist.com###ec-message-1
+www.economist.com###ec-message-2
 www.edexcel.com###cookiemsgbox
 www.fidelity.co.uk###cookieMgn
 www.filmweb.pl##DIV[class="topBarCont"]
@@ -112,7 +116,6 @@ www.orange.co.uk##.cookieBanner
 www.orange.co.uk##.cookieStandard
 www.out-law.com###cookies-panel
 www.pb.pl##DIV[id="cookies-agreement-box"]
-www.pcworld.pl##DIV[id="cookie-info"]
 www.play.pl##DIV[id="cookies"]
 www.postoffice.co.uk###cookiereports-badge
 www.rail-reg.gov.uk###CookieQBanner
@@ -144,5 +147,3 @@ www.wolframalpha.com###EUCookie
 www.wp.pl##DIV[id="WP-cookie-info"]
 www.your-move.co.uk###Footer_cookieLawBox
 www.zdnet.com###cookiePolicy
-www.economist.com###ec-message-1
-www.economist.com###ec-message-2

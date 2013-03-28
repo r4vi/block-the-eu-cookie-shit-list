@@ -149,3 +149,4 @@ www.your-move.co.uk###Footer_cookieLawBox
 www.zdnet.com###cookiePolicy
 www.depesz.com###cookiewarning
 ###fp_cookieMessageContainer
+||cookie.gazeta.pl/noScriptCookie.servlet

@@ -150,3 +150,7 @@ www.zdnet.com###cookiePolicy
 www.depesz.com###cookiewarning
 ###fp_cookieMessageContainer
 ||cookie.gazeta.pl/noScriptCookie.servlet
+goldenline.pl##div[id="topReminder"]
+android.com.pl##div[class^="pea_cook_wrapper"]
+siepisze.pl##div[class^="pea_cook_wrapper"]
+www.wykop.pl##div[class="cookie-alert closelinkcontainer technicalbreak"]

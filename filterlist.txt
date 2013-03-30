@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: XJ10x+WW3LTpgrDqKlRjbg==
+! Checksum: mqu3FsofG2N1awhsBxuk7g==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 29 Mar 2013 07:50 UTC
+! Last Modified: 30 Mar 2013 10:48 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -153,4 +153,4 @@ www.depesz.com###cookiewarning
 goldenline.pl##div[id="topReminder"]
 android.com.pl##div[class^="pea_cook_wrapper"]
 siepisze.pl##div[class^="pea_cook_wrapper"]
-www.wykop.pl##div[class="cookie-alert closelinkcontainer technicalbreak"]
+##div[class^="cookie-alert"]

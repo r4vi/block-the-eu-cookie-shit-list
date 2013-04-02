@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: QQoZfctlDNK0JPkMv+yUUg==
+! Checksum: bQqC3rxPIaJuBDGdevMQ2w==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 02 Apr 2013 01:11 UTC
+! Last Modified: 02 Apr 2013 01:42 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -61,7 +61,6 @@ store.lboro.ac.uk##.cc-cookies
 techrepublic.com###cookieCont
 theregister.co.uk,channelregister.co.uk,reghardware.com###RegCCO
 thewolseley.com###cookie_policy_banner
-tlen.pl##DIV[id="cookieMonsterWrapper"]
 tnttorrent.info##DIV[id="cookie_policies"]
 uk.virginmoney.com###e-privacy-message
 uk.virginmoneygiving.com###e-privacy-message
@@ -144,7 +143,6 @@ www.vanguard.co.uk###cookieDrawer
 www.virgintrains.co.uk###cookies-fancybox
 www.waitrose.com###topEuCookieAlert
 www.wolframalpha.com###EUCookie
-www.wp.pl##DIV[id="WP-cookie-info"]
 www.your-move.co.uk###Footer_cookieLawBox
 www.zdnet.com###cookiePolicy
 www.depesz.com###cookiewarning
@@ -156,3 +154,26 @@ siepisze.pl##div[class^="pea_cook_wrapper"]
 ##div[class^="cookie-alert"]
 ##div[id="ciasteczka"]
 www.joomla.pl##DIV[id="panel_cookie_dol"]
+demotywatory.pl##DIV[style^="position: fixed; left:0; right:0; bottom:0"]
+joemonster.org##DIV[style^="position: fixed; left:0; right:0; bottom:0;"]
+przegladsportowy.pl###cookies
+###boxZgodaNaCookie
+###cookiePolicyPopup
+polskatimes.pl##.cookieTooltip
+wizaz.pl###cookiesdirective
+otomoto.pl##.om-cookie-agreement
+skapiec.pl###uclaInfo
+ceneo.pl###js_cookie-monster
+merlin.pl##.cookies_policy
+###cookieMonsterWrapper
+zumi.pl###cookieView
+orange.pl###cookiesArticle
+panoramafirm.pl###cookiesInfo
+###WP-cookie-info
+dobreprogramy.pl###cookies
+plejada.pl###cookieInfo
+gry.pl##.m-cookiebar
+sciaga.pl##.cookiespolicy
+gratka.pl##.cookieTooltip
+t-mobile.pl###cookieInfoWrapper
+||login.gg.pl/cookies-policy/*/cookie-terms*

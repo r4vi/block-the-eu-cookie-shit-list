@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: bQqC3rxPIaJuBDGdevMQ2w==
+! Checksum: uVgqQ+KF7lmXiVwLmcHDLw==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 02 Apr 2013 01:42 UTC
+! Last Modified: 02 Apr 2013 05:28 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -159,7 +159,7 @@ joemonster.org##DIV[style^="position: fixed; left:0; right:0; bottom:0;"]
 przegladsportowy.pl###cookies
 ###boxZgodaNaCookie
 ###cookiePolicyPopup
-polskatimes.pl##.cookieTooltip
+##.cookieTooltip
 wizaz.pl###cookiesdirective
 otomoto.pl##.om-cookie-agreement
 skapiec.pl###uclaInfo
@@ -174,6 +174,6 @@ dobreprogramy.pl###cookies
 plejada.pl###cookieInfo
 gry.pl##.m-cookiebar
 sciaga.pl##.cookiespolicy
-gratka.pl##.cookieTooltip
 t-mobile.pl###cookieInfoWrapper
 ||login.gg.pl/cookies-policy/*/cookie-terms*
+||allegrostatic.pl/js/scripts/cookie-policy-banner$script

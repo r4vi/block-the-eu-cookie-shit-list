@@ -160,7 +160,6 @@ www.findanyfilm.com##.cc-cookies
 www.gambleaware.co.uk###ccWrappery
 www.gamblingcommission.gov.uk##.cookiedOuter
 www.gocompare.com##.globalcookiepolicycontainer
-www.google.co.uk###epbar
 www.gov.uk###global-cookie-message
 www.guardian.co.uk##.identity-noticebar
 www.h-online.com###cookie_warning
@@ -237,3 +236,4 @@ zumi.pl###cookieView
 ||assets.cookieconsent.silktide.com^
 ||cookie.gazeta.pl/noScriptCookie.servlet
 ||login.gg.pl/cookies-policy/*/cookie-terms*
+##DIV[id="ep-bar"]

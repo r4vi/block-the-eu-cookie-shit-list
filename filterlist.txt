@@ -237,3 +237,4 @@ zumi.pl###cookieView
 ||assets.cookieconsent.silktide.com^
 ||cookie.gazeta.pl/noScriptCookie.servlet
 ||login.gg.pl/cookies-policy/*/cookie-terms*
+www.roh.org.uk##div.roh-cookies

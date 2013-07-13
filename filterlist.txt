@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: rv7pzj8Q+diDH1htZkO+ug==
+! Checksum: oVeCy5Jy1muSwDqsuIe51A==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 27 Jun 2013 06:04 UTC
+! Last Modified: 13 Jul 2013 11:36 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -55,6 +55,7 @@ eurogamer.net###cookie-bar
 eveningnews24.co.uk###cookielaw
 fantasyfootballscout.co.uk###cookie-bar
 fhm.com###bauerCookiePolicy
+ford.co.uk###cookieAlertBoxID
 giffgaff.com###cookies-modal
 gizmodo.co.uk###fp_cookieMessageContainer
 gocompare.com##.CookiePolicyContainer

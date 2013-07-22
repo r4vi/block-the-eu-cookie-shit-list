@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: Csuwz73/MkpdZmlPfiVpZA==
+! Checksum: 1qtPgsQZEBi1LGGr2k50Fw==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 21 Jul 2013 10:41 UTC
+! Last Modified: 22 Jul 2013 08:15 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -116,6 +116,7 @@ sky.com###skycom-cookie-wrapper
 soundonsound.com###cccwr
 store.lboro.ac.uk##.cc-cookies
 styx-tattoos.co.uk###cookieWrapper
+superfast-openreach.co.uk###cc-notification
 t-mobile.pl###cookieInfoWrapper
 techrepublic.com###cookieCont
 tfl.gov.uk###tfl-cookies

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 1qtPgsQZEBi1LGGr2k50Fw==
+! Checksum: qfSf6qlrL5aN0EwGjn/bxQ==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 22 Jul 2013 08:15 UTC
+! Last Modified: 16 Sep 2013 12:19 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -243,3 +243,4 @@ zumi.pl###cookieView
 ||cookie.gazeta.pl/noScriptCookie.servlet
 ||login.gg.pl/cookies-policy/*/cookie-terms*
 www.roh.org.uk##div.roh-cookies
+www.workingmums.co.uk##div.cookie-box

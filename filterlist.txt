@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: qfSf6qlrL5aN0EwGjn/bxQ==
+! Checksum: 7kqC3v5kzE7ZFW7z7M+bAA==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 16 Sep 2013 12:19 UTC
+! Last Modified: 20 Sep 2013 12:48 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -14,6 +14,18 @@
 ##.cookieTooltip
 ##div[class^="cookie-alert"]
 ##div[id="ciasteczka"]
+##div[id="cookiesPolicy"]
+##div[id="cookies_in"]
+##div[id="catapult-cookie-bar"]
+##div[id="cookies_policy"]
+##div[id="cookie-warning"]
+##div[id="cookies_information"]
+##div[class^="cookie-info"]
+##div[id="pl_cookies"]
+##div[id="cookie-bar"]
+##div[id="cookies-agreement-box"]
+##div[id="cookiesBar"]
+##div[id="cookiePolicyBar"]
 ##DIV[id="cookie-info"]
 ##DIV[id="cookieInfoMsgWrapper"]
 ##DIV[id="cookiepolicydiv"]
@@ -37,6 +49,8 @@ concertolive.co.uk##.divCookieWarning
 cookieControl-*.js.js$script
 cookieControl-*.js?ver=*$script
 cookielawinfo.js?ver=*$script
+cookiewarning.js?ver=*$script
+cookiewarning.css?ver=*
 demotywatory.pl##DIV[style^="position: fixed; left:0; right:0; bottom:0"]
 diy.com###cookie-bar
 diy.com###noScriptCookies
@@ -79,6 +93,7 @@ jqueryCookieGuard*.js$script
 landregistry.gov.uk###cookieBar
 last.fm###cookie-law-bar
 lifeboatmarketing.co.uk###id_cookieconsent
+mazowieckie.com.pl###cookie
 mclaren.com###block-cookie-info
 mclarenstore.com##.widget-notifyBar
 merlin.pl##.cookies_policy

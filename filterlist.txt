@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: qoo78iT4wLLLEQ1zb64qqg==
+! Checksum: SKt4GK+oskyRoezshXoSYw==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 03 Nov 2013 10:25 UTC
+! Last Modified: 03 Nov 2013 07:43 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -58,6 +58,7 @@ dobreprogramy.pl###cookies
 dolce-gusto.co.uk###nimgrowler
 du8783wkf05yr.cloudfront.net/rbi_uk.js$script
 eastcoast.co.uk##.cookie-message
+ebuyer.com###cookieContainer
 edp24.co.uk###cookielaw
 ee.co.uk###cookie-banner
 ee.co.uk###ee-cookies-message

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: tZEv3yIb/hvJ7xpn25TKIw==
+! Checksum: 72hNu/ukupidQYHdjDNLAg==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 30 Nov 2013 04:40 UTC
+! Last Modified: 05 Dec 2013 07:14 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -149,6 +149,7 @@ uk.virginmoneygiving.com###e-privacy-message
 uk.yahoo.com###y-shade
 ukflive.com##.cc-cookies
 uktv.co.uk###cookies-panel
+ups.com###cookieMsg
 videojug.com##.cp-alert-message
 vouchercodes.co.uk###cookie-popup
 walkit.com###cookie-notice

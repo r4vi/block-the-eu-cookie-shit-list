@@ -21,6 +21,7 @@
 ##div[id="cookie-info"]
 ##div[id="cookie-warning"]
 ##div[id="cookieInfoMsgWrapper"]
+##div[id="cookieInformerBooklet"]
 ##div[id="cookiePolicyBar"]
 ##div[id="cookie_informer"]
 ##div[id="cookiepolicydiv"]

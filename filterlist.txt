@@ -19,7 +19,7 @@
 ##div[id="ciasteczka"]
 ##div[id="cookie-bar"]
 ##div[id="cookie-info"]
-##div[id="cookie-warning"]
+##div[id^="cookie-warning"]
 ##div[id="cookieInfoMsgWrapper"]
 ##div[id="cookieInformerBooklet"]
 ##div[id="cookiePolicyBar"]

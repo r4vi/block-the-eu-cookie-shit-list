@@ -268,4 +268,3 @@ zumi.pl###cookieView
 ||login.gg.pl/cookies-policy/*/cookie-terms*
 www.roh.org.uk##div.roh-cookies
 www.workingmums.co.uk##div.cookie-box
-

@@ -162,6 +162,7 @@ whtimes.co.uk###cookielaw
 wizaz.pl###cookiesdirective
 wrzucacz.pl##P[class="info"]
 www.1and1.co.uk###cookies-info
+www.appension.dk##DIV[id="cookie-disclaimer"]
 www.bigsocietycapital.com###cccwr
 www.bing.com###thp_notf_div
 www.blockbuster.co.uk##.toast-type-newCookie
@@ -183,6 +184,7 @@ www.economist.com###ec-message-1
 www.economist.com###ec-message-2
 www.edexcel.com###cookiemsgbox
 www.express.co.uk###cookielaw
+www.fdm.dk##DIV[id="theCookie"]
 www.fidelity.co.uk###cookieMgn
 www.filmweb.pl##DIV[class="topBarCont"]
 www.findanyfilm.com##.cc-cookies

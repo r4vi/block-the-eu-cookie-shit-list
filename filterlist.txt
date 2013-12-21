@@ -30,6 +30,8 @@
 ##DIV[id="cookieInfoMsgWrapper"]
 ##DIV[id="cookiepolicydiv"]
 ##DIV[id="cookies-info"]
+##DIV[id="cookie_informer"]
+##DIV[class="cookie_informer"]
 android.com.pl##div[class^="pea_cook_wrapper"]
 archant.co.uk###cookielaw
 b3ta.com###cookiewarn

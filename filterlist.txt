@@ -1,16 +1,16 @@
 [Adblock Plus 1.1]
-! Checksum: 7Igfv/Ej79S+hlhTRIYyZw==
+! Checksum: SL2ye4+uvy5sRY89TiMoEQ==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 22 Dec 2013 06:10 UTC
+! Last Modified: 22 Dec 2013 10:26 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
 !
+###WP-cookie-info
 ###boxZgodaNaCookie
 ###cookieMonsterWrapper
 ###cookiePolicyPopup
 ###fp_cookieMessageContainer
-###WP-cookie-info
 ##.cookieTooltip
 ##div[class^="cookie-alert"]
 ##div[class^="cookie-info"]
@@ -19,7 +19,6 @@
 ##div[id="ciasteczka"]
 ##div[id="cookie-bar"]
 ##div[id="cookie-info"]
-##div[id^="cookie-warning"]
 ##div[id="cookieInfoMsgWrapper"]
 ##div[id="cookieInformerBooklet"]
 ##div[id="cookiePolicyBar"]
@@ -33,6 +32,7 @@
 ##div[id="cookies_information"]
 ##div[id="cookies_policy"]
 ##div[id="pl_cookies"]
+##div[id^="cookie-warning"]
 android.com.pl##div[class^="pea_cook_wrapper"]
 archant.co.uk###cookielaw
 b3ta.com###cookiewarn
@@ -53,8 +53,8 @@ concertolive.co.uk##.divCookieWarning
 cookieControl-*.js.js$script
 cookieControl-*.js?ver=*$script
 cookielawinfo.js?ver=*$script
-cookiewarning.js?ver=*$script
 cookiewarning.css?ver=*
+cookiewarning.js?ver=*$script
 demotywatory.pl##DIV[style^="position: fixed; left:0; right:0; bottom:0"]
 diy.com###cookie-bar
 diy.com###noScriptCookies
@@ -191,6 +191,7 @@ www.filmweb.pl##DIV[class="topBarCont"]
 www.findanyfilm.com##.cc-cookies
 www.gambleaware.co.uk###ccWrappery
 www.gamblingcommission.gov.uk##.cookiedOuter
+www.gettyimages.co.uk/scripts/CookieAlert/CookieAlertBootStrapper.js*$script
 www.gocompare.com##.globalcookiepolicycontainer
 www.google.co.uk###epbar
 www.gov.uk###global-cookie-message
@@ -235,6 +236,7 @@ www.redbull.co.uk##.EUCookiePolicyContainer
 www.redbull.com##.site-message.cookies
 www.rightmove.co.uk###cookiemodalbar
 www.rncm.ac.uk###cookie_warning
+www.roh.org.uk##div.roh-cookies
 www.spotify.com##.notification-bar uk-cookies
 www.star-magazine.co.uk###cookielaw
 www.suttonguardian.co.uk###cookiewarning
@@ -262,6 +264,7 @@ www.virgintrains.co.uk###cookies-fancybox
 www.wagamama.com##div.cookie-box
 www.waitrose.com###topEuCookieAlert
 www.wolframalpha.com###EUCookie
+www.workingmums.co.uk##div.cookie-box
 www.your-move.co.uk###Footer_cookieLawBox
 www.zdnet.com###cookiePolicy
 zumi.pl###cookieView
@@ -269,5 +272,3 @@ zumi.pl###cookieView
 ||assets.cookieconsent.silktide.com^
 ||cookie.gazeta.pl/noScriptCookie.servlet
 ||login.gg.pl/cookies-policy/*/cookie-terms*
-www.roh.org.uk##div.roh-cookies
-www.workingmums.co.uk##div.cookie-box

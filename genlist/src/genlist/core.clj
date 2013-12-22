@@ -18,17 +18,22 @@
          dt-now (str "! Last Modified: " (unparse (formatter "dd MMM yyyy hh:mm z") (now)) "\n")]
     (replace-first in ts-pattern dt-now))) 
 
+(def checksum-regex #"(?i)(?m)^\s*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n")
+
   (defn run
     "Prints md5 of input file"
     [opts]
     (let [input (normalise-string (slurp (:file opts))) 
-          cleaned (update-filter-timestamp (replace-first (normalise-string input) 
-                              #"(?i)(?m)^\s*!\s*checksum[\s\-:]+([\w\+\/=]+).*\n"
-                              ""))
-          checksum (md5-base64 cleaned)]
+          cleaned (update-filter-timestamp
+                   (replace-first (normalise-string input) checksum-regex ""))
+          [header body] (clojure.string/split cleaned #"!\n")
+          rules (sort (clojure.string/split body #"\n"))
+          sorted-rules (clojure.string/join "\n" rules)
+          joined (clojure.string/join "!\n" [header (str sorted-rules "\n")])
+          checksum (md5-base64 joined)]
       (println checksum)
       (spit (:file opts) 
-            (replace-first cleaned "\n" (str "\n! Checksum: " checksum "\n")))))
+            (replace-first joined "\n" (str "\n! Checksum: " checksum "\n")))))
 
   (defn -main
     "I don't do a whole lot."

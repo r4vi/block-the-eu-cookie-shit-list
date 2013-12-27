@@ -106,6 +106,7 @@ merlin.pl##.cookies_policy
 metoffice.gov.uk###EUCookie
 mirror.co.uk###cookieNotification
 moneysavingexpert.com###alertBar
+netto.dk##DIV[id="fdih-cb"]
 news.o2.co.uk###cookiesdirective
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
 newstatesman.com###cookiesdirective

@@ -15,6 +15,7 @@
 ##div[class^="cookie-alert"]
 ##div[class^="cookie-info"]
 ##div[class^="cookie_info"]
+##div[class^="euCookie"]
 ##div[id="catapult-cookie-bar"]
 ##div[id="ciasteczka"]
 ##div[id="cookie-bar"]

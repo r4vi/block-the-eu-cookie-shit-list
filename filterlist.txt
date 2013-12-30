@@ -61,6 +61,7 @@ diy.com###cookie-bar
 diy.com###noScriptCookies
 dobreprogramy.pl###cookies
 dolce-gusto.co.uk###nimgrowler
+dr.dk##DIV[class="dr-cookie-info-box"]
 du8783wkf05yr.cloudfront.net/rbi_uk.js$script
 eastcoast.co.uk##.cookie-message
 ebuyer.com###cookieContainer

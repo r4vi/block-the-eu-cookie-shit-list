@@ -6,6 +6,10 @@
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
 !
+###cookieInformerBooklet
+||cookie-script.com^
+billedbladet.dk###sliding-popup.sliding-popup-bottom
+fcomputer.dk###jumper_cookies
 ###WP-cookie-info
 ###boxZgodaNaCookie
 ###cookieMonsterWrapper

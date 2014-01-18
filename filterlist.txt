@@ -1,17 +1,14 @@
 [Adblock Plus 1.1]
-! Checksum: xCa+Ede4nANdC6rBGtjeTA==
+! Checksum: grNyoEkCuKsp4pTy7IwbhQ==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 16 Jan 2014 06:34 UTC
+! Last Modified: 18 Jan 2014 02:22 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
 !
-###cookieInformerBooklet
-||cookie-script.com^
-billedbladet.dk###sliding-popup.sliding-popup-bottom
-fcomputer.dk###jumper_cookies
 ###WP-cookie-info
 ###boxZgodaNaCookie
+###cookieInformerBooklet
 ###cookieMonsterWrapper
 ###cookiePolicyPopup
 ###fp_cookieMessageContainer
@@ -46,6 +43,7 @@ bbc.co.uk,www.bbc.com###bbccookies
 bbcgoodfood.com###cookie-policy-container
 beatsbydre.com###brand_drawer
 betfair.com##.footer-cookies-policy
+billedbladet.dk###sliding-popup.sliding-popup-bottom
 borsen.dk##.cookie-new
 bt.com###cookieNotification
 ceneo.pl###js_cookie-monster
@@ -81,6 +79,7 @@ eu_cookie_compliance.js*$script
 eurogamer.net###cookie-bar
 eveningnews24.co.uk###cookielaw
 fantasyfootballscout.co.uk###cookie-bar
+fcomputer.dk###jumper_cookies
 fhm.com###bauerCookiePolicy
 ford.co.uk###cookieAlertBoxID
 ft.com###cookie-consent-container
@@ -287,5 +286,6 @@ www.zdnet.com###cookiePolicy
 zumi.pl###cookieView
 ||allegrostatic.pl/js/scripts/cookie-policy-banner$script
 ||assets.cookieconsent.silktide.com^
+||cookie-script.com^
 ||cookie.gazeta.pl/noScriptCookie.servlet
 ||login.gg.pl/cookies-policy/*/cookie-terms*

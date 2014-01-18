@@ -104,6 +104,7 @@ jakilinux.org##DIV[id="cookie-compliance-bottom"]
 jobs.ac.uk##.eucookies
 joemonster.org##DIV[style^="position: fixed; left:0; right:0; bottom:0;"]
 johnredwoodsdiary.com###cc-notification-wrapper
+journalisten.dk###sliding-popup
 jqueryCookieGuard*.js$script
 jv.dk###cookieInfo
 jyllands-posten.dk##.acceptCookiesBox
@@ -137,6 +138,7 @@ polszczyzna.info###cookies
 postcodeanywhere.co.uk###cookie-info-bar
 ppluk.com###wsjpecrga
 premierleague.com###cookies-verify
+proshop.dk##.cc-cookies
 prospectmagazine.co.uk###catapult-cookie-bar
 przegladsportowy.pl###cookies
 rbicookiepolicy-14.js$script
@@ -150,6 +152,7 @@ siepisze.pl##div[class^="pea_cook_wrapper"]
 skapiec.pl###uclaInfo
 sky.com###skycom-cookie-wrapper
 soundonsound.com###cccwr
+stm.dk###AllowCookiesWrapper
 store.lboro.ac.uk##.cc-cookies
 styx-tattoos.co.uk###cookieWrapper
 superfast-openreach.co.uk###cc-notification
@@ -170,6 +173,7 @@ uk.yahoo.com###y-shade
 ukflive.com##.cc-cookies
 uktv.co.uk###cookies-panel
 ups.com###cookieMsg
+uvm.dk##.cookieRestriction.clearfix
 version2.dk##.cookie-accept-overlay.icon-attention
 videojug.com##.cp-alert-message
 vouchercodes.co.uk###cookie-popup

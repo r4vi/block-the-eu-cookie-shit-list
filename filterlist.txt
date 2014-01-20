@@ -1,13 +1,11 @@
 [Adblock Plus 1.1]
-! Checksum: Qq5ieUjgEem2HX+uN51H5w==
+! Checksum: e9vxHk00g6lWwDxzCQ6xZQ==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 18 Jan 2014 10:34 UTC
+! Last Modified: 20 Jan 2014 04:50 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
 !
-boligejer.dk##.eksCookieContainer
-bibob.dk##DIV#fdih-cb
 ###WP-cookie-info
 ###boxZgodaNaCookie
 ###cookieInformerBooklet
@@ -45,7 +43,9 @@ bbc.co.uk,www.bbc.com###bbccookies
 bbcgoodfood.com###cookie-policy-container
 beatsbydre.com###brand_drawer
 betfair.com##.footer-cookies-policy
+bibob.dk##DIV#fdih-cb
 billedbladet.dk###sliding-popup.sliding-popup-bottom
+boligejer.dk##.eksCookieContainer
 borsen.dk##.cookie-new
 bt.com###cookieNotification
 ceneo.pl###js_cookie-monster

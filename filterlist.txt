@@ -165,6 +165,7 @@ stm.dk###AllowCookiesWrapper
 store.lboro.ac.uk##.cc-cookies
 styx-tattoos.co.uk###cookieWrapper
 superfast-openreach.co.uk###cc-notification
+surftown.dk###cookiewarningbox
 t-mobile.pl###cookieInfoWrapper
 techrepublic.com###cookieCont
 telenor.dk###cookiecontainer

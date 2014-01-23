@@ -45,6 +45,7 @@ beatsbydre.com###brand_drawer
 betfair.com##.footer-cookies-policy
 bibob.dk##DIV#fdih-cb
 billedbladet.dk###sliding-popup.sliding-popup-bottom
+bm.dk###CookiePanel
 boligejer.dk##.eksCookieContainer
 borger.dk###CookieLawModalBox
 borsen.dk##.cookie-new
@@ -82,10 +83,12 @@ eu-cookie-directive/script.js$script
 eu_cookie_compliance.js*$script
 eurogamer.net###cookie-bar
 eveningnews24.co.uk###cookielaw
+evm.dk###cookies-acc
 fantasyfootballscout.co.uk###cookie-bar
 fcomputer.dk###jumper_cookies
 fdmbenzinpriser.dk###theCookie
 fhm.com###bauerCookiePolicy
+fm.dk##.cookies
 ford.co.uk###cookieAlertBoxID
 ft.com###cookie-consent-container
 ft.dk###cookieDialog
@@ -118,6 +121,7 @@ kolding.dk###cookieMessageContainer
 landregistry.gov.uk###cookieBar
 last.fm###cookie-law-bar
 lifeboatmarketing.co.uk###id_cookieconsent
+maersk.com##.cookies
 mazowieckie.com.pl###cookie
 mclaren.com###block-cookie-info
 mclarenstore.com##.widget-notifyBar
@@ -153,6 +157,7 @@ przegladsportowy.pl###cookies
 rbicookiepolicy-14.js$script
 rbicookiepolicy.js$script
 road.cc###sliding-popup
+roskilde.dk###sliding-popup
 royalmail.com###block-cookie_policy-0
 santanderbillpayment.co.uk###euPrivacy_control_euPrivacy_cookiesMsg
 sciaga.pl##.cookiespolicy
@@ -179,6 +184,7 @@ tnttorrent.info##DIV[id="cookie_policies"]
 trefor.dk###ctl11_gcDivCookieBanner
 tv2.dk###tv2cookiebar
 twitter.com##.eu-cookie-notice
+ug.dk##.cookieinfo
 uk.virginmoney.com###e-privacy-message
 uk.virginmoneygiving.com###e-privacy-message
 uk.yahoo.com###y-shade
@@ -188,6 +194,7 @@ ups.com###cookieMsg
 uvm.dk##.cookieRestriction.clearfix
 version2.dk##.cookie-accept-overlay.icon-attention
 videojug.com##.cp-alert-message
+visitdenmark.dk###sliding-popup
 vouchercodes.co.uk###cookie-popup
 walkit.com###cookie-notice
 which.co.uk###eprivacy-outer

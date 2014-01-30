@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: /xDhfWk89fjRjdJrbUAC5w==
+! Checksum: RgIKi+nYwkUFG7ApSEKEyw==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 23 Jan 2014 02:09 UTC
+! Last Modified: 30 Jan 2014 10:06 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -219,6 +219,7 @@ www.dawsonera.com##.cc-cookies-container
 www.depesz.com###cookiewarning
 www.diginate.com###cookie-message-container
 www.drinkaware.co.uk##.cookie-check
+www.eastlondonadvertiser.co.uk###cookielaw2
 www.eastmidlandstrains.co.uk##.cookieouter.cookie-policy
 www.economist.com###ec-message-1
 www.economist.com###ec-message-2

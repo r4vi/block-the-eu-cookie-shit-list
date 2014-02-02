@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: lLafTaxozQ7J2+DWEu9N2g==
+! Checksum: bzjQaj7d26U55WOD1VrTKQ==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 02 Feb 2014 09:00 UTC
+! Last Modified: 02 Feb 2014 09:22 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -13,6 +13,8 @@
 ###cookieMonsterWrapper
 ###cookiePolicyPopup
 ###fp_cookieMessageContainer
+##.cc-cookies
+##.cookie-accept-overlay.icon-attention
 ##.cookieTooltip
 ##div[class^="cookie-alert"]
 ##div[class^="cookie-info"]
@@ -36,12 +38,6 @@
 ##div[id="cookies_policy"]
 ##div[id="pl_cookies"]
 ##div[id^="cookie-warning"]
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> d120cd4991b92e1c4213d34d6085235658ca4483
->>>>>>> d120cd4991b92e1c4213d34d6085235658ca4483
 android.com.pl##div[class^="pea_cook_wrapper"]
 archant.co.uk###cookielaw
 b3ta.com###cookiewarn
@@ -52,15 +48,11 @@ beatsbydre.com###brand_drawer
 betfair.com##.footer-cookies-policy
 bibob.dk##DIV#fdih-cb
 bikebuster.dk##.cookiesBlock
-bikebuster.dk##.cookiesBlock
-bilbasen.dk##DIV[style="position: fixed; bottom: 0px; z-index: 10000; padding: 10px 0px; width: 100%; background: none repeat scroll 0% 0% rgb(51, 51, 51); color: rgb(221, 221, 221); text-align: left; box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.2);"]
 bilbasen.dk##DIV[style="position: fixed; bottom: 0px; z-index: 10000; padding: 10px 0px; width: 100%; background: none repeat scroll 0% 0% rgb(51, 51, 51); color: rgb(221, 221, 221); text-align: left; box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.2);"]
 billedbladet.dk###sliding-popup.sliding-popup-bottom
 bl.dk##.cookie-overlay
-bl.dk##.cookie-overlay
 bm.dk###CookiePanel
 boligejer.dk##.eksCookieContainer
-borger.dk##.cookie-banner
 borger.dk##.cookie-banner
 borsen.dk##.cookie-new
 bt.com###cookieNotification
@@ -81,6 +73,7 @@ cookiewarning.js?ver=*$script
 demotywatory.pl##DIV[style^="position: fixed; left:0; right:0; bottom:0"]
 diy.com###cookie-bar
 diy.com###noScriptCookies
+dk##DIV[style="position: fixed; bottom: 0px; z-index: 10000; padding: 10px 0px; width: 100%; background: none repeat scroll 0% 0% rgb(51, 51, 51); color: rgb(221, 221, 221); text-align: left; box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.2);"]
 dobreprogramy.pl###cookies
 dolce-gusto.co.uk###nimgrowler
 dr.dk##DIV[class="dr-cookie-info-box"]
@@ -115,13 +108,13 @@ group.barclays.com###cookiesInitialDialog
 group.barclays.com##.dialogMask
 gry.pl##.m-cookiebar
 guardian.co.uk##.identity-noticebar-content
+guloggratis.dk###cookie_container
 harrys.co.uk/js/toucanCookie.js$script
 hastoe.com###ctl00_CookieMessage1_upCookie
 hp.com###cookie_privacy_holder
 iblanky.co.cc###update
 informahealthcare.com##.overlay
 informahealthcare.com##.popupContainer
-ing.dk##.cookie-accept-overlay.icon-attention
 iopscience.iop.org##.cookies-banner-wrap
 jakilinux.org##DIV[id="cookie-compliance-bottom"]
 jobs.ac.uk##.eucookies
@@ -165,7 +158,6 @@ polszczyzna.info###cookies
 postcodeanywhere.co.uk###cookie-info-bar
 ppluk.com###wsjpecrga
 premierleague.com###cookies-verify
-proshop.dk##.cc-cookies
 prospectmagazine.co.uk###catapult-cookie-bar
 przegladsportowy.pl###cookies
 rbicookiepolicy-14.js$script
@@ -187,7 +179,6 @@ soundonsound.com###cccwr
 stm.dk###AllowCookiesWrapper
 stofa.dk###cookie_popup
 stofa.dk###cookie_popup
-store.lboro.ac.uk##.cc-cookies
 styx-tattoos.co.uk###cookieWrapper
 superfast-openreach.co.uk###cc-notification
 surftown.dk###cookiewarningbox
@@ -203,16 +194,15 @@ thewolseley.com###cookie_policy_banner
 tnttorrent.info##DIV[id="cookie_policies"]
 trefor.dk###ctl11_gcDivCookieBanner
 tv2.dk###tv2cookiebar
+tvtid.tv2.dk###tv2cookiebar
 twitter.com##.eu-cookie-notice
 ug.dk##.cookieinfo
 uk.virginmoney.com###e-privacy-message
 uk.virginmoneygiving.com###e-privacy-message
 uk.yahoo.com###y-shade
-ukflive.com##.cc-cookies
 uktv.co.uk###cookies-panel
 ups.com###cookieMsg
 uvm.dk##.cookieRestriction.clearfix
-version2.dk##.cookie-accept-overlay.icon-attention
 videojug.com##.cp-alert-message
 visitdenmark.dk###sliding-popup
 vouchercodes.co.uk###cookie-popup
@@ -248,7 +238,6 @@ www.express.co.uk###cookielaw
 www.fdm.dk##DIV[id="theCookie"]
 www.fidelity.co.uk###cookieMgn
 www.filmweb.pl##DIV[class="topBarCont"]
-www.findanyfilm.com##.cc-cookies
 www.gambleaware.co.uk###ccWrappery
 www.gamblingcommission.gov.uk##.cookiedOuter
 www.gettyimages.co.uk/scripts/CookieAlert/CookieAlertBootStrapper.js*$script
@@ -310,7 +299,6 @@ www.tesco.com###cp
 www.tfa.net##cccwr
 www.tfl.gov.uk###tfl-cookies
 www.theepinal.co.uk##.pea_cook_wrapper
-www.theeuropeanlibrary.org##.cc-cookies
 www.thesun.co.uk###sun-cookieMessage
 www.theviewfromtheshard.com###cookie_alert
 www.thisislocallondon.co.uk###cookiewarningiframe

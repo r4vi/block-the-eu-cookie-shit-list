@@ -189,6 +189,7 @@ thewolseley.com###cookie_policy_banner
 tnttorrent.info##DIV[id="cookie_policies"]
 trefor.dk###ctl11_gcDivCookieBanner
 tv2.dk###tv2cookiebar
+tvtid.tv2.dk###tv2cookiebar
 twitter.com##.eu-cookie-notice
 ug.dk##.cookieinfo
 uk.virginmoney.com###e-privacy-message

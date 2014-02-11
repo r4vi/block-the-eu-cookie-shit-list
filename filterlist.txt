@@ -236,6 +236,7 @@ www.eastmidlandstrains.co.uk##.cookieouter.cookie-policy
 www.economist.com###ec-message-1
 www.economist.com###ec-message-2
 www.edexcel.com###cookiemsgbox
+www.elgiganten.dk###cookieinfobox
 www.express.co.uk###cookielaw
 www.fdm.dk##DIV[id="theCookie"]
 www.fidelity.co.uk###cookieMgn

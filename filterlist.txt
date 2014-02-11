@@ -66,6 +66,7 @@ clothingattesco.com###tesco_cookie_widget
 cnet.co.uk###cookiePolicy
 computerworld.dk##.cookieAccept
 concertolive.co.uk##.divCookieWarning
+cookie.fdih.dk
 cookieControl-*.js.js$script
 cookieControl-*.js?ver=*$script
 cookielawinfo.js?ver=*$script

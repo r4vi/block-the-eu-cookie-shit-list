@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: ctmRgv/uqcZq8sQCdWtTmA==
+! Checksum: 5dt4/GeUPyfQM+OYlwDTEw==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 16 Mar 2014 05:57 UTC
+! Checksum: x05KwhiPmBd6j9+T4iSr6Q==
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -103,8 +103,10 @@ ft.com###cookie-consent-container
 ft.dk###cookieDialog
 giffgaff.com###cookies-modal
 gizmodo.co.uk###fp_cookieMessageContainer
+glee.co.uk###bf-cookie-notice
 gocompare.com##.CookiePolicyContainer
 goldenline.pl##div[id="topReminder"]
+gov.uk###global-cookie-message
 greatbritishlife.co.uk###cookielaw
 group.barclays.com###cookiesInitialDialog
 group.barclays.com##.dialogMask
@@ -248,6 +250,7 @@ www.google.co.uk###epbar
 www.gov.uk###global-cookie-message
 www.guardian.co.uk##.identity-noticebar
 www.h-online.com###cookie_warning
+www.hmrc.gov.uk###CookieReportsPanel
 www.hsbc.co.uk###cookieBox
 www.hsbc.co.uk##.eucookie_disclaimer
 www.humansinvent.com/*/eu_rp_cookie.js$script

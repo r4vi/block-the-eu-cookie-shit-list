@@ -38,6 +38,7 @@
 ##div[id="cookies_policy"]
 ##div[id="pl_cookies"]
 ##div[id^="cookie-warning"]
+##div[id^="cookieinfobox]
 *.oxfordjournals.org###oupcookiepolicy_message
 android.com.pl##div[class^="pea_cook_wrapper"]
 archant.co.uk###cookielaw
@@ -66,6 +67,7 @@ clothingattesco.com###tesco_cookie_widget
 cnet.co.uk###cookiePolicy
 computerworld.dk##.cookieAccept
 concertolive.co.uk##.divCookieWarning
+cookiebadge*.js?d=$script
 cookieControl-*.js.js$script
 cookieControl-*.js?ver=*$script
 cookielawinfo.js?ver=*$script

@@ -188,7 +188,7 @@ surftown.dk###cookiewarningbox
 t-mobile.pl###cookieInfoWrapper
 techrepublic.com###cookieCont
 telenor.dk###cookiecontainer
-tfl.gov.uk###tfl-cookies
+tfl.gov.uk##.cookie-policy-notice
 thegaragedoorcentre.co.uk###cc-conf
 thehappyegg.co.uk###cccwr
 theregister.co.uk,channelregister.co.uk,reghardware.com###RegCCO
@@ -301,7 +301,7 @@ www.techradar.com###fp_cookieMessageContainer
 www.telepolis.pl##DIV[id="div-cookie-komunikat"][class="komunikat cookies"]
 www.tesco.com###cp
 www.tfa.net##cccwr
-www.tfl.gov.uk###tfl-cookies
+www.tfl.gov.uk##.cookie-policy-notice
 www.theepinal.co.uk##.pea_cook_wrapper
 www.thesun.co.uk###sun-cookieMessage
 www.theviewfromtheshard.com###cookie_alert

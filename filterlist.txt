@@ -15,6 +15,7 @@
 ##.cc-cookies
 ##.cookie-accept-overlay.icon-attention
 ##.cookieTooltip
+##.gn.gn-cookie-alert
 ##div[class^="cookie-alert"]
 ##div[class^="cookie-info"]
 ##div[class^="cookie_info"]
@@ -38,8 +39,12 @@
 ##div[id="pl_cookies"]
 ##div[id^="cookie-warning"]
 *.oxfordjournals.org###oupcookiepolicy_message
+ancestry.co.uk###Banner_cookie_1
+ancestry.co.uk###Banner_50001
 android.com.pl##div[class^="pea_cook_wrapper"]
 archant.co.uk###cookielaw
+archerygb.org###cookiesdirective
+autotrader.co.uk###cookie_alert
 b3ta.com###cookiewarn
 barclaycard.co.uk###cookiesMessageBanner
 bbc.co.uk,www.bbc.com###bbccookies
@@ -58,6 +63,8 @@ borsen.dk##.cookie-new
 bt.com###cookieNotification
 ceneo.pl###js_cookie-monster
 channel4.com,film4.com###cookieNotification
+channel4.com##.cookie-policy-alert
+channel5.com###cookie-notification
 checkmyfile.com###cookieBar
 cineworld.co.uk##.notification.cookie
 classicrockmagazine.com###fp_cookieMessageContainer
@@ -81,6 +88,7 @@ dr.dk##DIV[class="dr-cookie-info-box"]
 du8783wkf05yr.cloudfront.net/rbi_uk.js$script
 eastcoast.co.uk##.cookie-message
 ebuyer.com###cookieContainer
+economist.com###ec-message-7
 edp24.co.uk###cookielaw
 ee.co.uk###cookie-banner
 ee.co.uk###ee-cookies-message
@@ -96,6 +104,8 @@ fantasyfootballscout.co.uk###cookie-bar
 fcomputer.dk###jumper_cookies
 fdmbenzinpriser.dk###theCookie
 fhm.com###bauerCookiePolicy
+findmypast.co.uk###cookie-banner
+findmypast.co.uk###cookie-dropdown
 fm.dk##.cookies
 ford.co.uk###cookieAlertBoxID
 ft.com###cookie-consent-container
@@ -114,11 +124,13 @@ guardian.co.uk##.identity-noticebar-content
 guloggratis.dk###cookie_container
 harrys.co.uk/js/toucanCookie.js$script
 hastoe.com###ctl00_CookieMessage1_upCookie
+healthlottery.co.uk###cookie-banner
 hp.com###cookie_privacy_holder
 iblanky.co.cc###update
 informahealthcare.com##.overlay
 informahealthcare.com##.popupContainer
 iopscience.iop.org##.cookies-banner-wrap
+itv.com###itv-glob-cookie-policy
 jakilinux.org##DIV[id="cookie-compliance-bottom"]
 jobs.ac.uk##.eucookies
 joemonster.org##DIV[style^="position: fixed; left:0; right:0; bottom:0;"]
@@ -146,7 +158,9 @@ news.o2.co.uk###cookiesdirective
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
 newstatesman.com###cookiesdirective
 ofcom.org.uk###cookie-bar
+ok.co.uk###sliding-popup
 oister.dk###cookie-notification
+open.ac.uk##.cookieBanner
 orange.pl###cookiesArticle
 otomoto.pl##.om-cookie-agreement
 ourwatch.org.uk###cookie-policy
@@ -165,9 +179,11 @@ prospectmagazine.co.uk###catapult-cookie-bar
 przegladsportowy.pl###cookies
 rbicookiepolicy-14.js$script
 rbicookiepolicy.js$script
+rightmove.co.uk###cookiemodalbarplaceholder
 road.cc###sliding-popup
 roskilde.dk###sliding-popup
 royalmail.com###block-cookie_policy-0
+samsung.com##.cookie_notice
 santanderbillpayment.co.uk###euPrivacy_control_euPrivacy_cookiesMsg
 sciaga.pl##.cookiespolicy
 seetickets.com##.cookieslaw
@@ -179,6 +195,7 @@ siepisze.pl##div[class^="pea_cook_wrapper"]
 skapiec.pl###uclaInfo
 sky.com###skycom-cookie-wrapper
 soundonsound.com###cccwr
+spotify.com##[data-name="cookieNotice"]
 stm.dk###AllowCookiesWrapper
 stofa.dk###cookie_popup
 stofa.dk###cookie_popup
@@ -195,11 +212,13 @@ theregister.co.uk,channelregister.co.uk,reghardware.com###RegCCO
 thesun.co.uk###sun-cookieMessage
 thewolseley.com###cookie_policy_banner
 tnttorrent.info##DIV[id="cookie_policies"]
+toshiba.co.uk###cookies_container
 trefor.dk###ctl11_gcDivCookieBanner
 tv2.dk###tv2cookiebar
 tvtid.tv2.dk###tv2cookiebar
 twitter.com##.eu-cookie-notice
 ug.dk##.cookieinfo
+uk.eurosport.yahoo.com##.yucs-eprivacy
 uk.virginmoney.com###e-privacy-message
 uk.virginmoneygiving.com###e-privacy-message
 uk.yahoo.com###y-shade
@@ -221,6 +240,7 @@ www.bing.com###thp_notf_div
 www.blockbuster.co.uk##.toast-type-newCookie
 www.blood.co.uk###cookie-warning
 www.brandwatch.com###catapult-cookie-bar
+www.brighton.ac.uk###cookiez
 www.caterersearch.com###rbiCookiePolicy_mainInformation
 www.cavendishonline.co.uk###cookie-compliance
 www.cineworld.co.uk##.notification.cookie.box
@@ -290,7 +310,6 @@ www.redbull.com##.site-message.cookies
 www.rightmove.co.uk###cookiemodalbar
 www.rncm.ac.uk###cookie_warning
 www.roh.org.uk##div.roh-cookies
-www.spotify.com##.notification-bar uk-cookies
 www.star-magazine.co.uk###cookielaw
 www.suttonguardian.co.uk###cookiewarning
 www.t-mobile.co.uk###cookiesMessage
@@ -319,6 +338,7 @@ www.wolframalpha.com###EUCookie
 www.workingmums.co.uk##div.cookie-box
 www.your-move.co.uk###Footer_cookieLawBox
 www.zdnet.com###cookiePolicy
+zoopla.co.uk##.js-cookie-policy
 zumi.pl###cookieView
 ||allegrostatic.pl/js/scripts/cookie-policy-banner$script
 ||assets.cookieconsent.silktide.com^

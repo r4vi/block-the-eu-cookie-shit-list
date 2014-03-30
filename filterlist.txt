@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: eRVgcNAwBjaf/lUMA7pQyQ==
+! Checksum: AngoWSr/K0Aa9VF2AGUaQA==
 ! Title: Block-EU-Cookie-Shit-List
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
@@ -39,8 +39,8 @@
 ##div[id="pl_cookies"]
 ##div[id^="cookie-warning"]
 *.oxfordjournals.org###oupcookiepolicy_message
-ancestry.co.uk###Banner_cookie_1
 ancestry.co.uk###Banner_50001
+ancestry.co.uk###Banner_cookie_1
 android.com.pl##div[class^="pea_cook_wrapper"]
 archant.co.uk###cookielaw
 archerygb.org###cookiesdirective
@@ -62,8 +62,8 @@ borger.dk##.cookie-banner
 borsen.dk##.cookie-new
 bt.com###cookieNotification
 ceneo.pl###js_cookie-monster
-channel4.com,film4.com###cookieNotification
 channel4.com##.cookie-policy-alert
+channel4.com,film4.com###cookieNotification
 channel5.com###cookie-notification
 checkmyfile.com###cookieBar
 cineworld.co.uk##.notification.cookie
@@ -158,8 +158,8 @@ news.o2.co.uk###cookiesdirective
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
 newstatesman.com###cookiesdirective
 ofcom.org.uk###cookie-bar
-ok.co.uk###sliding-popup
 oister.dk###cookie-notification
+ok.co.uk###sliding-popup
 open.ac.uk##.cookieBanner
 orange.pl###cookiesArticle
 otomoto.pl##.om-cookie-agreement

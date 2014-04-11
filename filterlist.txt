@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: eRVgcNAwBjaf/lUMA7pQyQ==
+! Checksum: AmUsRMPgGE4CwygISyEasQ==
 ! Title: Block-EU-Cookie-Shit-List
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
@@ -67,6 +67,7 @@ computerworld.dk##.cookieAccept
 concertolive.co.uk##.divCookieWarning
 cookieControl-*.js.js$script
 cookieControl-*.js?ver=*$script
+cookiebadge.*.js$script
 cookielawinfo.js?ver=*$script
 cookiesamtykke.js$script
 cookiewarning.css?ver=*

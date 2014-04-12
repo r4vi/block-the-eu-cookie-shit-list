@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Checksum: KCOtK85JHmC5ujNwZpzJHQ==
+! Checksum: QSDDC1OnDcMh5FEkXwTqNw==
 ! Title: Block-EU-Cookie-Shit-List
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
@@ -339,6 +339,7 @@ www.wolframalpha.com###EUCookie
 www.workingmums.co.uk##div.cookie-box
 www.your-move.co.uk###Footer_cookieLawBox
 www.zdnet.com###cookiePolicy
+www.zopa.com###cookieNotice
 zoopla.co.uk##.js-cookie-policy
 zumi.pl###cookieView
 ||allegrostatic.pl/js/scripts/cookie-policy-banner$script

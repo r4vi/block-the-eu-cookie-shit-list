@@ -140,7 +140,6 @@ plejada.pl###cookieInfo
 plus.net###cookieBanner
 policy.cookiereports.com
 politiken.dk##DIV[class="cookie-warning-pop"]
-politiken.dk##DIV[class="cookie-warning-pop"]
 polszczyzna.info###cookies
 postcodeanywhere.co.uk###cookie-info-bar
 ppluk.com###wsjpecrga

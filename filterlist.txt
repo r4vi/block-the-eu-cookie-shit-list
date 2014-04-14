@@ -1,6 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: QSDDC1OnDcMh5FEkXwTqNw==
+! Checksum: fLYPZtWJUklc+p4AoleuwQ==
 ! Title: Block-EU-Cookie-Shit-List
+! Last Modified: 14 Apr 2014 08:04 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -16,6 +17,7 @@
 ##.cookie-accept-overlay.icon-attention
 ##.cookieTooltip
 ##.gn.gn-cookie-alert
+##div[class^="cookie-accept-overlay"]
 ##div[class^="cookie-alert"]
 ##div[class^="cookie-info"]
 ##div[class^="cookie_info"]
@@ -67,6 +69,7 @@ channel4.com,film4.com###cookieNotification
 channel5.com###cookie-notification
 checkmyfile.com###cookieBar
 cineworld.co.uk##.notification.cookie
+cisco.com##DIV[id="cookie_informer"][class="cookie_informer"]
 classicrockmagazine.com###fp_cookieMessageContainer
 clothingattesco.com###tesco_cookie_widget
 cnet.co.uk###cookiePolicy
@@ -79,6 +82,7 @@ cookielawinfo.js?ver=*$script
 cookiesamtykke.js$script
 cookiewarning.css?ver=*
 cookiewarning.js?ver=*$script
+cwsummit.dk##DIV[class="cookieAccept"]
 demotywatory.pl##DIV[style^="position: fixed; left:0; right:0; bottom:0"]
 diy.com###cookie-bar
 diy.com###noScriptCookies
@@ -86,13 +90,17 @@ dk##DIV[style="position: fixed; bottom: 0px; z-index: 10000; padding: 10px 0px; 
 dobreprogramy.pl###cookies
 dolce-gusto.co.uk###nimgrowler
 dr.dk##DIV[class="dr-cookie-info-box"]
+dr.dk##DIV[class="dr-cookie-info-box"]
 du8783wkf05yr.cloudfront.net/rbi_uk.js$script
+eamv.dk##DIV[class="cookie"]
 eastcoast.co.uk##.cookie-message
 ebuyer.com###cookieContainer
 economist.com###ec-message-7
 edp24.co.uk###cookielaw
 ee.co.uk###cookie-banner
 ee.co.uk###ee-cookies-message
+ekstrabladet.dk##DIV[class="cookiedisclaimer p10px"]
+elgiganten.dk##DIV[id="cookieinfobox"][class="transbox"]
 empireonline.com###bauerCookiePolicy
 epn.dk##.acceptCookiesBox
 equifax.co.uk###cookieMessageWrapper
@@ -111,6 +119,7 @@ fm.dk##.cookies
 ford.co.uk###cookieAlertBoxID
 ft.com###cookie-consent-container
 ft.dk###cookieDialog
+fullrate.dk##DIV[id="cookiepopup"]
 giffgaff.com###cookies-modal
 gizmodo.co.uk###fp_cookieMessageContainer
 glee.co.uk###bf-cookie-notice
@@ -130,9 +139,13 @@ hp.com###cookie_privacy_holder
 iblanky.co.cc###update
 informahealthcare.com##.overlay
 informahealthcare.com##.popupContainer
+information.dk##DIV[id="block-inf-eu-cookie-cookie-disclaimer"][class="block block-inf-eu-cookie block-cookie-disclaimer block-inf-eu-cookie-cookie-disclaimer even block-without-title"]
+ing.dk##DIV[class^="cookie-accept-overlay"]
 iopscience.iop.org##.cookies-banner-wrap
 itv.com###itv-glob-cookie-policy
 jakilinux.org##DIV[id="cookie-compliance-bottom"]
+jobfinder.dk##DIV[class^="cookie-accept-overlay"]
+jobindex.dk##DIV[class="jix_acceptcookies_box"]
 jobs.ac.uk##.eucookies
 joemonster.org##DIV[style^="position: fixed; left:0; right:0; bottom:0;"]
 johnredwoodsdiary.com###cc-notification-wrapper
@@ -141,6 +154,7 @@ jqueryCookieGuard*.js$script
 jv.dk###cookieInfo
 jyllands-posten.dk##.acceptCookiesBox
 kolding.dk###cookieMessageContainer
+ku.dk##DIV[id="cookie_box"]
 landregistry.gov.uk###cookieBar
 last.fm###cookie-law-bar
 lifeboatmarketing.co.uk###id_cookieconsent
@@ -154,10 +168,13 @@ metoffice.gov.uk###EUCookie
 mirror.co.uk###cookieNotification
 mobildebat.dk###cookies_info_header
 moneysavingexpert.com###alertBar
+ncrm.ac.uk##DIV[class="cc-cookies "]
 netto.dk##DIV[id="fdih-cb"]
 news.o2.co.uk###cookiesdirective
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
 newstatesman.com###cookiesdirective
+nyhederne.tv2.dk##FORM[id="tv2cookiebar"]
+ocd.about.com##DIV[id="cookie_banner_container"]
 ofcom.org.uk###cookie-bar
 oister.dk###cookie-notification
 ok.co.uk###sliding-popup
@@ -189,19 +206,23 @@ santanderbillpayment.co.uk###euPrivacy_control_euPrivacy_cookiesMsg
 sciaga.pl##.cookiespolicy
 seetickets.com##.cookieslaw
 shell.dk###cookie_info
-shell.dk###cookie_info
-shell.dk##.parbase.basecomponent.truste
 shell.dk##.parbase.basecomponent.truste
 siepisze.pl##div[class^="pea_cook_wrapper"]
 skapiec.pl###uclaInfo
+skat.dk##.cookieouter
 sky.com###skycom-cookie-wrapper
 soundonsound.com###cccwr
 spotify.com##[data-name="cookieNotice"]
+ssi.dk##DIV[class="szc_info szc_switch_table szc_round szc_pos_lb"]
 stm.dk###AllowCookiesWrapper
 stofa.dk###cookie_popup
 stofa.dk###cookie_popup
+store.lboro.ac.uk##.cc-cookies
+styx-tattoos.co.uk###cookieWrapper
 styx-tattoos.co.uk###cookieWrapper
 superfast-openreach.co.uk###cc-notification
+superfast-openreach.co.uk###cc-notification
+support.microsoft.com##DIV[class="euCookie"]
 surftown.dk###cookiewarningbox
 t-mobile.pl###cookieInfoWrapper
 techrepublic.com###cookieCont
@@ -212,6 +233,7 @@ thehappyegg.co.uk###cccwr
 theregister.co.uk,channelregister.co.uk,reghardware.com###RegCCO
 thesun.co.uk###sun-cookieMessage
 thewolseley.com###cookie_policy_banner
+tilbudonline.dk##DIV[id="cookieInformerBooklet"]
 tnttorrent.info##DIV[id="cookie_policies"]
 toshiba.co.uk###cookies_container
 trefor.dk###ctl11_gcDivCookieBanner
@@ -226,6 +248,8 @@ uk.yahoo.com###y-shade
 uktv.co.uk###cookies-panel
 ups.com###cookieMsg
 uvm.dk##.cookieRestriction.clearfix
+version2.dk##DIV[class^="cookie-accept-overlay"]
+vesterkopi.dk##DIV[id="ccm"]
 videojug.com##.cp-alert-message
 visitdenmark.dk###sliding-popup
 vouchercodes.co.uk###cookie-popup

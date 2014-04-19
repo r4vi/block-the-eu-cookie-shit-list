@@ -1,28 +1,19 @@
 [Adblock Plus 1.1]
-! Checksum: fLYPZtWJUklc+p4AoleuwQ==
+! Checksum: 4OspM2GGqTaHQz31U/db6g==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 14 Apr 2014 08:04 UTC
+! Last Modified: 19 Apr 2014 01:47 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
 !
-##.acceptCookiesBox
-##.cc-cookies
-##.cookie-accept-overlay.icon-attention
-##.cookieBanner
-##.cookies
-##.cookieTooltip
-##.gn.gn-cookie-alert
+###EUCookie
+###WP-cookie-info
 ###bauerCookiePolicy
 ###boxZgodaNaCookie
 ###catapult-cookie-bar
 ###cccwr
 ###ciasteczka
 ###cookie
-###cookie_alert
-###cookie_info
-###cookie_informer
-###cookie_warning
 ###cookie-banner
 ###cookie-bar
 ###cookie-info
@@ -33,43 +24,47 @@
 ###cookieInfo
 ###cookieInfoMsgWrapper
 ###cookieInformerBooklet
-###cookielaw
 ###cookieMonsterWrapper
 ###cookieNotification
 ###cookiePolicy
 ###cookiePolicyBar
-###cookiepolicydiv
 ###cookiePolicyPopup
+###cookie_alert
+###cookie_info
+###cookie_informer
+###cookie_warning
+###cookielaw
+###cookiepolicydiv
 ###cookies
-###cookies_in
-###cookies_information
-###cookies_policy
 ###cookies-agreement-box
 ###cookies-info
 ###cookies-panel
 ###cookiesBar
-###cookiesdirective
 ###cookiesPolicy
+###cookies_in
+###cookies_information
+###cookies_policy
+###cookiesdirective
 ###cookiewarning
 ###e-privacy-message
-###EUCookie
 ###fdih-cb
 ###fp_cookieMessageContainer
 ###pl_cookies
 ###theCookie
-###WP-cookie-info
+##.acceptCookiesBox
+##.cc-cookies
+##.cookie-accept-overlay.icon-attention
+##.cookieBanner
+##.cookieTooltip
+##.cookies
+##.gn.gn-cookie-alert
 ##div.cookie-box
-##div[class^="cookie_info"]
 ##div[class^="cookie-accept-overlay"]
 ##div[class^="cookie-alert"]
 ##div[class^="cookie-info"]
+##div[class^="cookie_info"]
 ##div[class^="euCookie"]
 ##div[class^="pea_cook_wrapper"]
-||allegrostatic.pl/js/scripts/cookie-policy-banner$script
-||assets.cookieconsent.silktide.com^
-||cookie-script.com^
-||cookie.gazeta.pl/noScriptCookie.servlet
-||login.gg.pl/cookies-policy/*/cookie-terms*
 ancestry.co.uk###Banner_50001
 ancestry.co.uk###Banner_cookie_1
 b3ta.com###cookiewarn
@@ -79,6 +74,7 @@ bbcgoodfood.com###cookie-policy-container
 beatsbydre.com###brand_drawer
 betfair.com##.footer-cookies-policy
 bikebuster.dk##.cookiesBlock
+bilbasen.dk##DIV[style="position: fixed; bottom: 0px; z-index: 10000; padding: 10px 0px; width: 100%; background: none repeat scroll 0% 0% rgb(51, 51, 51); color: rgb(221, 221, 221); text-align: left; box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.2);"]
 billedbladet.dk###sliding-popup.sliding-popup-bottom
 bl.dk##.cookie-overlay
 bm.dk###CookiePanel
@@ -91,9 +87,9 @@ cineworld.co.uk##.notification.cookie
 clothingattesco.com###tesco_cookie_widget
 computerworld.dk##.cookieAccept
 concertolive.co.uk##.divCookieWarning
-cookiebadge.*.js$script
-cookieControl-*.js?ver=*$script
 cookieControl-*.js.js$script
+cookieControl-*.js?ver=*$script
+cookiebadge.*.js$script
 cookielawinfo.js?ver=*$script
 cookiesamtykke.js$script
 cookiewarning.css?ver=*
@@ -101,7 +97,6 @@ cookiewarning.js?ver=*$script
 cwsummit.dk##DIV[class="cookieAccept"]
 demotywatory.pl##DIV[style^="position: fixed; left:0; right:0; bottom:0"]
 diy.com###noScriptCookies
-bilbasen.dk##DIV[style="position: fixed; bottom: 0px; z-index: 10000; padding: 10px 0px; width: 100%; background: none repeat scroll 0% 0% rgb(51, 51, 51); color: rgb(221, 221, 221); text-align: left; box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.2);"]
 dolce-gusto.co.uk###nimgrowler
 dr.dk##DIV[class="dr-cookie-info-box"]
 du8783wkf05yr.cloudfront.net/rbi_uk.js$script
@@ -113,8 +108,8 @@ ee.co.uk###ee-cookies-message
 ekstrabladet.dk##DIV[class="cookiedisclaimer p10px"]
 elgiganten.dk###cookieinfobox
 equifax.co.uk###cookieMessageWrapper
-eu_cookie_compliance.js*$script
 eu-cookie-directive/script.js$script
+eu_cookie_compliance.js*$script
 evm.dk###cookies-acc
 fcomputer.dk###jumper_cookies
 findmypast.co.uk###cookie-dropdown
@@ -127,8 +122,8 @@ glee.co.uk###bf-cookie-notice
 gocompare.com##.CookiePolicyContainer
 goldenline.pl###topReminder
 gov.uk###global-cookie-message
-group.barclays.com##.dialogMask
 group.barclays.com###cookiesInitialDialog
+group.barclays.com##.dialogMask
 gry.pl##.m-cookiebar
 guardian.co.uk##.identity-noticebar-content
 guloggratis.dk###cookie_container
@@ -243,8 +238,8 @@ www.gocompare.com##.globalcookiepolicycontainer
 www.google.co.uk###epbar
 www.guardian.co.uk##.identity-noticebar
 www.hmrc.gov.uk###CookieReportsPanel
-www.hsbc.co.uk##.eucookie_disclaimer
 www.hsbc.co.uk###cookieBox
+www.hsbc.co.uk##.eucookie_disclaimer
 www.humansinvent.com/*/eu_rp_cookie.js$script
 www.ico.gov.uk###banner
 www.joomla.pl###panel_cookie_dol
@@ -286,3 +281,8 @@ www.your-move.co.uk###Footer_cookieLawBox
 www.zopa.com###cookieNotice
 zoopla.co.uk##.js-cookie-policy
 zumi.pl###cookieView
+||allegrostatic.pl/js/scripts/cookie-policy-banner$script
+||assets.cookieconsent.silktide.com^
+||cookie-script.com^
+||cookie.gazeta.pl/noScriptCookie.servlet
+||login.gg.pl/cookies-policy/*/cookie-terms*

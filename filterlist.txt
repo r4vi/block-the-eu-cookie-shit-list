@@ -101,7 +101,7 @@ cookiewarning.js?ver=*$script
 cwsummit.dk##DIV[class="cookieAccept"]
 demotywatory.pl##DIV[style^="position: fixed; left:0; right:0; bottom:0"]
 diy.com###noScriptCookies
-dk##DIV[style="position: fixed; bottom: 0px; z-index: 10000; padding: 10px 0px; width: 100%; background: none repeat scroll 0% 0% rgb(51, 51, 51); color: rgb(221, 221, 221); text-align: left; box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.2);"]
+bilbasen.dk##DIV[style="position: fixed; bottom: 0px; z-index: 10000; padding: 10px 0px; width: 100%; background: none repeat scroll 0% 0% rgb(51, 51, 51); color: rgb(221, 221, 221); text-align: left; box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.2);"]
 dolce-gusto.co.uk###nimgrowler
 dr.dk##DIV[class="dr-cookie-info-box"]
 du8783wkf05yr.cloudfront.net/rbi_uk.js$script

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: NQjdrHI4l61cecWAR09mBg==
+! Checksum: cP11hXLwMTKcSmlZTiMLrw==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 26 Apr 2014 10:38 UTC
+! Last Modified: 26 Apr 2014 10:40 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -264,6 +264,7 @@ www.rail-reg.gov.uk###CookieQBanner
 www.redbull.co.uk##.EUCookiePolicyContainer
 www.rightmove.co.uk###cookiemodalbar
 www.roh.org.uk##div.roh-cookies
+www.rspb.org.uk###cookie-message
 www.t-mobile.co.uk###cookiesMessage
 www.taylorwessing.com###twCookieConsent
 www.tbicardiffairport.com###cookielightbox

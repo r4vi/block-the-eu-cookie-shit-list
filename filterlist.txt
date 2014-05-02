@@ -555,3 +555,7 @@ zumi.pl###cookieView
 ||m1mjd9in5z2.cloudfront.net/widget.js
 ||myinterrail.co.uk/shared_files/clientscripts/cms/cookie_alert1.js$script
 ||wkd.com.pl/cookies/cookies.js$script
+
+###permission-bar
+kino.dk###cookie-info-bar
+trustpilot.dk##div[class^="cookie-bar w hide"]

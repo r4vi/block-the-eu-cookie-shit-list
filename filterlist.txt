@@ -1,11 +1,12 @@
 [Adblock Plus 1.1]
-! Checksum: 9A6H/oyJrTPp9Wxvs1Tzww==
+! Checksum: vOvzAgHBfwme9lSLgsgQDg==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 26 Apr 2014 11:06 UTC
+! Last Modified: 03 May 2014 01:27 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
 !
+
 ###EUCookie
 ###WP-cookie-info
 ###bauerCookiePolicy
@@ -54,6 +55,7 @@
 ###fdih-cb
 ###fp_cookieMessageContainer
 ###npo_cc_notification_wrapper
+###permission-bar
 ###pl_cookies
 ###theCookie
 ##.acceptCookiesBox
@@ -248,6 +250,7 @@ jqueryCookieGuard*.js$script
 jrf.org.uk###cookieconsent
 juce.com###sliding-popup
 kingston.ac.uk###site-wide-cookie-message
+kino.dk###cookie-info-bar
 kolding.dk###cookieMessageContainer
 ku.dk###cookie_box
 last.fm###cookie-law-bar
@@ -384,6 +387,7 @@ toshiba.co.uk###cookies_container
 totalmoney.pl###right_widget
 travelsupermarket.com###cookieDirective
 trefor.dk###ctl11_gcDivCookieBanner
+trustpilot.dk##div[class^="cookie-bar w hide"]
 tv2.dk###tv2cookiebar
 tvp.pl###cookieControl
 twitter.com##.eu-cookie-notice
@@ -422,7 +426,3 @@ zumi.pl###cookieView
 ||m1mjd9in5z2.cloudfront.net/widget.js
 ||myinterrail.co.uk/shared_files/clientscripts/cms/cookie_alert1.js$script
 ||wkd.com.pl/cookies/cookies.js$script
-
-###permission-bar
-kino.dk###cookie-info-bar
-trustpilot.dk##div[class^="cookie-bar w hide"]

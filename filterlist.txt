@@ -1,12 +1,11 @@
 [Adblock Plus 1.1]
-! Checksum: MvXq/boihpHZXfd/xnYGoQ==
+! Checksum: 2i+g070USVrsRtnob6A6Sg==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 11 May 2014 11:05 UTC
+! Last Modified: 11 May 2014 01:25 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
 !
-
 ###EUCookie
 ###WP-cookie-info
 ###bauerCookiePolicy
@@ -144,6 +143,7 @@ cwsummit.dk##DIV[class="cookieAccept"]
 data.gov.uk###sliding-popup
 davidlloyd.co.uk###home-cookie2
 dawsonera.com##.cc-cookies-container
+dba.dk##DIV[style="position: fixed; bottom: 0px; z-index: 10000; padding: 10px 0px; width: 100%; background-color: rgb(51, 51, 51); color: rgb(221, 221, 221); text-align: left; box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 3px 2px; background-position: initial initial; background-repeat: initial initial;"]
 delo.si/assets/delo_v3/notice/js/script.js$script
 demotywatory.pl##DIV[style^="position: fixed; left:0; right:0; bottom:0"]
 diabetes.org.uk###policyPopup
@@ -427,5 +427,3 @@ zumi.pl###cookieView
 ||m1mjd9in5z2.cloudfront.net/widget.js
 ||myinterrail.co.uk/shared_files/clientscripts/cms/cookie_alert1.js$script
 ||wkd.com.pl/cookies/cookies.js$script
-
-dba.dk##DIV[style="position: fixed; bottom: 0px; z-index: 10000; padding: 10px 0px; width: 100%; background-color: rgb(51, 51, 51); color: rgb(221, 221, 221); text-align: left; box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 3px 2px; background-position: initial initial; background-repeat: initial initial;"]

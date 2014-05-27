@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: fnoYGYsL4wKs/rHf6xbg4Q==
+! Checksum: +zj9SaOXyxLIvxgTfD8HxA==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 27 May 2014 05:25 UTC
+! Last Modified: 27 May 2014 07:13 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -320,6 +320,7 @@ royalmail.com###block-cookie_policy-0
 royalnavy.mod.uk###cookies-notice
 rs-online.com##.cookieMessageDiv
 rspb.org.uk###cookie-message
+thetimes.co.uk###tto-cookieMessage
 twitter.com##.eu-cookie-notice
 ||codehousegroup.com/js/libs/cookie-check.js
 ||crownpaint.co.uk/scripts/crown/cookiesPopup.js

@@ -212,6 +212,7 @@ edexcel.com###cookiemsgbox
 ee.co.uk###ee-cookies-message
 ekstrabladet.dk##.cookiedisclaimer
 elgiganten.dk###cookieinfobox
+elgiganten.dk##.cookie-info-layer
 elgiganten.dk##.transbox
 elpais.com###capaAvisoPoliticaCookies_superior_mensajes
 ennaranja.com##.cookies-overlay

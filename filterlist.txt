@@ -491,3 +491,13 @@ zumi.pl###cookieView
 ||mnhn.fr/fr/cookie-eu/
 ||myinterrail.co.uk/shared_files/clientscripts/cms/cookie_alert1.js$script
 ||wkd.com.pl/cookies/cookies.js$script
+
+dba.dk##DIV[style^="position: fixed; bottom: 0px; z-index: 10000;"]
+bilbasen.dk##DIV[style^="position: fixed; bottom: 0px; z-index: 10000;"]
+computerworld.dk###rolloverBanner
+dr.dk##DIV[class="cookie-info-box"]
+nyhederne.tv2.dk###tv2cookiebar
+3.dk##[class="tre-cookie-disclaimer"]
+rejsekort.dk##[class="CookieWarning"]
+nemid.nu##[class="cookie_optin_box"]
+skat.dk##[class="cookieMaster navbar-default navbar-fixed-bottom"]

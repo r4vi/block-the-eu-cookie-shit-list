@@ -1,11 +1,12 @@
 [Adblock Plus 1.1]
-! Checksum: iHYNMziDXbkyTcfRgLlhvA==
+! Checksum: hA8shHTVlSbTxajpksIuvQ==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 13 Jun 2014 08:49 UTC
+! Last Modified: 01 Jul 2014 09:43 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
 !
+
 ###EUCookie
 ###WP-cookie-info
 ###bauerCookiePolicy
@@ -131,6 +132,7 @@
 /jquery.cookiecuttr.js$script
 /wp-content/plugins/eu-cookie-law/*$script
 20minutes.fr###CNIL-notice
+3.dk##[class="tre-cookie-disclaimer"]
 3vprepaid.com###cookie-container
 abbeyroad.com###cookie-overlay-footer
 about.com###cookie_banner_container
@@ -161,6 +163,7 @@ betfair.com##.footer-cookies-policy
 bibliotek.dk##.popup-content
 bikebuster.dk##.cookiesBlock
 bilbasen.dk##DIV[style="position: fixed; bottom: 0px; z-index: 10000; padding: 10px 0px; width: 100%; background: none repeat scroll 0% 0% rgb(51, 51, 51); color: rgb(221, 221, 221); text-align: left; box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.2);"]
+bilbasen.dk##DIV[style^="position: fixed; bottom: 0px; z-index: 10000;"]
 bing.com###thp_notf_div
 bl.dk##.cookie-overlay
 blitz-cinestar.hr##div#cookie-inner-wrapper
@@ -187,11 +190,13 @@ codehousegroup.com/js/libs/cookie-check.js$script
 cofunds.co.uk##.idrPageRow[style^="min-height:0;height:auto;padding:0;position:relative;z-index:1;zoom:1;border:none;"]
 coinc.es###divCookie
 comixology.fr###cookieAcknowledgement
+computerworld.dk###rolloverBanner
 concertolive.co.uk##.divCookieWarning
 crucial.com##.cookieInfo
 davidlloyd.co.uk###home-cookie2
 dawsonera.com##.cc-cookies-container
 dba.dk##DIV[style="position: fixed; bottom: 0px; z-index: 10000; padding: 10px 0px; width: 100%; background-color: rgb(51, 51, 51); color: rgb(221, 221, 221); text-align: left; box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 3px 2px; background-position: initial initial; background-repeat: initial initial;"]
+dba.dk##DIV[style^="position: fixed; bottom: 0px; z-index: 10000;"]
 degulesider.dk##.cookies-info
 demotywatory.pl##DIV[style^="position: fixed; left:0; right:0; bottom:0"]
 diabetes.org.uk###policyPopup
@@ -200,6 +205,7 @@ diy.com###noScriptCookies
 dolce-gusto.co.uk###nimgrowler
 dr.dk##.dr-cookie-info-box
 dr.dk##.dr-infobox
+dr.dk##DIV[class="cookie-info-box"]
 drinkaware.co.uk##.cookie-check
 drive24.co.uk###cookieHeader
 duf.dk##.tx-tc-cookie
@@ -328,6 +334,7 @@ monster.co.uk###intMsgCookies
 mp.dk##.alert.alert-block.alert-info.fade.in
 nationwide.co.uk###cn
 natwest.com###EUDirectiveCookiePanel
+nemid.nu##[class="cookie_optin_box"]
 nerc.ac.uk###cookieConsent
 netapp.com###cboxOverlay
 netapp.com###colorbox
@@ -336,6 +343,7 @@ networkrail.co.uk##.CookieNotification
 newscientist.com###rbiCookiePolicy_pushDownBoxWrapper
 nouvelobs.com##DIV[style="text-align:left;width:550px;background-color:#feefaa;padding:10px;font:12px Arial;position:absolute;z-index:50;undefined"]
 nrc.nl##.cookiemonster
+nyhederne.tv2.dk###tv2cookiebar
 ofqual.gov.uk###cookiemsg
 olvg.nl###cc
 onlive.co.uk##.top_message
@@ -378,6 +386,7 @@ rbicookiepolicy-14.js$script
 rbicookiepolicy.js$script
 redbull.co.uk##.EUCookiePolicyContainer
 reed.co.uk##.notification
+rejsekort.dk##[class="CookieWarning"]
 rejseplanen.dk###cookieInfoBox
 rightmove.co.uk###cookiemodalbar
 rightmove.co.uk###cookiemodalbarplaceholder
@@ -397,6 +406,7 @@ sgs.com##.sgsCookies
 siepisze.pl##div[class^="pea_cook_wrapper"]
 simyo.es##.cookieAsker
 skapiec.pl###uclaInfo
+skat.dk##[class="cookieMaster navbar-default navbar-fixed-bottom"]
 sky.com###skycom-cookie-wrapper
 skynet.be###cookieAlert
 soundcloud.com##.announcement

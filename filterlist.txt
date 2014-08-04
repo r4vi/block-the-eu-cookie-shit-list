@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 7jeNFJ9Sh+uFa2qpr0hM8Q==
+! Checksum: 88vmLIj4rGXWHEBQfkZjLQ==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 03 Aug 2014 08:02 UTC
+! Last Modified: 04 Aug 2014 05:46 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -46,6 +46,7 @@
 ###cookieInformerBooklet
 ###cookieLaw
 ###cookieMessage
+###cookieMessageContainer
 ###cookieMessageWrapper
 ###cookieMonsterWrapper
 ###cookieNotice
@@ -143,6 +144,7 @@
 ##.cookies
 ##.cookies-notification
 ##.cookies-popup
+##.epson_cookienotice
 ##.eu-cookie-notice
 ##.euCookie
 ##.future-cookie-bar
@@ -237,6 +239,7 @@ cookie-notifications.1380812774.js$script
 crucial.com##.cookieInfo
 davidlloyd.co.uk###home-cookie2
 dawsonera.com##.cc-cookies-container
+dba.dk,bilbasen.dk##DIV[style^="position: fixed; bottom: 0px; z-index: 10000;"]
 debenhams.com###debCNinfo
 degulesider.dk##.cookies-info
 demotywatory.pl##DIV[style^="position: fixed; left:0; right:0; bottom:0"]
@@ -263,7 +266,6 @@ elgiganten.dk##.transbox
 elpais.com###capaAvisoPoliticaCookies_superior_mensajes
 en.valenciacf.com###cookies_ask
 ennaranja.com##.cookies-overlay
-##.epson_cookienotice
 esbe.eu##.header-cookie-content
 eu-cookie-directive/script.js
 eu_cookie_compliance.js*$script
@@ -297,6 +299,8 @@ glee.co.uk###bf-cookie-notice
 gocompare.com##.CookiePolicyContainer
 gocompare.com##.globalcookiepolicycontainer
 goldenline.pl###topReminder
+google.com##[class="gb_hb gb_kb gb_xa"]
+google.com##[class="gb_ib gb_lb gb_ya"]
 google.dk##.fbar
 gosc.pl##div[style^="border: 10px solid rgb(138, 138, 138);"]
 gov.uk###global-cookie-message
@@ -349,7 +353,6 @@ jqueryCookieGuard*.js$script
 jrf.org.uk###cookieconsent
 kingston.ac.uk###site-wide-cookie-message
 knaufdanoline.fr###pronamic_cookie_holder
-###cookieMessageContainer
 ku.dk###cookie_box
 lab-project.net##.activebar-container
 lastminute.com##.cookieBox
@@ -427,6 +430,7 @@ pinkladyapples.co.uk###banner-wrapper
 pirateparty.org.uk###confirmCookiePolicy
 piret.be##.divCookiePopUpContainer
 play.google.com##.app-translation-bar
+plesner.com###wt-cookie-box
 policy.cookiereports.com
 politics.co.uk###cookieConsentBar
 politiken.dk##.cookie-warning
@@ -472,9 +476,11 @@ shropshirestar.com##.inner
 siepisze.pl##div[class^="pea_cook_wrapper"]
 simyo.es##.cookieAsker
 skapiec.pl###uclaInfo
+skat.dk##.cookieMaster
 skipton.co.uk###AlertCookieBanner
 sky.com###skycom-cookie-wrapper
 skynet.be###cookieAlert
+smartbox.dk###cookiePopin
 soundcloud.com##.announcement
 spotify.com###js-message-notice[data-name="cookieNotice"]
 spotify.com##.notification-bar uk-cookies
@@ -574,9 +580,3 @@ zumi.pl###cookieView
 ||mnhn.fr/fr/cookie-eu/
 ||myinterrail.co.uk/shared_files/clientscripts/cms/cookie_alert1.js$script
 ||wkd.com.pl/cookies/cookies.js$script
-dba.dk,bilbasen.dk##DIV[style^="position: fixed; bottom: 0px; z-index: 10000;"]
-skat.dk##.cookieMaster
-plesner.com###wt-cookie-box
-smartbox.dk###cookiePopin
-google.com##[class="gb_ib gb_lb gb_ya"]
-google.com##[class="gb_hb gb_kb gb_xa"]

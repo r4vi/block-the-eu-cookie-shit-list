@@ -1,11 +1,15 @@
 [Adblock Plus 1.1]
-! Checksum: 88vmLIj4rGXWHEBQfkZjLQ==
+! Checksum: ci9Lksd0kcouW9cLpK7afQ==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 04 Aug 2014 05:46 UTC
+! Last Modified: 15 Sep 2014 04:23 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
 !
+###CookieFrame
+###CookieInfo
+###EUCookie
+###WP-cookie-info
 ###bauerCookiePolicy
 ###boxZgodaNaCookie
 ###ca_banner
@@ -17,15 +21,6 @@
 ###ccm-banner-wrap
 ###ciasteczka
 ###cookie
-###cookie_alert
-###cookie_bar_top
-###cookie_disclaimer
-###cookie_info
-###cookie_informer
-###cookie_modal
-###cookie_notice
-###cookie_privacy_info_bar
-###cookie_warning
 ###cookie-banner
 ###cookie-bar
 ###cookie-consent
@@ -42,21 +37,14 @@
 ###cookie-policy
 ###cookie-policy-banner
 ###cookie-warning
-###cookiealert
 ###cookieBanner
-###cookiebanner
 ###cookieBar
-###cookiebar
 ###cookieConsentWrapper
 ###cookieContainer
-###CookieFrame
-###CookieInfo
 ###cookieInfo
 ###cookieInfoMsgWrapper
 ###cookieInformerBooklet
 ###cookieLaw
-###cookielaw
-###cookielaw2
 ###cookieMessage
 ###cookieMessageContainer
 ###cookieMessageWrapper
@@ -67,32 +55,45 @@
 ###cookiePane
 ###cookiePolicy
 ###cookiePolicyBar
-###cookiepolicydiv
 ###cookiePolicyPopup
+###cookieWarning
+###cookieWrapper
+###cookie_alert
+###cookie_bar_top
+###cookie_disclaimer
+###cookie_info
+###cookie_informer
+###cookie_modal
+###cookie_notice
+###cookie_privacy_info_bar
+###cookie_warning
+###cookiealert
+###cookiebanner
+###cookiebar
+###cookielaw
+###cookielaw2
+###cookiepolicydiv
 ###cookies
-###cookies_in
-###cookies_information
-###cookies_policy
 ###cookies-agreement-box
 ###cookies-info
 ###cookies-panel
 ###cookies-policy
 ###cookies-popup
 ###cookiesBar
+###cookiesPolicy
+###cookies_in
+###cookies_information
+###cookies_policy
 ###cookiescript_injected
 ###cookiesdirective
-###cookiesPolicy
 ###cookiestatement
-###cookieWarning
 ###cookiewarning
-###cookieWrapper
 ###e-privacy-message
 ###epbar
 ###eu-cookie-bar-notification
-###eucookie
-###EUCookie
-###eucookielaw
 ###euCookiesQuestion
+###eucookie
+###eucookielaw
 ###fdih-cb
 ###fp_cookieMessageContainer
 ###gn-cookie-accept
@@ -110,15 +111,11 @@
 ###theCookie
 ###tto-cookieMessage
 ###usrConsent
-###WP-cookie-info
+##.CookieLawPnl
 ##.acceptCookiesBox
 ##.cc-cookies
 ##.ccmcss_oic
 ##.cookie
-##.cookie_bar
-##.cookie_info
-##.cookie_notice
-##.cookie_privacy_info_bar
 ##.cookie-accept-overlay
 ##.cookie-alert
 ##.cookie-bar
@@ -130,20 +127,23 @@
 ##.cookie-wrapper
 ##.cookieAccept
 ##.cookieBanner
+##.cookieConsent
+##.cookieControl
+##.cookiePolicy
+##.cookieTooltip
+##.cookie_bar
+##.cookie_info
+##.cookie_notice
+##.cookie_privacy_info_bar
 ##.cookiebanner
 ##.cookiebar
-##.cookieConsent
 ##.cookieconsent-popup
-##.cookieControl
 ##.cookielaw
-##.CookieLawPnl
 ##.cookiemessage
-##.cookiePolicy
 ##.cookiepolicy
 ##.cookies
 ##.cookies-notification
 ##.cookies-popup
-##.cookieTooltip
 ##.epson_cookienotice
 ##.eu-cookie-notice
 ##.euCookie
@@ -155,9 +155,9 @@
 /assets.cookieconsent.silktide.com/*$script
 /cookie.debug.js$script
 /cookie.debug.min.js$script
-/cookiebadge.*.js$script
 /cookieCompliance.js$script
 /cookieControl-*.js$script
+/cookiebadge.*.js$script
 /cookiecuttr.css$script
 /cookielawinfo.js?ver=$script
 /cookiesamtykke.js$script
@@ -184,8 +184,8 @@ area-codes.org.uk###wsjconsent
 arla.dk##.cookie-popup__content
 arla.dk##.cookie-popup__heading
 asda.com###FT_Cookies
-atman.pl##.polityka-cookie
 atman.pl###gbpl_oba
+atman.pl##.polityka-cookie
 audion.com###cc-cookies
 b3ta.com###cookiewarn
 banknordik.dk###cookieWarningDiv
@@ -193,10 +193,10 @@ bankofengland.co.uk##.container-notifications
 barclaycard.co.uk###cookiesMessageBanner
 barclays.co.uk##P.otm
 bbc.co.uk,bbc.com###bbccookies
-bbcgoodfood.com##.cookie-law
 bbcgoodfood.com###cookie-policy-container
-beatsbydre.com##.brand_drawer
+bbcgoodfood.com##.cookie-law
 beatsbydre.com###brand_drawer
+beatsbydre.com##.brand_drawer
 belkin.com##.pb-copy
 berubambi.hr##div#cookieMessageOuter
 betfair.com##.footer-cookies-policy
@@ -265,15 +265,15 @@ edexcel.com###cookiemsgbox
 ee.co.uk###ee-cookies-message
 ekstrabladet.dk##.cookiedisclaimer
 elections2014.eu##DIV[style="bottom: 0px;"]
+elgiganten.dk###cookieinfobox
 elgiganten.dk##.cookie-info-layer
 elgiganten.dk##.transbox
-elgiganten.dk###cookieinfobox
 elpais.com###capaAvisoPoliticaCookies_superior_mensajes
 en.valenciacf.com###cookies_ask
 ennaranja.com##.cookies-overlay
 esbe.eu##.header-cookie-content
-eu_cookie_compliance.js*$script
 eu-cookie-directive/script.js
+eu_cookie_compliance.js*$script
 eudict.com##.cookieNotice
 euroman.dk##.content
 europarl.org.uk##.cookies-message
@@ -310,10 +310,10 @@ google.com##[class="gb_hb gb_kb gb_xa"]
 google.com##[class="gb_ib gb_lb gb_ya"]
 google.dk##.fbar
 gosc.pl##div[style^="border: 10px solid rgb(138, 138, 138);"]
-gov.uk##.js-cookies-banner
 gov.uk###global-cookie-message
-group.barclays.com##.dialogMask
+gov.uk##.js-cookies-banner
 group.barclays.com###cookiesInitialDialog
+group.barclays.com##.dialogMask
 groupe-logos.com##DIV[style="background:#2A2A2A; color: #fff; left:0px; bottom:0px; right:0px; position: fixed; z-index: 1000;"]
 groupon.co.uk,groupon.ie###ls-cookie-banner
 gry.pl##.m-cookiebar
@@ -332,8 +332,8 @@ hmrc.gov.uk###CookieReportsPanel
 hotelgranvia.com###lc_cookies-main
 hp.com###cookie_privacy_holder
 hrportfolio.hr##div#kolac
-hsbc.co.uk##.eucookie_disclaimer
 hsbc.co.uk###cookieBox
+hsbc.co.uk##.eucookie_disclaimer
 humansinvent.com/*/eu_rp_cookie.js$script
 iblanky.co.cc###update
 ico.gov.uk###banner
@@ -416,8 +416,8 @@ ofqual.gov.uk###cookiemsg
 olvg.nl###cc
 onlive.co.uk##.top_message
 open.ac.uk##.interaction
-orange.co.uk##.cookieStandard
 orange.co.uk###cookieBannerD
+orange.co.uk##.cookieStandard
 orange.com###pop-client
 orange.pl###cookiesArticle
 ordnancesurvey.co.uk##.message
@@ -474,8 +474,8 @@ royalmail.com###block-cookie_policy-0
 royalnavy.mod.uk###cookies-notice
 rs-online.com##.cookieMessageDiv
 rubbermaid.eu##.cookie-popup
-rugbyworldcup.com##.banner
 rugbyworldcup.com###Explanation
+rugbyworldcup.com##.banner
 santander.co.uk###cookiebannerAH
 santanderbillpayment.co.uk###euPrivacy_control_euPrivacy_cookiesMsg
 savi-france.fr###notifybar
@@ -492,17 +492,17 @@ sky.com###skycom-cookie-wrapper
 skynet.be###cookieAlert
 smartbox.dk###cookiePopin
 soundcloud.com##.announcement
-spotify.com##.notification-bar uk-cookies
 spotify.com###js-message-notice[data-name="cookieNotice"]
+spotify.com##.notification-bar uk-cookies
 stargreen.com##div[style^="color: rgb(238, 238, 238); background-color: rgb(102, 102, 51);"]
 stormcreative.co.uk###storm-cookie
 submit.ac.uk###cookieAcceptPos
 sundaypost.com##.notification.notification-error
 suzuki.co.uk###privacypopup
-t-mobile.co.uk##.cookies-message-container
 t-mobile.co.uk###cookiesMessage
-t-mobile.nl###exposeMask
+t-mobile.co.uk##.cookies-message-container
 t-mobile.nl###TMobile_nl_WebPortals_UI_PageComponents_CookieSettingsOverlay_CookieSettingsOverlayController_OverlayRootDiv
+t-mobile.nl###exposeMask
 t-mobile.pl###cookieInfoWrapper
 tandfonline.com##.b-body
 tandfonline.com##.b-header

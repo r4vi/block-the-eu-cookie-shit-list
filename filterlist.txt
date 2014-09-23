@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: ci9Lksd0kcouW9cLpK7afQ==
+! Checksum: 5NqJK1nOXaWJmxOC9wQLFg==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 15 Sep 2014 04:23 UTC
+! Last Modified: 23 Sep 2014 09:28 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -260,7 +260,6 @@ economist.com###ec-cookie-messages-container
 economist.com###ec-message-1
 economist.com###ec-message-2
 economist.com###ec-message-3
-edbpriser.dk##.content
 edexcel.com###cookiemsgbox
 ee.co.uk###ee-cookies-message
 ekstrabladet.dk##.cookiedisclaimer

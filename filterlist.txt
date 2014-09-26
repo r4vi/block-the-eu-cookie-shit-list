@@ -94,6 +94,7 @@
 ###cookieConsentWrapper
 ###cookieContainer
 ###cookieControl
+###cookieCookieBar
 ###cookieDisclaimer
 ###cookieGuardMsg
 ###cookieInfCont

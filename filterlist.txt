@@ -782,6 +782,7 @@ wimp.dk##.cookie-warn
 wizzo.es##.avisoCookie
 wrzucacz.pl##P[class="info"]
 wtatennis.com###prfrm_cookie_bnr
+www.wykop.pl##DIV[class="annotation type-alert type-permanent lspace m-reset-position closableContainer"]
 ||allegrostatic.pl/js/scripts/cookie-policy-banner$script
 ||app.cookieassistant.com/widget$script
 ||assets.cookieconsent.silktide.com^

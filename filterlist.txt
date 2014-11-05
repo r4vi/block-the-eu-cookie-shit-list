@@ -807,3 +807,4 @@ www.wykop.pl##DIV[class="annotation type-alert type-permanent lspace m-reset-pos
 ||myinterrail.co.uk/shared_files/clientscripts/cms/cookie_alert1.js$script
 ||onlive.co.uk/account/cookie_notice
 ||wkd.com.pl/cookies/cookies.js$script
+www.1and1.pl##DIV[id="cookieinfo-container"][class="show"]

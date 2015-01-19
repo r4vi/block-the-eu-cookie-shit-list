@@ -788,7 +788,6 @@ www.wykop.pl##DIV[class="annotation type-alert type-permanent lspace m-reset-pos
 ||app.cookieassistant.com/widget$script
 ||assets.cookieconsent.silktide.com^
 ||codehousegroup.com/js/libs/cookie-check.js
-||consent.truste.com
 ||cookie-script.com/s$script
 ||cookie-script.com^$third-party
 ||cookie.gazeta.pl/noScriptCookie.servlet

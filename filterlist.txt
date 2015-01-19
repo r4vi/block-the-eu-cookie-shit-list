@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: PIAG7Oa+1dKNWWSQkbF/3A==
+! Checksum: ws22M1xS8+iwtOup2eXuTw==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 07 Nov 2014 10:20 UTC
+! Last Modified: 20 Jan 2015 02:34 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -497,6 +497,7 @@
 1and1.co.uk###cookieinfo-container
 20minutes.fr###CNIL-notice
 3.dk##[class="tre-cookie-disclaimer"]
+@@||consent.truste.com^$domain=economist.com
 _cookie_compliance.
 ancestry.co.uk###Banner_50001
 ancestry.co.uk###Banner_cookie_1
@@ -788,7 +789,6 @@ www.wykop.pl##DIV[class="annotation type-alert type-permanent lspace m-reset-pos
 ||app.cookieassistant.com/widget$script
 ||assets.cookieconsent.silktide.com^
 ||codehousegroup.com/js/libs/cookie-check.js
-||consent.truste.com
 ||cookie-script.com/s$script
 ||cookie-script.com^$third-party
 ||cookie.gazeta.pl/noScriptCookie.servlet

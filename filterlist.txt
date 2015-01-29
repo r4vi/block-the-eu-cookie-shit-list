@@ -785,6 +785,7 @@ wizzo.es##.avisoCookie
 wrzucacz.pl##P[class="info"]
 wtatennis.com###prfrm_cookie_bnr
 www.1and1.pl##DIV[id="cookieinfo-container"][class="show"]
+www.cda.pl###box_info.bx-info
 www.wykop.pl##DIV[class="annotation type-alert type-permanent lspace m-reset-position closableContainer"]
 ||allegrostatic.pl/js/scripts/cookie-policy-banner$script
 ||app.cookieassistant.com/widget$script

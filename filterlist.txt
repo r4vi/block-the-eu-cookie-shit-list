@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: dI9NEtoAkqtLslC+PilT5A==
+! Checksum: jJaSlL1U8G/XxCBEndn0vg==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 29 Jan 2015 12:01 UTC
+! Last Modified: 07 Feb 2015 05:40 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -537,6 +537,7 @@ cavendishonline.co.uk###cookie-compliance
 cbronline.com###privacy_content
 ceneo.pl###js_cookie-monster
 channel4.com##.cookie-policy-alert
+citymarket.fi###cookie-warn
 cityoflondon.gov.uk##.container-floating-notifications
 claireperry.org.uk###blanket
 claireperry.org.uk###message
@@ -636,6 +637,8 @@ johnlewis.com###opnotification
 joomla.pl###panel_cookie_dol
 jqueryCookieGuard*.js$script
 jrf.org.uk###cookieconsent
+k-citymarket.fi##.Pbox-sm
+kodin1.com###cookie-warn
 krak.dk##[class="cookies-info-static"]
 lab-project.net##.activebar-container
 lavie.fr###usrcookies
@@ -664,6 +667,7 @@ mp.dk##.alert.alert-block.alert-info.fade.in
 nationwide.co.uk###cn
 nemid.nu##[class="cookie_optin_box"]
 nerc.ac.uk###cookieConsent
+netanttila.com###cookie-warn
 netapp.com###cboxOverlay
 netapp.com###colorbox
 nethouseprices.com###cookieAccept

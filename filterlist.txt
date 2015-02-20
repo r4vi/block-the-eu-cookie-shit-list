@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: jJaSlL1U8G/XxCBEndn0vg==
+! Checksum: dd4JuUq9l+qp7tuZhl1RAg==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 07 Feb 2015 05:40 UTC
+! Last Modified: 20 Feb 2015 11:38 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -530,6 +530,7 @@ borsen.dk##.cookie-new
 bridgnorthjournal.com,marketdraytonadvertiser.com,newportadvertiser.com,northshropshirechronicle.com,shrewsburychronicle.com,southshropshirejournals.com,telfordjournal.com##DIV[style="position: relative; padding: 7px 50px 7px 0px; margin: 14px auto; border: 1px solid rgb(204, 204, 204); background-color: rgb(238, 238, 238);"]
 brighton.ac.uk###cookiez
 britannia.co.uk,smile.co.uk###noticePanel
+cantine-gamelle.fr###AvisoCookieslaw
 car2go.com###c2g_cookie_dialog
 catalink.com##.ui-dialog
 caterersearch.com###rbiCookiePolicy_mainInformation
@@ -591,6 +592,7 @@ ford.co.uk###cookieAlertBoxID
 ft.dk###cookieDialog
 gambleaware.co.uk###ccWrappery
 gamblingcommission.gov.uk##.cookiedOuter
+gamereactor.dk###cookielawwarning
 gamespy.com###policy
 gigaom.com##.privacy-policy
 glee.co.uk###bf-cookie-notice
@@ -771,6 +773,7 @@ tvlicensing.co.uk###blq-global
 twitch.tv##.noty_bar
 uk.eurosport.yahoo.com###yucs-eprivacy
 uk.yahoo.com###y-shade
+ukpostbox.com###eu_cookies
 uktv.co.uk#@#cookie-notice
 ungdomskort.dk###eksCookiePrompt
 vanguard.co.uk###cookieDrawer

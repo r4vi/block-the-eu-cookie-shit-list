@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: ONfPubDdLpFCoEkaBGcdeA==
+! Checksum: 45KwM2TImu+5XcrBNOGvxA==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 06 Mar 2015 08:30 UTC
+! Last Modified: 08 Apr 2015 08:14 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -79,6 +79,7 @@
 ###cookie-notification
 ###cookie-notifier
 ###cookie-opt-in-footer
+###cookie-overlay
 ###cookie-overlay-footer
 ###cookie-panel
 ###cookie-policy
@@ -132,6 +133,7 @@
 ###cookiePolicyNotification
 ###cookiePolicyPopup
 ###cookiePopupContainer
+###cookiePrompt
 ###cookiePromptWrapper
 ###cookieTime
 ###cookieView
@@ -167,6 +169,7 @@
 ###cookie_widget
 ###cookiealert
 ###cookiebanner
+###cookiebar
 ###cookiebar
 ###cookiebar-container
 ###cookiebnr
@@ -299,6 +302,7 @@
 ###usrConsent
 ###viewlet-cookiepolicy
 ###website-cookies
+##.COOKIECONSENT_BANDEAU
 ##.CookieDirectiveDisplay
 ##.CookieDirectiveHeight
 ##.CookieLawPnl
@@ -411,6 +415,7 @@
 ##.headerCookie
 ##.infoCookies
 ##.js-cookie-compliance
+##.js-cookie-disclaimer
 ##.js-cookie-policy
 ##.notice-cookie
 ##.notice_notice_cookies
@@ -430,6 +435,7 @@
 ##.uk-cookie-banner
 ##.uk-cookies
 ##.wrapper--cookies
+##div[data-ng-controller="AcceptCookiesController"]
 ##message-bar-cookie-notice
 .cookiecuttr.js
 .cookielaw.js
@@ -524,6 +530,7 @@ arla.dk##.cookie-popup__heading
 asda.com###FT_Cookies
 atman.pl###gbpl_oba
 audion.com###cc-cookies
+auto-ici.fr###close_cnil
 automotorsport.se##.alert.alert-info.page-alert
 bamse.se##.alert.alert-info.page-alert
 bankofengland.co.uk##.container-notifications
@@ -684,6 +691,7 @@ kwejk.pl###cookies-politics
 lab-project.net##.activebar-container
 larousse.fr##.panel-cookies
 lavie.fr###usrcookies
+ldlc.com###tc_privacy
 leboncoin.fr###cookieFrame
 leeds.gov.uk###siteStatement
 lefigaro.fr##.cookieBarContainer
@@ -731,6 +739,7 @@ networkrail.co.uk##.CookieNotification
 nfbio.dk###the-cookie
 nike.com##.modal-mask-class
 nintendo.fi###eucookies-note
+nlyman.com,nelly.com###toast-container
 nouvelobs.com##DIV[style="text-align:left;width:550px;background-color:#feefaa;padding:10px;font:12px Arial;position:absolute;z-index:50;undefined"]
 nrc.nl##.cookiemonster
 nwolb.com###ctl00_privacyCookies_LIPCNB_PrivacyandCookiesNoticePanel
@@ -827,6 +836,7 @@ thehanley.co.uk##LI[style="overflow: hidden; background: url(\"data:image/png;ba
 theherbert.org###ico_banner
 thejournal.ie###notify-container
 thelandscapegroup.co.uk##DIV[style="margin-left: 0px; position: fixed; left: 20px; bottom: 20px; width: 300px; height: 250px; background-color: rgb(238, 238, 238); color: rgb(51, 51, 51); border: 1px solid rgb(153, 153, 153); box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); line-height: 1.3em; z-index: 99999; padding-top: 10px;"]
+themeflood.com###gatewayBarFillstacks_in_5416_page4
 thenottingham.com###cookieMsg
 theprogressive.com###wrap-message
 theregister.co.uk,channelregister.co.uk,reghardware.com###RegCCO
@@ -866,6 +876,7 @@ www.1and1.pl##DIV[id="cookieinfo-container"][class="show"]
 www.cda.pl###box_info.bx-info
 www.futura-sciences.com###fs-cookiewarning
 www.lagazettedescommunes.com###bandeauCookies
+www.ldlc-pro.com###privacy div#container
 www.wykop.pl##DIV[class="annotation type-alert type-permanent lspace m-reset-position closableContainer"]
 zonaforo.meristation.com##.inner
 ||allegrostatic.pl/js/scripts/cookie-policy-banner$script

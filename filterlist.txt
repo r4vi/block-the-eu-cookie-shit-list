@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 45KwM2TImu+5XcrBNOGvxA==
+! Checksum: TpFRnrcsGDwl5fVx/OCz8A==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 08 Apr 2015 08:14 UTC
+! Last Modified: 17 May 2015 11:19 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -764,6 +764,7 @@ pekao.com.pl###box-layer
 penguingamers.eu##.RACKWrapper
 perforce.com##span.optanon-link-text-left.optanon-white
 perforce.com##ul.optanon-menu.optanon-menu-allow
+phoronix.com#@#.cookies
 picturehouses.co.uk###cookie_message
 pinkladyapples.co.uk###banner-wrapper
 play.google.com##.app-translation-bar

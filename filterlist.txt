@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: F42pct11EJSR8U89GL2bgg==
+! Checksum: e0QGwE5Fx36Img+TuhTndw==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 17 May 2015 11:29 UTC
+! Last Modified: 17 May 2015 11:33 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -170,7 +170,6 @@
 ###cookie_widget
 ###cookiealert
 ###cookiebanner
-###cookiebar
 ###cookiebar
 ###cookiebar-container
 ###cookiebnr
@@ -552,7 +551,6 @@ blogs.mediapart.fr##.bust
 bm.dk###CookiePanel
 bol.com###top_header_cookie_message
 boligejer.dk##.eksCookieContainer
-borger.dk##.cookie-banner
 borsen.dk##.cookie-new
 bouyguestelecom.fr###no-cookie
 bridgnorthjournal.com,marketdraytonadvertiser.com,newportadvertiser.com,northshropshirechronicle.com,shrewsburychronicle.com,southshropshirejournals.com,telfordjournal.com##DIV[style="position: relative; padding: 7px 50px 7px 0px; margin: 14px auto; border: 1px solid rgb(204, 204, 204); background-color: rgb(238, 238, 238);"]
@@ -560,7 +558,6 @@ brighton.ac.uk###cookiez
 britannia.co.uk,smile.co.uk###noticePanel
 ca-nord-est.fr##.recocliv2
 cadbury.co.uk###_CookieText
-cantine-gamelle.fr###AvisoCookieslaw
 cantine-gamelle.fr###AvisoCookieslaw
 car2go.com###c2g_cookie_dialog
 catalink.com##.ui-dialog
@@ -813,7 +810,6 @@ smartbox.dk###cookiePopin
 sofort.com##.small
 soundcloud.com##.announcement
 spotify.com###js-message-bar-cookie-notice
-spotify.com###js-message-bar-cookie-notice
 spotify.com###js-message-notice[data-name="cookieNotice"]
 spotify.com##.notification-bar uk-cookies
 stargreen.com##div[style^="color: rgb(238, 238, 238); background-color: rgb(102, 102, 51);"]
@@ -853,7 +849,6 @@ travelsupermarket.com###cookieDirective
 tvcatchup.com###messageBox
 tvlicensing.co.uk###blq-global
 twitch.tv##.noty_bar
-tyda.se###accept-cookies-div
 uk.eurosport.yahoo.com###yucs-eprivacy
 uk.yahoo.com###y-shade
 ukpostbox.com###eu_cookies

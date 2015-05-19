@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: e0QGwE5Fx36Img+TuhTndw==
+! Checksum: MxpTk8nV8UnrAZut0p+iUg==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 17 May 2015 11:33 UTC
+! Last Modified: 20 May 2015 09:28 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -57,6 +57,7 @@
 ###cookie-compliance-bottom
 ###cookie-compliance-bottom-overlay
 ###cookie-consent
+###cookie-consent-bar
 ###cookie-consent-container
 ###cookie-container
 ###cookie-content
@@ -97,6 +98,7 @@
 ###cookieAlert
 ###cookieBanner
 ###cookieBar
+###cookieChoiceInfo
 ###cookieComplianceMessage
 ###cookieConsentBar
 ###cookieConsentWrapper
@@ -214,6 +216,7 @@
 ###cookiesPanel
 ###cookiesPolicy
 ###cookiesPolicyPopup
+###cookiesPop
 ###cookiesWarning
 ###cookiesWarningActive
 ###cookiesWarningBanner
@@ -287,6 +290,7 @@
 ###politicaCookies
 ###polityka-cookies
 ###popup-cookies
+###privacyPolicyLayerN
 ###pronamic_cookie_holder
 ###rbiCookiePolicy_pushDownBoxWrapper
 ###rtl_cookie_small
@@ -301,6 +305,7 @@
 ###twCookieConsent
 ###usrConsent
 ###viewlet-cookiepolicy
+###warning_cookie
 ###website-cookies
 ##.COOKIECONSENT_BANDEAU
 ##.CookieDirectiveDisplay
@@ -323,6 +328,7 @@
 ##.cookie-alert
 ##.cookie-banner
 ##.cookie-bar
+##.cookie-block
 ##.cookie-box
 ##.cookie-compliance
 ##.cookie-consent
@@ -390,6 +396,7 @@
 ##.cookies-alert
 ##.cookies-info
 ##.cookies-notification
+##.cookies-policy
 ##.cookies-popup
 ##.cookies-warning
 ##.cookiesAlert
@@ -436,6 +443,7 @@
 ##.uk-cookies
 ##.wrapper--cookies
 ##div[data-ng-controller="AcceptCookiesController"]
+##gh-cookieb-active
 ##message-bar-cookie-notice
 .cookiecuttr.js
 .cookielaw.js
@@ -613,20 +621,15 @@ europarl.org.uk##.cookies-message
 europeantour.com###modalCookieContainer
 eveningtelegraph.co.uk,thecourier.co.uk##.notification
 evm.dk###cookies-acc
+extremoduro.com,robe.es###dvCookie.cookiesms
 fatbeehive.com##div[style^="background-color: #000;"]
 fcbarcelona.com###notificacio-cookies
 fcomputer.dk###jumper_cookies
 filmweb.pl##.topBarCont
 findmypast.co.uk###cookie-dropdown
-fipradio.fr###warning_cookie
 fool.co.uk###dogfish
 forbrug.dk##.CookieChoiceContainer.nocontent
 ford.co.uk###cookieAlertBoxID
-francebleu.fr###warning_cookie
-franceculture.fr###warning_cookie
-franceinfo.fr###warning_cookie
-franceinter.fr###warning_cookie
-francemusique.fr###warning_cookie
 ft.dk###cookieDialog
 gambleaware.co.uk###ccWrappery
 gamblingcommission.gov.uk##.cookiedOuter
@@ -696,7 +699,6 @@ leeds.gov.uk###siteStatement
 lefigaro.fr##.cookieBarContainer
 lemonde.fr###alerte_tracking
 lemondeinformatique.fr###infos_cookie
-lemouv.fr###warning_cookie
 leroymerlin.fr##.nav-infos-wrapper
 lesechos.fr###cookiemenu
 lesinrocks.com##.cnil-block

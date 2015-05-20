@@ -135,6 +135,7 @@
 ###cookiePolicyBar
 ###cookiePolicyNotification
 ###cookiePolicyPopup
+###cookiesPop
 ###cookiePopupContainer
 ###cookiePrompt
 ###cookiePromptWrapper

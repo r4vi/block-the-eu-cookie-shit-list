@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: MxpTk8nV8UnrAZut0p+iUg==
+! Checksum: hWpbo1DI1pdYnaurlKt3/w==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 20 May 2015 09:28 UTC
+! Last Modified: 24 Jun 2015 02:26 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -655,6 +655,7 @@ guloggratis.dk###cookie_container
 hankzipzer.co.uk###cppd
 hattrick.org##.alert
 hcrfm.co.uk###cj-tab-title
+hellobank.it###infoCookie
 heltnormalt.dk##.banner
 heltnormalt.dk##.banner-container
 hmrc.gov.uk###CookieReportsPanel
@@ -904,4 +905,3 @@ zonaforo.meristation.com##.inner
 ||omgubuntu.co.uk/wp-content/plugins/omg-magnific/magnific.min.js$script
 ||onlive.co.uk/account/cookie_notice
 ||wkd.com.pl/cookies/cookies.js$script
-hellobank.it###infoCookie

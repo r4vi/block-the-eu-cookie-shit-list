@@ -904,3 +904,4 @@ zonaforo.meristation.com##.inner
 ||omgubuntu.co.uk/wp-content/plugins/omg-magnific/magnific.min.js$script
 ||onlive.co.uk/account/cookie_notice
 ||wkd.com.pl/cookies/cookies.js$script
+hellobank.it###infoCookie

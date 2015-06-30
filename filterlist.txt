@@ -521,7 +521,7 @@
 /toucanCookie.
 /ttgcookieconsent-
 /warnCookies.
-1and1.co.uk###cookieinfo-container
+1and1.es,1and1.pl,1and1.co.uk###cookieinfo-container
 20minutes.fr###CNIL-notice
 3.dk##[class="tre-cookie-disclaimer"]
 4d.rtvslo.si###size-window-cookie
@@ -874,7 +874,6 @@ wimp.dk##.cookie-warn
 wizzo.es##.avisoCookie
 wrzucacz.pl##P[class="info"]
 wtatennis.com###prfrm_cookie_bnr
-www.1and1.pl##DIV[id="cookieinfo-container"][class="show"]
 www.cda.pl###box_info.bx-info
 www.dagospia.com###banner_privacy
 www.dolomitisuperski.com###pc-cookie-notice

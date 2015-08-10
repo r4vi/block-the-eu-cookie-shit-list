@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: G+58A6csBINT+VdWyx+AIw==
+! Checksum: TmKJl1rDExtxK2iwjuxHsw==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 08 Aug 2015 07:57 UTC
+! Last Modified: 10 Aug 2015 10:53 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -849,6 +849,7 @@ theson.org.uk###msg_top_bar
 thewolseley.com###cookie_policy_banner
 thisengland.co.uk###msg_top_bar
 thisislocallondon.co.uk###cookiewarningiframe
+three.co.uk###rwd-cookie-message
 tidningenjulia.se##.alert.alert-info.page-alert
 totalmoney.pl###right_widget
 travelsupermarket.com###cookieDirective

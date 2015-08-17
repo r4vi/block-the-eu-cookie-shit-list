@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: TmKJl1rDExtxK2iwjuxHsw==
+! Checksum: B3hAie/CJlEKLlxK44iY7Q==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 10 Aug 2015 10:53 UTC
+! Last Modified: 17 Aug 2015 09:09 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -10,6 +10,7 @@
 ###COOKIE_BANNER
 ###CRTL_AlertCookie
 ###CookieAlert
+###CookieBox
 ###CookieFrame
 ###CookieInfo
 ###CookieInformation
@@ -17,6 +18,7 @@
 ###CookiePolicy
 ###CookieQBanner
 ###CookieReportsButton
+###CookieSettings
 ###EUCookie
 ###EUCookieMsg
 ###EUDirectiveCookiePanel
@@ -25,9 +27,9 @@
 ###SiteMasterPage_updCookieDisclaimer
 ###TNTpageContentPlaceHolder_pnlCookieMessage
 ###WP-cookie-info
-###accept_cookies
 ###accept-cookies-div
 ###acceptCookie
+###accept_cookies
 ###alert
 ###alert-cookie-policy
 ###alertCookies
@@ -91,7 +93,6 @@
 ###cookie-notification-banner
 ###cookie-notifier
 ###cookie-opt-in-footer
-###cookie_overlay
 ###cookie-overlay
 ###cookie-overlay-footer
 ###cookie-panel
@@ -110,7 +111,6 @@
 ###cookieAlert
 ###cookieBanner
 ###cookieBar
-###CookieBox
 ###cookieChoiceInfo
 ###cookieComplianceMessage
 ###cookieConsentBar
@@ -119,7 +119,6 @@
 ###cookieControl
 ###cookieCookieBar
 ###cookieDisclaimer
-###cookiediv
 ###cookieGuardMsg
 ###cookieInfCont
 ###cookieInfo
@@ -152,8 +151,10 @@
 ###cookiePopupContainer
 ###cookiePrompt
 ###cookiePromptWrapper
+###cookieTerms
 ###cookieTime
 ###cookieView
+###cookieWarn
 ###cookieWarning
 ###cookieWarningBox
 ###cookieWarningDiv
@@ -176,6 +177,7 @@
 ###cookie_message_container
 ###cookie_modal
 ###cookie_notice
+###cookie_overlay
 ###cookie_policies
 ###cookie_policy
 ###cookie_policy_alert
@@ -189,6 +191,7 @@
 ###cookiebar
 ###cookiebar-container
 ###cookiebnr
+###cookiediv
 ###cookielaw
 ###cookielaw2
 ###cookielightbox
@@ -226,7 +229,6 @@
 ###cookiesBanner
 ###cookiesBar
 ###cookiesDisclaimer
-###CookieSettings
 ###cookiesInfo
 ###cookiesInitialDialog
 ###cookiesLequipe
@@ -255,12 +257,10 @@
 ###cookieshit
 ###cookiesribbon
 ###cookiestatement
-###cookieTerms
 ###cookietext
 ###cookieu_header
 ###cookieuseage
 ###cookiewarn
-###cookieWarn
 ###cookiewarning
 ###ctl00_CookieMessage1_divCookie
 ###ctl00_CookieMessage1_upCookie
@@ -286,10 +286,10 @@
 ###fp_cookieMessageContainer
 ###future-cookie-bar
 ###gb > .gb_8.gb_da.gb_Jb
+###gb > .gb_X.gb_wa.gb_Jb
 ###gb > .gb_d.gb_2b.gb_Dc
 ###gb > .gb_d.gb_Bb.gb_Ac
 ###gb > .gb_ia.gb_tb.gb_Jb
-###gb > .gb_X.gb_wa.gb_Jb
 ###gh-cookieb
 ###global-cookie-message
 ###gn-cookie-accept
@@ -355,14 +355,14 @@
 ##.acceptCookiesBox
 ##.agegate-cookie
 ##.bmj-cookie-noticebar-content
-##.box-cookies
 ##.bottom_message
+##.box-cookies
 ##.capaAvisoCookies
 ##.capa_cookies
 ##.cc-cookies
 ##.cc-overlay.cc-cookies
-##.ccmcss_oic
 ##.cc_banner-wrapper
+##.ccmcss_oic
 ##.center_cookies
 ##.cl_dark.cl_bottom.cl_bar
 ##.con-large.cpr-bar
@@ -381,8 +381,8 @@
 ##.cookie-information-container
 ##.cookie-information-wrapper
 ##.cookie-law
-##.cookie-law.col-md-12
 ##.cookie-law-overlay
+##.cookie-law.col-md-12
 ##.cookie-message
 ##.cookie-monster
 ##.cookie-note

@@ -25,14 +25,20 @@
 ###SiteMasterPage_updCookieDisclaimer
 ###TNTpageContentPlaceHolder_pnlCookieMessage
 ###WP-cookie-info
+###accept_cookies
 ###accept-cookies-div
 ###acceptCookie
+###alert
 ###alert-cookie-policy
 ###alertCookies
+###allow_cookies_container
+###askcook
 ###asterix_cookie_widget
+###avcns-wrapper
 ###banner-cookie
 ###bauerCookiePolicy
 ###bbccookies
+###bcmsCookieInfoWrapper
 ###block-cookie_policy-0
 ###blogger_cookie_notice
 ###boxZgodaNaCookie
@@ -43,8 +49,10 @@
 ###cc-notification
 ###cc-notification-wrapper
 ###cccwr
+###ccfd-eucookielaw
 ###ccm-banner-wrap
 ###ciasteczka
+###ckWarning
 ###confirmCookiePolicy
 ###cookie
 ###cookie-accept
@@ -54,9 +62,11 @@
 ###cookie-bar
 ###cookie-bar-main
 ###cookie-block
+###cookie-box
 ###cookie-compliance-bottom
 ###cookie-compliance-bottom-overlay
 ###cookie-consent
+###cookie-consent-banner
 ###cookie-consent-bar
 ###cookie-consent-container
 ###cookie-container
@@ -81,6 +91,7 @@
 ###cookie-notification-banner
 ###cookie-notifier
 ###cookie-opt-in-footer
+###cookie_overlay
 ###cookie-overlay
 ###cookie-overlay-footer
 ###cookie-panel
@@ -93,11 +104,13 @@
 ###cookie-ue
 ###cookie-warning
 ###cookie-warning-bar
+###cookie3arhMsg
 ###cookieAcceptPos
 ###cookieAcknowledgement
 ###cookieAlert
 ###cookieBanner
 ###cookieBar
+###CookieBox
 ###cookieChoiceInfo
 ###cookieComplianceMessage
 ###cookieConsentBar
@@ -106,6 +119,7 @@
 ###cookieControl
 ###cookieCookieBar
 ###cookieDisclaimer
+###cookiediv
 ###cookieGuardMsg
 ###cookieInfCont
 ###cookieInfo
@@ -211,6 +225,8 @@
 ###cookiesArticle
 ###cookiesBanner
 ###cookiesBar
+###cookiesDisclaimer
+###CookieSettings
 ###cookiesInfo
 ###cookiesInitialDialog
 ###cookiesLequipe
@@ -239,18 +255,23 @@
 ###cookieshit
 ###cookiesribbon
 ###cookiestatement
+###cookieTerms
 ###cookietext
 ###cookieu_header
 ###cookieuseage
 ###cookiewarn
+###cookieWarn
 ###cookiewarning
 ###ctl00_CookieMessage1_divCookie
 ###ctl00_CookieMessage1_upCookie
 ###ctl00_cookieconsent_ajaxPanel
+###ctl00_ctl00_cookieDiv
 ###ctl00_ctl00_divCookiePolicyContainer
 ###ctl30_pnlCookie
 ###dennis-cookie-notice
 ###divCookie
+###divCookies_pnlCookies
+###dnn_ctr496_View_EUcookie
 ###e-privacy-message
 ###ec-cookie-messages-container
 ###ee-cookies-message
@@ -264,11 +285,18 @@
 ###footer-cookies
 ###fp_cookieMessageContainer
 ###future-cookie-bar
+###gb > .gb_8.gb_da.gb_Jb
+###gb > .gb_d.gb_2b.gb_Dc
+###gb > .gb_d.gb_Bb.gb_Ac
+###gb > .gb_ia.gb_tb.gb_Jb
+###gb > .gb_X.gb_wa.gb_Jb
 ###gh-cookieb
 ###global-cookie-message
 ###gn-cookie-accept
 ###have-a-cookie
 ###hi-cookie-box
+###hr_cookie_policy_message
+###icanhascookie
 ###icoCookiesBanner
 ###id_cookieconsent
 ###ietCookiePanel
@@ -287,9 +315,12 @@
 ###npo_cc_notification
 ###npo_cc_notification_wrapper
 ###nuk-cookieMessage
+###obvstilo-piskotki
 ###okcookies
 ###permission-bar
+###piskotOpozorilo
 ###pl_cookies
+###plea
 ###policyNotice
 ###politicaCookies
 ###polityka-cookies
@@ -305,12 +336,15 @@
 ###sun-cookieMessage
 ###tesco_cookie_widget
 ###theCookie
+###top-notification-bar-container
 ###tto-cookieMessage
 ###twCookieConsent
 ###usrConsent
 ###viewlet-cookiepolicy
 ###warning_cookie
 ###website-cookies
+###wk_cookiebar
+###wk_cookies
 ##.COOKIECONSENT_BANDEAU
 ##.CookieDirectiveDisplay
 ##.CookieDirectiveHeight
@@ -322,11 +356,16 @@
 ##.agegate-cookie
 ##.bmj-cookie-noticebar-content
 ##.box-cookies
+##.bottom_message
 ##.capaAvisoCookies
 ##.capa_cookies
 ##.cc-cookies
+##.cc-overlay.cc-cookies
 ##.ccmcss_oic
+##.cc_banner-wrapper
 ##.center_cookies
+##.cl_dark.cl_bottom.cl_bar
+##.con-large.cpr-bar
 ##.cookie-accept-overlay
 ##.cookie-alert
 ##.cookie-banner
@@ -342,9 +381,11 @@
 ##.cookie-information-container
 ##.cookie-information-wrapper
 ##.cookie-law
+##.cookie-law.col-md-12
 ##.cookie-law-overlay
 ##.cookie-message
 ##.cookie-monster
+##.cookie-note
 ##.cookie-notice
 ##.cookie-notification
 ##.cookie-notifier-text
@@ -357,6 +398,7 @@
 ##.cookie-policy-statement
 ##.cookie-popup
 ##.cookie-warning
+##.cookie-wr
 ##.cookie-wrapper
 ##.cookieAccept
 ##.cookieAccepterSlider
@@ -435,6 +477,7 @@
 ##.pf-cookie-directive
 ##.polityka-cookie
 ##.popup-cookie
+##.printNone.usermsgCookie
 ##.regional-cookie-warning
 ##.roh-cookies
 ##.sd_cookiespolicy

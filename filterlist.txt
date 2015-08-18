@@ -14,6 +14,7 @@
 ###CookieFrame
 ###CookieInfo
 ###CookieInformation
+###CookielawBanner
 ###CookieNotificationBar
 ###CookiePolicy
 ###CookieQBanner
@@ -37,7 +38,9 @@
 ###askcook
 ###asterix_cookie_widget
 ###avcns-wrapper
+###avviso_cookie
 ###banner-cookie
+###banner_cookie
 ###bauerCookiePolicy
 ###bbccookies
 ###bcmsCookieInfoWrapper
@@ -46,6 +49,7 @@
 ###boxZgodaNaCookie
 ###box_cookies_error
 ###ca_banner
+###cadre_alert_cookies
 ###cartelcookielegal
 ###catapult-cookie-bar
 ###cc-notification
@@ -96,9 +100,12 @@
 ###cookie-overlay
 ###cookie-overlay-footer
 ###cookie-panel
+###cookie-policies
 ###cookie-policy
 ###cookie-policy-banner
 ###cookie-policy-container
+###cookie-policy-div
+###cookie-policy-info
 ###cookie-policy-notice
 ###cookie-policy-strap
 ###cookie-popup
@@ -174,6 +181,7 @@
 ###cookie_info
 ###cookie_informer
 ###cookie_law_banner
+###cookie_layer
 ###cookie_message_container
 ###cookie_modal
 ###cookie_notice
@@ -181,6 +189,7 @@
 ###cookie_policies
 ###cookie_policy
 ###cookie_policy_alert
+###cookie_policy_bar
 ###cookie_privacy_holder
 ###cookie_privacy_info_bar
 ###cookie_privacy_popup
@@ -192,6 +201,7 @@
 ###cookiebar-container
 ###cookiebnr
 ###cookiediv
+###cookiefascia
 ###cookielaw
 ###cookielaw2
 ###cookielightbox
@@ -216,6 +226,7 @@
 ###cookies-info
 ###cookies-message
 ###cookies-modal
+###cookies-overlay
 ###cookies-panel
 ###cookies-policy
 ###cookies-policy-container
@@ -241,6 +252,7 @@
 ###cookiesWarningBanner
 ###cookiesWrapper
 ###cookies_apla
+###cookies_banner
 ###cookies_box
 ###cookies_container
 ###cookies_in
@@ -283,6 +295,7 @@
 ###fdih-cb
 ###foCookieNotice
 ###footer-cookies
+###footerCk
 ###fp_cookieMessageContainer
 ###future-cookie-bar
 ###gb > .gb_8.gb_da.gb_Jb
@@ -291,16 +304,19 @@
 ###gb > .gb_d.gb_Bb.gb_Ac
 ###gb > .gb_ia.gb_tb.gb_Jb
 ###gh-cookieb
+###gld_cookie_flag
 ###global-cookie-message
 ###gn-cookie-accept
 ###have-a-cookie
 ###hi-cookie-box
 ###hr_cookie_policy_message
+###hw_cookie_law
 ###icanhascookie
 ###icoCookiesBanner
 ###id_cookieconsent
 ###ietCookiePanel
 ###imPolicycookiemessage
+###isCookieAccepted
 ###itv-cookie-notification
 ###itv-glob-cookie-policy
 ###iubenda-cs-banner
@@ -312,18 +328,24 @@
 ###message-bar-cookie-notice
 ###mktg_Cookie_Wrap
 ###mmmmm-cookies
+###mrw_cookielaw_banner
+###norm_cookies
 ###npo_cc_notification
 ###npo_cc_notification_wrapper
 ###nuk-cookieMessage
 ###obvstilo-piskotki
 ###okcookies
+###ow_cookie
 ###permission-bar
+###piskotki_obvestilo
 ###piskotOpozorilo
 ###pl_cookies
 ###plea
+###plugin_cookie_int
 ###policyNotice
 ###politicaCookies
 ###polityka-cookies
+###popup-cookie
 ###popup-cookies
 ###privacyPolicyLayerN
 ###pronamic_cookie_holder
@@ -354,6 +376,7 @@
 ##.accept-cookies
 ##.acceptCookiesBox
 ##.agegate-cookie
+##.alertcookie
 ##.bmj-cookie-noticebar-content
 ##.bottom_message
 ##.box-cookies
@@ -363,6 +386,7 @@
 ##.cc-overlay.cc-cookies
 ##.cc_banner-wrapper
 ##.ccmcss_oic
+##.ce-banner
 ##.center_cookies
 ##.cl_dark.cl_bottom.cl_bar
 ##.con-large.cpr-bar
@@ -419,6 +443,7 @@
 ##.cookieTooltipKontener
 ##.cookieWarning
 ##.cookieWarningBox
+##.cookieWrap
 ##.cookie_accept
 ##.cookie_bar
 ##.cookie_content

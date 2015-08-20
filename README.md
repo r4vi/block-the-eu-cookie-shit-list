@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/r4vi/block-the-eu-cookie-shit-list.png?label=ready&title=Ready)](https://waffle.io/r4vi/block-the-eu-cookie-shit-list)
 block-the-eu-cookie-shit-list
 =============================
 

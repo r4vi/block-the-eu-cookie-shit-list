@@ -52,6 +52,7 @@
 ###cadre_alert_cookies
 ###cartelcookielegal
 ###catapult-cookie-bar
+###cc-cookie-law
 ###cc-notification
 ###cc-notification-wrapper
 ###cccwr
@@ -303,6 +304,7 @@
 ###gb > .gb_X.gb_wa.gb_Jb
 ###gb > .gb_d.gb_2b.gb_Dc
 ###gb > .gb_d.gb_Bb.gb_Ac
+###gb > .gb_g.gb_9b.gb_Oc
 ###gb > .gb_ia.gb_tb.gb_Jb
 ###gh-cookieb
 ###gld_cookie_flag
@@ -325,6 +327,7 @@
 ###jquery-cookie-law-script
 ###js_popup_cookies.belka-cookies
 ###js_pushDownCookieMessage
+###kuki
 ###lc_cookies-main
 ###message-bar-cookie-notice
 ###mktg_Cookie_Wrap
@@ -478,6 +481,7 @@
 ##.cookiesWarning
 ##.cookiesinfo
 ##.cookiespolicy
+##.cookiewrapper
 ##.cwcookielaw
 ##.divCookiePopUp
 ##.divCookiePopUpContainer
@@ -517,7 +521,6 @@
 ##div[data-ng-controller="AcceptCookiesController"]
 ##gh-cookieb-active
 ##message-bar-cookie-notice
-.cookiecuttr.js
 .cookielaw.js
 .cookiepolicy.
 .cookiesmessage.
@@ -951,6 +954,9 @@ www.cda.pl###box_info.bx-info
 www.dagospia.com###banner_privacy
 www.dolomitisuperski.com###pc-cookie-notice
 www.futura-sciences.com###fs-cookiewarning
+www.google.co.uk###pushdown
+www.google.com###pushdown
+www.google.si###pushdown
 www.lagazettedescommunes.com###bandeauCookies
 www.ldlc-pro.com###privacy div#container
 www.mediaworld.it###bannerPolicy

@@ -24,6 +24,7 @@
 ###EUCookieMsg
 ###EUDirectiveCookiePanel
 ###Footer_cookieLawBox
+###LoggingCookie
 ###Row1_Column1_Cell1_CookieSettings_CookieSettings
 ###SiteMasterPage_updCookieDisclaimer
 ###TNTpageContentPlaceHolder_pnlCookieMessage
@@ -37,6 +38,7 @@
 ###allow_cookies_container
 ###askcook
 ###asterix_cookie_widget
+###avcn_wrapperOuter
 ###avcns-wrapper
 ###avviso_cookie
 ###banner-cookie
@@ -91,6 +93,7 @@
 ###cookie-law-compliance
 ###cookie-law-consent-section
 ###cookie-law-info-bar
+###cookie-law-wrapper
 ###cookie-message
 ###cookie-message-container
 ###cookie-modal-bg
@@ -184,6 +187,7 @@
 ###cookie_info
 ###cookie_informer
 ###cookie_law_banner
+###cookie_law_notice_container
 ###cookie_layer
 ###cookie_message_container
 ###cookie_modal
@@ -193,6 +197,7 @@
 ###cookie_policy
 ###cookie_policy_alert
 ###cookie_policy_bar
+###cookie_policy_container
 ###cookie_privacy_holder
 ###cookie_privacy_info_bar
 ###cookie_privacy_popup
@@ -221,7 +226,6 @@
 ###cookiepolicydiv
 ###cookiepopup
 ###cookiereports-badge
-###cookies
 ###cookies-agreement-box
 ###cookies-banner
 ###cookies-bar
@@ -290,6 +294,7 @@
 ###e-privacy-message
 ###ec-cookie-messages-container
 ###ee-cookies-message
+###eu-cookie-notifier
 ###epbar
 ###eu-cookie-bar-notification
 ###euCookiesQuestion
@@ -306,6 +311,8 @@
 ###gb > .gb_d.gb_2b.gb_Dc
 ###gb > .gb_d.gb_Bb.gb_Ac
 ###gb > .gb_g.gb_9b.gb_Oc
+###gb > .gb_g.gb_ec.gb_9c
+###gb > .gb_g.gb_ec.gb_Wc
 ###gb > .gb_ia.gb_tb.gb_Jb
 ###gh-cookieb
 ###gld_cookie_flag
@@ -316,10 +323,12 @@
 ###hr_cookie_policy_message
 ###hw_cookie_law
 ###icanhascookie
+###ico_banner
 ###icoCookiesBanner
 ###id_cookieconsent
 ###ietCookiePanel
 ###imPolicycookiemessage
+###inner > .container.globalhead > .hidden-xs.notice.cookiez
 ###isCookieAccepted
 ###itv-cookie-notification
 ###itv-glob-cookie-policy
@@ -330,14 +339,17 @@
 ###js_pushDownCookieMessage
 ###kuki
 ###lc_cookies-main
+###ma > .ckch
 ###message-bar-cookie-notice
 ###mktg_Cookie_Wrap
 ###mmmmm-cookies
 ###mrw_cookielaw_banner
 ###norm_cookies
+###notifications > .info.notification
 ###npo_cc_notification
 ###npo_cc_notification_wrapper
 ###nuk-cookieMessage
+###obvestilo-piskotki
 ###obvstilo-piskotki
 ###okcookies
 ###ow_cookie
@@ -353,14 +365,17 @@
 ###popup-cookie
 ###popup-cookies
 ###privacyPolicyLayerN
+###promoTb > tbody > tr:nth-of-type(1)
 ###pronamic_cookie_holder
 ###rbiCookiePolicy_pushDownBoxWrapper
 ###rtl_cookie_small
+###scc-consent
 ###site-cookie-policy
 ###site-wide-cookie-message
 ###skycom-cookie-wrapper
 ###sliding-popup
 ###sun-cookieMessage
+###taw
 ###tesco_cookie_widget
 ###theCookie
 ###top-notification-bar-container
@@ -381,13 +396,17 @@
 ##.accept-cookies
 ##.acceptCookiesBox
 ##.agegate-cookie
+##.alert
+##.alert-info.alert-dismissable.alert
 ##.alertcookie
+##.annoying.notice
 ##.bmj-cookie-noticebar-content
 ##.bottom_message
 ##.box-cookies
 ##.capaAvisoCookies
 ##.capa_cookies
 ##.cc-cookies
+##.cc-cookies-wrapper
 ##.cc-overlay.cc-cookies
 ##.cc_banner-wrapper
 ##.ccmcss_oic
@@ -467,8 +486,8 @@
 ##.cookienotice-bar
 ##.cookienotice-container
 ##.cookiepolicy
-##.cookies
 ##.cookies-alert
+##.cookies-dialog
 ##.cookies-info
 ##.cookies-notification
 ##.cookies-policy
@@ -484,6 +503,7 @@
 ##.cookiespolicy
 ##.cookiewrapper
 ##.cwcookielaw
+##.divascookies
 ##.divCookiePopUp
 ##.divCookiePopUpContainer
 ##.epson_cookienotice
@@ -500,8 +520,10 @@
 ##.js-cookie-compliance
 ##.js-cookie-disclaimer
 ##.js-cookie-policy
+##.js-toast-cookies.js-component-toast.component-toast
 ##.notice-cookie
 ##.notice_notice_cookies
+##.notification.info
 ##.om-cookie-agreement
 ##.panel_cookie
 ##.pea_cook_wrapper
@@ -707,6 +729,7 @@ fool.co.uk###dogfish
 forbrug.dk##.CookieChoiceContainer.nocontent
 ford.co.uk###cookieAlertBoxID
 ft.dk###cookieDialog
+galleria.io#@#.cookiebanner
 gambleaware.co.uk###ccWrappery
 gamblingcommission.gov.uk##.cookiedOuter
 gamereactor.dk###cookielawwarning
@@ -955,8 +978,21 @@ www.cda.pl###box_info.bx-info
 www.dagospia.com###banner_privacy
 www.dolomitisuperski.com###pc-cookie-notice
 www.futura-sciences.com###fs-cookiewarning
+www.google.at###pushdown
+www.google.be###pushdown
 www.google.co.uk###pushdown
 www.google.com###pushdown
+www.google.cz###pushdown
+www.google.de###pushdown
+www.google.es###pushdown
+www.google.fr###pushdown
+www.google.gr###pushdown
+www.google.ie###pushdown
+www.google.it###pushdown
+www.google.nl###pushdown
+www.google.pl###pushdown
+www.google.pt###pushdown
+www.google.ru###pushdown
 www.google.si###pushdown
 www.lagazettedescommunes.com###bandeauCookies
 www.ldlc-pro.com###privacy div#container

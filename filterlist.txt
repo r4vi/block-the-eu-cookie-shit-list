@@ -674,6 +674,7 @@ ceneo.pl###js_cookie-monster
 change.org##.flash-message.flash-message-announcement
 channel4.com##.all4nav-cookie-policy-notification
 channel4.com##.cookie-policy-alert
+chefkoch.de###ck-cookie-statement
 citymarket.fi###cookie-warn
 cityoflondon.gov.uk##.container-floating-notifications
 claireperry.org.uk###blanket

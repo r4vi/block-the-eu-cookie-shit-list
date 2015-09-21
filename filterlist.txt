@@ -31,6 +31,7 @@
 ###WP-cookie-info
 ###accept-cookies-div
 ###acceptCookie
+###accept_cookie
 ###accept_cookies
 ###alert
 ###alert-cookie-policy
@@ -297,6 +298,7 @@
 ###epbar
 ###eu-cookie-bar-notification
 ###eu-cookie-notifier
+###eu_cookie
 ###euCookiesQuestion
 ###eucookie
 ###eucookielaw
@@ -321,6 +323,7 @@
 ###have-a-cookie
 ###hi-cookie-box
 ###hr_cookie_policy_message
+###huk_cookie_prefernce_panel
 ###hw_cookie_law
 ###icanhascookie
 ###icoCookiesBanner
@@ -437,6 +440,7 @@
 ##.cookie-notification
 ##.cookie-notifier-text
 ##.cookie-opt-in
+##.cookie-panel
 ##.cookie-panel-content
 ##.cookie-panel-overlay
 ##.cookie-policy
@@ -476,6 +480,7 @@
 ##.cookie_policy_message
 ##.cookie_popup
 ##.cookie_privacy_info_bar
+##.cookie_warning
 ##.cookiebanner
 ##.cookiebar
 ##.cookieconsent
@@ -720,6 +725,7 @@ europeantour.com###modalCookieContainer
 eveningtelegraph.co.uk,thecourier.co.uk##.notification
 evm.dk###cookies-acc
 extremoduro.com,robe.es###dvCookie.cookiesms
+facebook.com##.pam.fbPageBanner._3d9x.uiBoxGray.bottomborder
 fatbeehive.com##div[style^="background-color: #000;"]
 fcbarcelona.com###notificacio-cookies
 fcomputer.dk###jumper_cookies

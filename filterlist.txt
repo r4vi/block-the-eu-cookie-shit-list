@@ -375,7 +375,6 @@
 ###skycom-cookie-wrapper
 ###sliding-popup
 ###sun-cookieMessage
-###taw
 ###tesco_cookie_widget
 ###theCookie
 ###top-notification-bar-container

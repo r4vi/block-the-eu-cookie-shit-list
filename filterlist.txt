@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: SY4DHaDJBX+yLaYjJWT2sg==
+! Checksum: 2gLueBX3DnsDItigJTGPkw==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 21 Sep 2015 12:57 UTC
+! Last Modified: 25 Sep 2015 05:31 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -994,6 +994,7 @@ www.google.pl###pushdown
 www.google.pt###pushdown
 www.google.ru###pushdown
 www.google.si###pushdown
+www.gvcc.net###footer > .cookieleiste
 www.lagazettedescommunes.com###bandeauCookies
 www.ldlc-pro.com###privacy div#container
 www.mediaworld.it###bannerPolicy

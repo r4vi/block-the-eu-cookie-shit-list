@@ -25,6 +25,7 @@
 ###EUDirectiveCookiePanel
 ###Footer_cookieLawBox
 ###LoggingCookie
+###Piskotki1_PiskotekForma
 ###Row1_Column1_Cell1_CookieSettings_CookieSettings
 ###SiteMasterPage_updCookieDisclaimer
 ###TNTpageContentPlaceHolder_pnlCookieMessage
@@ -358,6 +359,7 @@
 ###ow_cookie
 ###permission-bar
 ###piskotOpozorilo
+###piskotki
 ###piskotki_obvestilo
 ###pl_cookies
 ###plea
@@ -411,6 +413,7 @@
 ##.cc-overlay.cc-cookies
 ##.cc_banner-wrapper
 ##.ccmcss_oic
+##.ccwrap
 ##.ce-banner
 ##.center_cookies
 ##.cl_dark.cl_bottom.cl_bar
@@ -520,6 +523,7 @@
 ##.header-cookie-content
 ##.headerCookie
 ##.infoCookies
+##.jobnotice_cnt
 ##.js-cookie-compliance
 ##.js-cookie-disclaimer
 ##.js-cookie-policy
@@ -701,6 +705,7 @@ devianne.com###avertissement_cookies
 diabetes.org.uk###policyPopup
 diy.com###noScriptCookies
 dolce-gusto.co.uk###nimgrowler
+dostavanadom.com###cookies
 dr.dk##.dr-cookie-info-box
 dr.dk##.dr-infobox
 dr.dk##DIV[class="cookie-info-box"]
@@ -831,6 +836,7 @@ monbs.com###cookieFooter
 moneysavingexpert.com###alertBar
 monitor.si##.cookie-note-content
 monster.co.uk###intMsgCookies
+moski.si#@##cookie-bar
 mp.dk##.alert.alert-block.alert-info.fade.in
 myspace.com###siteAlert
 n-mobile.net###infobox3
@@ -1007,6 +1013,7 @@ www.mediaworld.it###bannerPolicy
 www.petzl.com###global > header > .cookieToast
 www.sentres.com##.cookies-eu
 www.wykop.pl##DIV[class="annotation type-alert type-permanent lspace m-reset-position closableContainer"]
+zenska.si#@##cookie-bar
 zonaforo.meristation.com##.inner
 ||allegrostatic.pl/js/scripts/cookie-policy-banner$script
 ||app.cookieassistant.com/widget$script

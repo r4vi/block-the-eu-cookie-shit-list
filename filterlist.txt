@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: jCDmgFFw60RsBeOJ2S6RFA==
+! Checksum: WLuatAuLg/+PcCB89XQ7aw==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 16 Nov 2015 10:09 UTC
+! Last Modified: 16 Nov 2015 10:11 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -740,7 +740,9 @@ elgiganten.dk##.transbox
 elpais.com###capaAvisoPoliticaCookies_superior_mensajes
 en.valenciacf.com###cookies_ask
 ennaranja.com##.cookies-overlay
+esprit.de###policy_header
 eu-cookie-directive/script.js
+eu.battle.net###eu-cookie-compliance
 europarl.org.uk##.cookies-message
 europeantour.com###modalCookieContainer
 eveningtelegraph.co.uk,thecourier.co.uk##.notification
@@ -766,6 +768,7 @@ glee.co.uk###bf-cookie-notice
 go.tv2.dk###tv2cookiebar
 gocompare.com##.CookiePolicyContainer
 goldenline.pl###topReminder
+golem.de###golem-cookie-accept
 google.com##[class="gb_hb gb_kb gb_xa"]
 google.com##[class="gb_ib gb_lb gb_ya"]
 google.dk##.fbar
@@ -942,6 +945,7 @@ spotify.com###js-message-bar-cookie-notice
 spotify.com###js-message-notice[data-name="cookieNotice"]
 spotify.com##.notification-bar uk-cookies
 stargreen.com##div[style^="color: rgb(238, 238, 238); background-color: rgb(102, 102, 51);"]
+startnext.com###head-bar-cookie-info
 stofa.dk###cookie_popup
 stormcreative.co.uk###storm-cookie
 sundaypost.com##.notification.notification-error

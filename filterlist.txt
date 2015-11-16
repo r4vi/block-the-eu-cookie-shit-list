@@ -1,11 +1,17 @@
 [Adblock Plus 1.1]
-! Checksum: KyC9ycy3raOoKmLMxkG7vQ==
+! Checksum: rKsIRJnU+awCjNmV6e92Cg==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 27 Sep 2015 06:10 UTC
+! Last Modified: 16 Nov 2015 10:00 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
 !
+! Checksum: KyC9ycy3raOoKmLMxkG7vQ==
+! Expires: 2 days (update frequency)
+! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
+! Last Modified: 27 Sep 2015 06:10 UTC
+! Licence: http://sam.zoy.org/wtfpl/
+! Title: Block-EU-Cookie-Shit-List
 ###AdBlockerInfo
 ###COOKIE_BANNER
 ###CRTL_AlertCookie
@@ -627,6 +633,7 @@
 4d.rtvslo.si###size-window-cookie
 @@||consent.truste.com^$domain=economist.com
 @@||tweakers.net^$document
+[Adblock Plus 1.1]
 _cookie_compliance.
 accuweather.com###eu-cookie-notify-wrap
 actu-environnement.com###informations-cookies

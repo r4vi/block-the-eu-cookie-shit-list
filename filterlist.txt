@@ -1,17 +1,12 @@
 [Adblock Plus 1.1]
-! Checksum: rKsIRJnU+awCjNmV6e92Cg==
+! Checksum: jCDmgFFw60RsBeOJ2S6RFA==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 16 Nov 2015 10:00 UTC
+! Last Modified: 16 Nov 2015 10:09 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
+! Title: Block-EU-Cookie-Shit-List
 !
-! Checksum: KyC9ycy3raOoKmLMxkG7vQ==
-! Expires: 2 days (update frequency)
-! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
-! Last Modified: 27 Sep 2015 06:10 UTC
-! Licence: http://sam.zoy.org/wtfpl/
-! Title: Block-EU-Cookie-Shit-List
 ###AdBlockerInfo
 ###COOKIE_BANNER
 ###CRTL_AlertCookie
@@ -127,6 +122,7 @@
 ###cookie3arhMsg
 ###cookieAcceptPos
 ###cookieAcknowledgement
+###cookieAdv
 ###cookieAlert
 ###cookieBanner
 ###cookieBar
@@ -190,6 +186,7 @@
 ###cookie_box
 ###cookie_consent
 ###cookie_disclaimer
+###cookie_gld_cookie_flag
 ###cookie_header
 ###cookie_info
 ###cookie_informer
@@ -247,8 +244,10 @@
 ###cookies-policy-prompt
 ###cookies-policy-wrapper
 ###cookies-popup
+###cookies-privacy
 ###cookies-verify
 ###cookies-warning-box
+###cookiesAdvertise
 ###cookiesAllow
 ###cookiesArticle
 ###cookiesBanner
@@ -269,6 +268,7 @@
 ###cookies_banner
 ###cookies_box
 ###cookies_container
+###cookies_disclaimer
 ###cookies_in
 ###cookies_info
 ###cookies_information
@@ -281,6 +281,7 @@
 ###cookiesdirective
 ###cookiesdisclaimer
 ###cookieshit
+###cookieslaw
 ###cookiesribbon
 ###cookiestatement
 ###cookietext
@@ -303,11 +304,13 @@
 ###ee-cookies-message
 ###epbar
 ###eu-cookie-bar-notification
+###eu-cookie-law
 ###eu-cookie-notifier
 ###euCookiesQuestion
 ###eu_cookie
 ###eucookie
 ###eucookielaw
+###eucookielaw-in-html
 ###fdih-cb
 ###foCookieNotice
 ###footer-cookies
@@ -337,6 +340,7 @@
 ###id_cookieconsent
 ###ietCookiePanel
 ###imPolicycookiemessage
+###info_cookie_container
 ###inner > .container.globalhead > .hidden-xs.notice.cookiez
 ###isCookieAccepted
 ###itv-cookie-notification
@@ -352,7 +356,9 @@
 ###message-bar-cookie-notice
 ###mktg_Cookie_Wrap
 ###mmmmm-cookies
+###modal_cookie-mask
 ###mrw_cookielaw_banner
+###myCookie
 ###norm_cookies
 ###notifications > .info.notification
 ###npo_cc_notification
@@ -368,6 +374,8 @@
 ###pl_cookies
 ###plea
 ###plugin_cookie_int
+###pm13_cookie_info
+###policy-banner
 ###policyNotice
 ###politicaCookies
 ###polityka-cookies
@@ -383,6 +391,7 @@
 ###site-wide-cookie-message
 ###skycom-cookie-wrapper
 ###sliding-popup
+###stdCookie
 ###sun-cookieMessage
 ###tesco_cookie_widget
 ###theCookie
@@ -395,6 +404,7 @@
 ###website-cookies
 ###wk_cookiebar
 ###wk_cookies
+###wpca-bar
 ##.COOKIECONSENT_BANDEAU
 ##.CookieDirectiveDisplay
 ##.CookieDirectiveHeight
@@ -407,9 +417,11 @@
 ##.alert-info.alert-dismissable.alert
 ##.alertcookie
 ##.annoying.notice
+##.bannerInformativaEU
 ##.bmj-cookie-noticebar-content
 ##.bottom_message
 ##.box-cookies
+##.box-info-cookie
 ##.capaAvisoCookies
 ##.capa_cookies
 ##.cc-cookies
@@ -482,6 +494,7 @@
 ##.cookie_info
 ##.cookie_notice
 ##.cookie_notification
+##.cookie_policy
 ##.cookie_policy_message
 ##.cookie_popup
 ##.cookie_privacy_info_bar
@@ -540,6 +553,7 @@
 ##.polityka-cookie
 ##.popup-cookie
 ##.printNone.usermsgCookie
+##.privacyhint
 ##.regional-cookie-warning
 ##.roh-cookies
 ##.sd_cookiespolicy

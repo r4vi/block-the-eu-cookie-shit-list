@@ -255,6 +255,7 @@
 ###cookiesDisclaimer
 ###cookiesInfo
 ###cookiesInitialDialog
+###cookieslaw
 ###cookiesLequipe
 ###cookiesPanel
 ###cookiesPolicy

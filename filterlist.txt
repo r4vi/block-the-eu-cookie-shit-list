@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: d9zLdZuE2+4mkYK4nhTfug==
+! Checksum: tIsMxDClqpofPvqcSG6CoA==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 16 Nov 2015 10:33 UTC
+! Last Modified: 16 Nov 2015 10:48 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -759,6 +759,7 @@ fcbarcelona.com###notificacio-cookies
 fcomputer.dk###jumper_cookies
 filmweb.pl##.topBarCont
 findmypast.co.uk###cookie-dropdown
+folkuniversitetet.se##.alert
 fool.co.uk###dogfish
 forbrug.dk##.CookieChoiceContainer.nocontent
 ford.co.uk###cookieAlertBoxID

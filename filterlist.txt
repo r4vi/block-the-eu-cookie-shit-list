@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: KQzzc8ZxS0Sq0yInflYOnA==
+! Checksum: F+qNxPXwAvlIuMeF0q/6Hg==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 16 Nov 2015 11:01 UTC
+! Last Modified: 16 Nov 2015 11:09 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -667,6 +667,7 @@ atman.pl###gbpl_oba
 audion.com###cc-cookies
 auto-ici.fr###close_cnil
 automotorsport.se##.alert.alert-info.page-alert
+autotask.com##.jsEnabled.alertbar-bottom.alertbar
 bamse.se##.alert.alert-info.page-alert
 bankofengland.co.uk##.container-notifications
 barbie.com###eu_cookies_overlay_content

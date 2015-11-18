@@ -21,12 +21,15 @@
 ###CookieReportsButton
 ###CookieSettings
 ###CookielawBanner
+###CookiesAreBeingUsed
 ###EUCookie
 ###EUCookieMsg
 ###EUDirectiveCookiePanel
 ###Footer_cookieLawBox
 ###LoggingCookie
+###Piskotki
 ###Piskotki1_PiskotekForma
+###PrivacyBanner
 ###Row1_Column1_Cell1_CookieSettings_CookieSettings
 ###SiteMasterPage_updCookieDisclaimer
 ###TNTpageContentPlaceHolder_pnlCookieMessage
@@ -100,6 +103,7 @@
 ###cookie-message
 ###cookie-message-container
 ###cookie-modal-bg
+###cookie-msg
 ###cookie-notice
 ###cookie-notification
 ###cookie-notification-banner
@@ -124,6 +128,7 @@
 ###cookieAcceptPos
 ###cookieAcknowledgement
 ###cookieAdv
+###cookieAgree
 ###cookieAlert
 ###cookieBanner
 ###cookieBar
@@ -135,6 +140,7 @@
 ###cookieContainer
 ###cookieControl
 ###cookieCookieBar
+###cookieDialog
 ###cookieDisclaimer
 ###cookieGuardMsg
 ###cookieInfCont
@@ -196,6 +202,7 @@
 ###cookie_layer
 ###cookie_message_container
 ###cookie_modal
+###cookie_msg
 ###cookie_notice
 ###cookie_overlay
 ###cookie_policies
@@ -236,6 +243,7 @@
 ###cookies-bar
 ###cookies-fancybox
 ###cookies-info
+###cookies-info-banner
 ###cookies-message
 ###cookies-modal
 ###cookies-overlay
@@ -297,6 +305,7 @@
 ###ctl00_ctl00_divCookiePolicyContainer
 ###ctl30_pnlCookie
 ###dennis-cookie-notice
+###desktop-cookie-disclosure
 ###divCookie
 ###divCookies_pnlCookies
 ###dnn_ctr496_View_EUcookie
@@ -323,8 +332,11 @@
 ###gb > .gb_d.gb_2b.gb_Dc
 ###gb > .gb_d.gb_Bb.gb_Ac
 ###gb > .gb_g.gb_9b.gb_Oc
+###gb > .gb_g.gb_ac.gb_gd
 ###gb > .gb_g.gb_ec.gb_9c
 ###gb > .gb_g.gb_ec.gb_Wc
+###gb > .gb_g.gb_ec.gb_ed
+###gb > .gb_g.gb_gc.gb_md
 ###gb > .gb_ia.gb_tb.gb_Jb
 ###gh-cookieb
 ###gld_cookie_flag
@@ -353,6 +365,7 @@
 ###js_pushDownCookieMessage
 ###kuki
 ###lc_cookies-main
+###lca-cookie-notification
 ###ma > .ckch
 ###message-bar-cookie-notice
 ###mktg_Cookie_Wrap
@@ -364,11 +377,13 @@
 ###notifications > .info.notification
 ###npo_cc_notification
 ###npo_cc_notification_wrapper
+###nq_cnilbanner
 ###nuk-cookieMessage
 ###obvestilo-piskotki
 ###obvstilo-piskotki
 ###okcookies
 ###ow_cookie
+###pageTop > .cc_container
 ###permission-bar
 ###piskotOpozorilo
 ###piskotki
@@ -415,10 +430,12 @@
 ##.EUCookie
 ##.accept-cookies
 ##.acceptCookiesBox
+##.activebar-container
 ##.agegate-cookie
 ##.alert-info.alert-dismissable.alert
 ##.alertcookie
 ##.annoying.notice
+##.attention-notice
 ##.bannerInformativaEU
 ##.bmj-cookie-noticebar-content
 ##.bottom_message
@@ -445,6 +462,7 @@
 ##.cookie-compliance
 ##.cookie-consent
 ##.cookie-content
+##.cookie-disclaimer
 ##.cookie-header
 ##.cookie-info
 ##.cookie-info-layer
@@ -507,6 +525,7 @@
 ##.cookieconsent
 ##.cookieconsent-popup
 ##.cookielaw
+##.cookiem
 ##.cookiemessage
 ##.cookienotice-bar
 ##.cookienotice-container
@@ -542,11 +561,14 @@
 ##.header-cookie-content
 ##.headerCookie
 ##.infoCookies
+##.jnote
 ##.jobnotice_cnt
 ##.js-cookie-compliance
 ##.js-cookie-disclaimer
+##.js-cookie-notice
 ##.js-cookie-policy
 ##.js-toast-cookies.js-component-toast.component-toast
+##.note
 ##.notice-cookie
 ##.notice_notice_cookies
 ##.notification.info
@@ -562,11 +584,14 @@
 ##.roh-cookies
 ##.sd_cookiespolicy
 ##.sgsCookies
+##.sliderBox > .cookie_policy.full_width
 ##.storm-cookie
 ##.sys_cc-cookies
 ##.toast-type-newCookie
+##.tsAttention--Info--button
 ##.uk-cookie-banner
 ##.uk-cookies
+##.user-msg
 ##.wrapper--cookies
 ##div[data-ng-controller="AcceptCookiesController"]
 ##gh-cookieb-active
@@ -713,6 +738,7 @@ clarkewillmott.com###cookiestext
 co-operativebank.co.uk###noticePanel
 codehousegroup.com/js/libs/cookie-check.js$script
 cofunds.co.uk##.idrPageRow[style^="min-height:0;height:auto;padding:0;position:relative;z-index:1;zoom:1;border:none;"]
+communauto.com##.cookies
 computerworld.dk###rolloverBanner
 concertolive.co.uk##.divCookieWarning
 cookie-notifications.1380812774.js$script
@@ -958,6 +984,7 @@ stargreen.com##div[style^="color: rgb(238, 238, 238); background-color: rgb(102,
 startnext.com###head-bar-cookie-info
 stofa.dk###cookie_popup
 stormcreative.co.uk###storm-cookie
+studentski.net###cookies
 sundaypost.com##.notification.notification-error
 suzuki.co.uk###privacypopup
 svt.se,svtflow.se###svtCookieInformationContainer
@@ -1074,3 +1101,4 @@ zonaforo.meristation.com##.inner
 ||omgubuntu.co.uk/wp-content/plugins/omg-magnific/magnific.min.js$script
 ||onlive.co.uk/account/cookie_notice
 ||wkd.com.pl/cookies/cookies.js$script
+@@||nova24tv.si/^/cookielawinfo.js

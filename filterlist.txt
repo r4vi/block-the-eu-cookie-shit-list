@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 7gXIaCDy3aF78gqmFtHwLw==
+! Checksum: 8t5dMO2JTmu0kk3tJuMhHQ==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 16 Nov 2015 11:10 UTC
+! Last Modified: 19 Nov 2015 06:12 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -1017,6 +1017,7 @@ wizzo.es##.avisoCookie
 wrzucacz.pl##P[class="info"]
 wtatennis.com###prfrm_cookie_bnr
 www.alpenverein.it###CookieT2Bar
+www.bbvaopenmind.com###cg_cookie_bar
 www.cda.pl###box_info.bx-info
 www.colissimo.fr###cookies
 www.dagospia.com###banner_privacy

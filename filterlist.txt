@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: hl7bXodilgRk5uYdFnOkcg==
+! Checksum: P1k1W6s3ZRZE9JuOt2Kr/A==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 26 Dec 2015 08:30 UTC
+! Last Modified: 26 Dec 2015 08:39 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -132,7 +132,6 @@
 ###cookieAlert
 ###cookieBanner
 ###cookieBar
-###cookieChoiceInfo
 ###cookieChoiceInfo
 ###cookieComplianceMessage
 ###cookieConsentBar
@@ -443,7 +442,6 @@
 ##.capa_cookies
 ##.cc-cookies
 ##.cc-cookies-wrapper
-##.cc-overlay.cc-cookies
 ##.cc_banner-wrapper
 ##.ccmcss_oic
 ##.ccwrap
@@ -568,7 +566,6 @@
 ##.js-toast-cookies.js-component-toast.component-toast
 ##.notice-cookie
 ##.notice_notice_cookies
-##.notification.info
 ##.om-cookie-agreement
 ##.panel_cookie
 ##.pea_cook_wrapper
@@ -582,7 +579,6 @@
 ##.roh-cookies
 ##.sd_cookiespolicy
 ##.sgsCookies
-##.sliderBox > .cookie_policy.full_width
 ##.storm-cookie
 ##.sys_cc-cookies
 ##.toast-type-newCookie
@@ -766,7 +762,6 @@ economist.com###ec-message-3
 edexcel.com###cookiemsgbox
 egmont.pl###cookieMsg
 ekstrabladet.dk##.cookiedisclaimer
-eldos.com##.cookie_warning
 elections2014.eu##DIV[style="bottom: 0px;"]
 elgiganten.dk###cookieinfobox
 elgiganten.dk##.transbox
@@ -792,7 +787,6 @@ fool.co.uk###dogfish
 forbrug.dk##.CookieChoiceContainer.nocontent
 ford.co.uk###cookieAlertBoxID
 forumcommunity.net##.jnote
-ft.dk###cookieDialog
 galleria.io#@#.cookiebanner
 gambleaware.co.uk###ccWrappery
 gamblingcommission.gov.uk##.cookiedOuter
@@ -836,7 +830,6 @@ indiegogo.com###fancybox-wrap
 informahealthcare.com##.overlay
 informahealthcare.com##.popupContainer
 information.dk###block-inf-eu-cookie-cookie-disclaimer
-ingdirect.es###ico_banner
 interia.pl###inpl_cp_cnt
 iopscience.iop.org##.cookies-banner-wrap
 ipnordic.dk##.ultimize_cookie_notification_container
@@ -937,7 +930,6 @@ perforce.com##ul.optanon-menu.optanon-menu-allow
 phoronix.com#@#.cookies
 picturehouses.co.uk###cookie_message
 pinkladyapples.co.uk###banner-wrapper
-pizza-online.fi###cookie_policy_container
 play.google.com##.app-translation-bar
 plesner.com###wt-cookie-box
 pokemon-trainer.com###Notices
@@ -1022,7 +1014,6 @@ thisengland.co.uk###msg_top_bar
 thisislocallondon.co.uk###cookiewarningiframe
 three.co.uk###rwd-cookie-message
 tidningenjulia.se##.alert.alert-info.page-alert
-timefy.com###nq_cnilbanner
 totalmoney.pl###right_widget
 travelsupermarket.com###cookieDirective
 tvcatchup.com###messageBox
@@ -1083,7 +1074,6 @@ www.mediaworld.it###bannerPolicy
 www.palaisdesthes.com###header_alert_cookie
 www.petzl.com###global > header > .cookieToast
 www.sentres.com##.cookies-eu
-www.telia.se##.tsAttention--Info--button
 www.wykop.pl##DIV[class="annotation type-alert type-permanent lspace m-reset-position closableContainer"]
 zenska.si#@##cookie-bar
 zonaforo.meristation.com##.inner

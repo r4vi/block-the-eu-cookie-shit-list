@@ -430,10 +430,12 @@
 ##.EUCookie
 ##.accept-cookies
 ##.acceptCookiesBox
+##.activebar-container
 ##.agegate-cookie
 ##.alert-info.alert-dismissable.alert
 ##.alertcookie
 ##.annoying.notice
+##.attention-notice
 ##.bannerInformativaEU
 ##.bmj-cookie-noticebar-content
 ##.bottom_message
@@ -559,12 +561,14 @@
 ##.header-cookie-content
 ##.headerCookie
 ##.infoCookies
+##.jnote
 ##.jobnotice_cnt
 ##.js-cookie-compliance
 ##.js-cookie-disclaimer
 ##.js-cookie-notice
 ##.js-cookie-policy
 ##.js-toast-cookies.js-component-toast.component-toast
+##.note
 ##.notice-cookie
 ##.notice_notice_cookies
 ##.notification.info
@@ -587,6 +591,7 @@
 ##.tsAttention--Info--button
 ##.uk-cookie-banner
 ##.uk-cookies
+##.user-msg
 ##.wrapper--cookies
 ##div[data-ng-controller="AcceptCookiesController"]
 ##gh-cookieb-active
@@ -1098,3 +1103,4 @@ zonaforo.meristation.com##.inner
 ||omgubuntu.co.uk/wp-content/plugins/omg-magnific/magnific.min.js$script
 ||onlive.co.uk/account/cookie_notice
 ||wkd.com.pl/cookies/cookies.js$script
+@@||nova24tv.si/^/cookielawinfo.js

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: iFVe3f6+XCqYqEuNfr3lEA==
+! Checksum: hl7bXodilgRk5uYdFnOkcg==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 26 Dec 2015 08:20 UTC
+! Last Modified: 26 Dec 2015 08:30 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -766,6 +766,7 @@ economist.com###ec-message-3
 edexcel.com###cookiemsgbox
 egmont.pl###cookieMsg
 ekstrabladet.dk##.cookiedisclaimer
+eldos.com##.cookie_warning
 elections2014.eu##DIV[style="bottom: 0px;"]
 elgiganten.dk###cookieinfobox
 elgiganten.dk##.transbox
@@ -790,6 +791,7 @@ folkuniversitetet.se##.alert
 fool.co.uk###dogfish
 forbrug.dk##.CookieChoiceContainer.nocontent
 ford.co.uk###cookieAlertBoxID
+forumcommunity.net##.jnote
 ft.dk###cookieDialog
 galleria.io#@#.cookiebanner
 gambleaware.co.uk###ccWrappery
@@ -980,6 +982,7 @@ skipton.co.uk###AlertCookieBanner
 slate.fr##.footer_cnil
 smartbox.dk###cookiePopin
 sofort.com##.small
+sonera.fi##.attention-notice
 soundcloud.com##.announcement
 spotify.com###js-message-bar-cookie-notice
 spotify.com###js-message-notice[data-name="cookieNotice"]
@@ -1019,6 +1022,7 @@ thisengland.co.uk###msg_top_bar
 thisislocallondon.co.uk###cookiewarningiframe
 three.co.uk###rwd-cookie-message
 tidningenjulia.se##.alert.alert-info.page-alert
+timefy.com###nq_cnilbanner
 totalmoney.pl###right_widget
 travelsupermarket.com###cookieDirective
 tvcatchup.com###messageBox
@@ -1079,6 +1083,7 @@ www.mediaworld.it###bannerPolicy
 www.palaisdesthes.com###header_alert_cookie
 www.petzl.com###global > header > .cookieToast
 www.sentres.com##.cookies-eu
+www.telia.se##.tsAttention--Info--button
 www.wykop.pl##DIV[class="annotation type-alert type-permanent lspace m-reset-position closableContainer"]
 zenska.si#@##cookie-bar
 zonaforo.meristation.com##.inner

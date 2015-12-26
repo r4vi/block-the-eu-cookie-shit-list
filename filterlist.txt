@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: tDN8yEmPT/HU2RYVaMrC7w==
+! Checksum: iFVe3f6+XCqYqEuNfr3lEA==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 26 Dec 2015 08:12 UTC
+! Last Modified: 26 Dec 2015 08:20 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -554,6 +554,7 @@
 ##.eucookie_disclaimer
 ##.footer-cookies-policy
 ##.future-cookie-bar
+##.gb_g.gb_ac.gb_gd
 ##.globalcookiepolicycontainer
 ##.gn-cookie-alert
 ##.header-cookie-content
@@ -576,6 +577,7 @@
 ##.popup-cookie
 ##.printNone.usermsgCookie
 ##.privacyhint
+##.qb-cookielaw-bar
 ##.regional-cookie-warning
 ##.roh-cookies
 ##.sd_cookiespolicy
@@ -696,6 +698,7 @@ barclaycard.co.uk###cookiesMessageBanner
 barclays.co.uk##P.otm
 beatsbydre.com###brand_drawer
 beatsbydre.com##.brand_drawer
+beepworld.de###bw_cookiechoice
 belkin.com##.pb-copy
 berubambi.hr##div#cookieMessageOuter
 bfmtv.com###conteneurCookies
@@ -756,6 +759,7 @@ dr.dk##DIV[class="cookie-info-box"]
 drinkaware.co.uk##.cookie-check
 drive24.co.uk###cookieHeader
 duf.dk##.tx-tc-cookie
+e-systems.ro###cookie-info-div
 economist.com###ec-message-1
 economist.com###ec-message-2
 economist.com###ec-message-3
@@ -844,8 +848,10 @@ johnlewis.com###opnotification
 joomla.pl###panel_cookie_dol
 jqueryCookieGuard*.js$script
 jrf.org.uk###cookieconsent
+justcause.com##.comp.comp-notification
 k-citymarket.fi##.Pbox-sm
 kalleanka.se##.alert.alert-info.page-alert
+king.com##.siteMessageContainer
 kodin1.com###cookie-warn
 krak.dk##[class="cookies-info-static"]
 kwejk.pl###cookies-politics
@@ -932,6 +938,7 @@ pinkladyapples.co.uk###banner-wrapper
 pizza-online.fi###cookie_policy_container
 play.google.com##.app-translation-bar
 plesner.com###wt-cookie-box
+pokemon-trainer.com###Notices
 policy.cookiereports.com
 politiken.dk##.cookie-warning-pop
 polytuil.fr###cookiesContainer
@@ -948,6 +955,7 @@ rbicookiepolicy.js$script
 rbs.co.uk##.pod.classic.brd-none.dev-pod
 realmadrid.com##.m_cookie
 redbull.co.uk##.EUCookiePolicyContainer
+reddit.com###eu-cookie-policy
 reed.co.uk##.notification
 rejsekort.dk##[class="CookieWarning"]
 reliancebankltd.com###informationbar
@@ -1021,6 +1029,7 @@ uk.yahoo.com###y-shade
 ukpostbox.com###eu_cookies
 uktv.co.uk#@#cookie-notice
 ungdomskort.dk###eksCookiePrompt
+uptodown.com##.cookies
 usersnap.com##.cookies-message
 vanguard.co.uk###cookieDrawer
 vbulletin.com#@#.cookies

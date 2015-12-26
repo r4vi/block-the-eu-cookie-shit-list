@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: P1k1W6s3ZRZE9JuOt2Kr/A==
+! Checksum: 5+LSlJ45t1MI75BmutJ3kw==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 26 Dec 2015 08:39 UTC
+! Last Modified: 27 Dec 2015 11:14 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -34,6 +34,7 @@
 ###SiteMasterPage_updCookieDisclaimer
 ###TNTpageContentPlaceHolder_pnlCookieMessage
 ###WP-cookie-info
+###_iCD
 ###accept-cookies-div
 ###acceptCookie
 ###accept_cookie
@@ -60,7 +61,9 @@
 ###cadre_alert_cookies
 ###cartelcookielegal
 ###catapult-cookie-bar
+###cb_content
 ###cc-cookie-law
+###cc-cookies
 ###cc-notification
 ###cc-notification-wrapper
 ###cccwr
@@ -336,11 +339,13 @@
 ###gb > .gb_g.gb_ec.gb_Wc
 ###gb > .gb_g.gb_ec.gb_ed
 ###gb > .gb_g.gb_gc.gb_md
+###gb > .gb_g.gb_nc.gb_oc
 ###gb > .gb_ia.gb_tb.gb_Jb
 ###gh-cookieb
 ###gld_cookie_flag
 ###global-cookie-message
 ###gn-cookie-accept
+###h_popup
 ###have-a-cookie
 ###hi-cookie-box
 ###hr_cookie_policy_message
@@ -409,8 +414,10 @@
 ###sliding-popup
 ###stdCookie
 ###sun-cookieMessage
+###sxc_confirmation
 ###tesco_cookie_widget
 ###theCookie
+###thecookie
 ###top-notification-bar-container
 ###tto-cookieMessage
 ###twCookieConsent
@@ -424,6 +431,7 @@
 ##.COOKIECONSENT_BANDEAU
 ##.CookieDirectiveDisplay
 ##.CookieDirectiveHeight
+##.CookieInfo
 ##.CookieLawPnl
 ##.CookieNotificationTopBar
 ##.EUCookie
@@ -567,6 +575,7 @@
 ##.notice-cookie
 ##.notice_notice_cookies
 ##.om-cookie-agreement
+##.ow_cookie
 ##.panel_cookie
 ##.pea_cook_wrapper
 ##.pf-cookie-directive
@@ -579,6 +588,7 @@
 ##.roh-cookies
 ##.sd_cookiespolicy
 ##.sgsCookies
+##.site-message--cookies.site-message--banner.js-site-message.site-message
 ##.storm-cookie
 ##.sys_cc-cookies
 ##.toast-type-newCookie
@@ -668,10 +678,9 @@
 3.dk##[class="tre-cookie-disclaimer"]
 4d.rtvslo.si###size-window-cookie
 @@||consent.truste.com^$domain=economist.com
-@@||nova24tv.si/^/cookielawinfo.js
+@@||indema.si/*/cookielawinfo.
+@@||nova24tv.si/*/cookielawinfo.js
 @@||tweakers.net^$document
-[Adblock Plus 1.1]
-_cookie_compliance.
 accuweather.com###eu-cookie-notify-wrap
 actu-environnement.com###informations-cookies
 ancestry.co.uk###Banner_50001
@@ -682,6 +691,7 @@ area-codes.org.uk###wsjconsent
 arla.dk##.cookie-popup__content
 arla.dk##.cookie-popup__heading
 asda.com###FT_Cookies
+atletski-klub-olimpija.si##.activebar-container
 atman.pl###gbpl_oba
 audion.com###cc-cookies
 auto-ici.fr###close_cnil
@@ -760,6 +770,7 @@ economist.com###ec-message-1
 economist.com###ec-message-2
 economist.com###ec-message-3
 edexcel.com###cookiemsgbox
+edition.cnn.com##.user-msg
 egmont.pl###cookieMsg
 ekstrabladet.dk##.cookiedisclaimer
 elections2014.eu##DIV[style="bottom: 0px;"]

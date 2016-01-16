@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: dMAy36UyCz04sCd8nwbBDA==
+! Checksum: JUn4m4sBqSpBeax/o/y/IQ==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 31 Dec 2015 02:50 UTC
+! Last Modified: 16 Jan 2016 11:20 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -887,6 +887,7 @@ magicmaman.com##.cookieNotification
 masterofmalt.com###cookiePopup
 mclaren.com###block-cookie-info
 mclarenstore.com##.widget-notifyBar
+media.netflix.com#@##cookieAlert
 mediapart.fr###cnil-sentence
 mercialys.fr##.info-top
 merlin.pl##.cookies_policy

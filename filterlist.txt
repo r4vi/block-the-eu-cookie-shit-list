@@ -12,6 +12,7 @@
 ###CRTL_AlertCookie
 ###CookieAlert
 ###CookieBox
+###CookieConsent
 ###CookieFrame
 ###CookieInfo
 ###CookieInformation
@@ -234,6 +235,7 @@
 ###cookiemsg
 ###cookienotice-container
 ###cookienotif
+###cookieonce
 ###cookieoverlay
 ###cookiepolicy
 ###cookiepolicybg
@@ -340,6 +342,7 @@
 ###gb > .gb_g.gb_ec.gb_ed
 ###gb > .gb_g.gb_gc.gb_md
 ###gb > .gb_g.gb_nc.gb_oc
+###gb > .gb_g.gb_rc.gb_sc
 ###gb > .gb_ia.gb_tb.gb_Jb
 ###gh-cookieb
 ###gld_cookie_flag
@@ -378,6 +381,7 @@
 ###mrw_cookielaw_banner
 ###myCookie
 ###norm_cookies
+###notForm\:userNot > .notificationBar
 ###notifications > .info.notification
 ###npo_cc_notification
 ###npo_cc_notification_wrapper
@@ -428,6 +432,7 @@
 ###wk_cookiebar
 ###wk_cookies
 ###wpca-bar
+###ws-cookie-consent-msg
 ##.COOKIECONSENT_BANDEAU
 ##.CookieDirectiveDisplay
 ##.CookieDirectiveHeight
@@ -550,6 +555,7 @@
 ##.cookiesinfo
 ##.cookiespolicy
 ##.cookiewrapper
+##.cpr-bar
 ##.cwcookielaw
 ##.divCookiePopUp
 ##.divCookiePopUpContainer
@@ -586,6 +592,7 @@
 ##.qb-cookielaw-bar
 ##.regional-cookie-warning
 ##.roh-cookies
+##.row.user-notes-notification
 ##.sd_cookiespolicy
 ##.sgsCookies
 ##.site-message--cookies.site-message--banner.js-site-message.site-message
@@ -1099,6 +1106,7 @@ www.petzl.com###global > header > .cookieToast
 www.picturehouses.com##.hidden-print.container-fluid.interim-banner
 www.quechoisir.org###bannerCnil
 www.sentres.com##.cookies-eu
+www.theguardian.com##.site-message--cookies.site-message--banner.js-site-message.site-message
 www.tf1.fr##.banner_cookies
 www.wykop.pl##DIV[class="annotation type-alert type-permanent lspace m-reset-position closableContainer"]
 zenska.si#@##cookie-bar

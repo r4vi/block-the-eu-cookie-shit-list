@@ -8,6 +8,7 @@
 ! Title: Block-EU-Cookie-Shit-List
 !
 ###AdBlockerInfo
+###consent-bump
 ###COOKIE_BANNER
 ###CRTL_AlertCookie
 ###CookieAlert

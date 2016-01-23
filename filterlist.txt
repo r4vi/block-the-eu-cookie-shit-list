@@ -812,8 +812,9 @@ go.tv2.dk###tv2cookiebar
 gocompare.com##.CookiePolicyContainer
 goldenline.pl###topReminder
 golem.de###golem-cookie-accept
-google.com##[class="gb_hb gb_kb gb_xa"]
-google.com##[class="gb_ib gb_lb gb_ya"]
+google.*###cnsh
+google.*##[class="gb_hb gb_kb gb_xa"]
+google.*##[class="gb_ib gb_lb gb_ya"]
 google.dk##.fbar
 gosc.pl##div[style^="border: 10px solid rgb(138, 138, 138);"]
 gov.uk##.js-cookies-banner

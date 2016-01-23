@@ -8,7 +8,6 @@
 ! Title: Block-EU-Cookie-Shit-List
 !
 ###AdBlockerInfo
-###consent-bump
 ###COOKIE_BANNER
 ###CRTL_AlertCookie
 ###CookieAlert
@@ -812,6 +811,7 @@ go.tv2.dk###tv2cookiebar
 gocompare.com##.CookiePolicyContainer
 goldenline.pl###topReminder
 golem.de###golem-cookie-accept
+google.*###consent-bump
 google.*###cnsh
 google.*##[class="gb_hb gb_kb gb_xa"]
 google.*##[class="gb_ib gb_lb gb_ya"]

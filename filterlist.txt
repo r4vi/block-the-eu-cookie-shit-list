@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: oNxsrEP0pxswkzY+T1BOWw==
+! Checksum: D83LQUu/+GqujIr+Qp5ETQ==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 06 Feb 2016 01:27 UTC
+! Last Modified: 15 Apr 2016 06:18 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -702,6 +702,7 @@ bamse.se##.alert.alert-info.page-alert
 bankofengland.co.uk##.container-notifications
 barbie.com###eu_cookies_overlay_content
 barclaycard.co.uk###cookiesMessageBanner
+barclaycard.co.uk##.js-cookie-message
 barclays.co.uk##P.otm
 beatsbydre.com###brand_drawer
 beatsbydre.com##.brand_drawer

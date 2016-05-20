@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: Y9lSMn4eoiGbiGC84xra6Q==
+! Checksum: b61nbuJsX238qUIthaVGqg==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 20 May 2016 09:47 +00:00
+! Last Modified: 20 May 2016 11:08 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -963,7 +963,7 @@ rbicookiepolicy-14.js$script
 rbicookiepolicy.js$script
 rbs.co.uk##.pod.classic.brd-none.dev-pod
 realmadrid.com##.m_cookie
-redbubble.com#RB_React_Component_CookieBanner_1
+redbubble.com###RB_React_Component_CookieBanner_1
 redbull.co.uk##.EUCookiePolicyContainer
 reddit.com###eu-cookie-policy
 reed.co.uk##.notification
@@ -1089,7 +1089,6 @@ www.ldlc-pro.com###privacy div#container
 www.mediaworld.it###bannerPolicy
 www.palaisdesthes.com###header_alert_cookie
 www.petzl.com###global > header > .cookieToast
-www.redbubble.com#RB_React_Component_CookieBanner_1
 www.sentres.com##.cookies-eu
 www.wykop.pl##DIV[class="annotation type-alert type-permanent lspace m-reset-position closableContainer"]
 zenska.si#@##cookie-bar

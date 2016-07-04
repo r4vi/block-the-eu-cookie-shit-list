@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: IRbwm6Npz7Xra61IODkBJQ==
+! Checksum: dMuYTrDICKXtU5hfiiQoPA==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 06 Jun 2016 08:43 UTC
+! Last Modified: 04 Jul 2016 08:34 UTC
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -800,6 +800,7 @@ fool.co.uk###dogfish
 forbrug.dk##.CookieChoiceContainer.nocontent
 ford.co.uk###cookieAlertBoxID
 forumcommunity.net##.jnote
+freecycle.org###blocker_message
 galleria.io#@#.cookiebanner
 gambleaware.co.uk###ccWrappery
 gamblingcommission.gov.uk##.cookiedOuter

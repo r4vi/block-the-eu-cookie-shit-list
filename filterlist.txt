@@ -945,6 +945,7 @@ perforce.com##span.optanon-link-text-left.optanon-white
 perforce.com##ul.optanon-menu.optanon-menu-allow
 phoronix.com#@#.cookies
 picturehouses.co.uk###cookie_message
+www.picturehouses.com##.hidden-print.container-fluid.interim-banner
 pinkladyapples.co.uk###banner-wrapper
 play.google.com##.app-translation-bar
 plesner.com###wt-cookie-box

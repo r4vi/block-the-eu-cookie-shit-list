@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: dMuYTrDICKXtU5hfiiQoPA==
+! Checksum: eSdIFTKoc4M/T68JO2Uu1w==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 04 Jul 2016 08:34 UTC
+! Last Modified: 08 Aug 2016 09:19 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -945,7 +945,6 @@ perforce.com##span.optanon-link-text-left.optanon-white
 perforce.com##ul.optanon-menu.optanon-menu-allow
 phoronix.com#@#.cookies
 picturehouses.co.uk###cookie_message
-www.picturehouses.com##.hidden-print.container-fluid.interim-banner
 pinkladyapples.co.uk###banner-wrapper
 play.google.com##.app-translation-bar
 plesner.com###wt-cookie-box
@@ -1091,6 +1090,7 @@ www.ldlc-pro.com###privacy div#container
 www.mediaworld.it###bannerPolicy
 www.palaisdesthes.com###header_alert_cookie
 www.petzl.com###global > header > .cookieToast
+www.picturehouses.com##.hidden-print.container-fluid.interim-banner
 www.quechoisir.org###bannerCnil
 www.sentres.com##.cookies-eu
 www.wykop.pl##DIV[class="annotation type-alert type-permanent lspace m-reset-position closableContainer"]

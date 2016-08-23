@@ -999,6 +999,7 @@ spotify.com##.notification-bar uk-cookies
 stargreen.com##div[style^="color: rgb(238, 238, 238); background-color: rgb(102, 102, 51);"]
 startnext.com###head-bar-cookie-info
 stofa.dk###cookie_popup
+store.playstation.com###cookieWarningMessage
 stormcreative.co.uk###storm-cookie
 studentski.net###cookies
 sundaypost.com##.notification.notification-error

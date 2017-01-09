@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: zPk1eKKgmLa0DuWp/8NnqQ==
+! Checksum: ltn4ettPmF7MNwWrkUEBYg==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 29 Oct 2016 11:32 +00:00
+! Last Modified: 09 Jan 2017 05:45 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -985,6 +985,7 @@ seetickets.com##.cookieslaw
 seloger.com##.container_cookies
 shropshirestar.com##.inner
 siepisze.pl##div[class^="pea_cook_wrapper"]
+singaporeair.com##.popup--cookie.popup-1
 skapiec.pl###uclaInfo
 skat.dk##.cookieMaster
 skipton.co.uk###AlertCookieBanner

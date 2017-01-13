@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: ltn4ettPmF7MNwWrkUEBYg==
+! Checksum: fwQlv6wOVxaIfXxnK+Jj7g==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 09 Jan 2017 05:45 +00:00
+! Last Modified: 13 Jan 2017 10:24 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -781,6 +781,7 @@ elgiganten.dk##.transbox
 elpais.com###capaAvisoPoliticaCookies_superior_mensajes
 en.valenciacf.com###cookies_ask
 ennaranja.com##.cookies-overlay
+eprivacy.js$script
 esprit.de###policy_header
 eu-cookie-directive/script.js
 eu.battle.net###eu-cookie-compliance

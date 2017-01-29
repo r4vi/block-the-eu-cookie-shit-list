@@ -677,6 +677,7 @@
 20minutes.fr###CNIL-notice
 3.dk##[class="tre-cookie-disclaimer"]
 4d.rtvslo.si###size-window-cookie
+4players.de###cookpol
 @@||consent.truste.com^$domain=economist.com
 @@||indema.si/*/cookielawinfo.
 @@||nova24tv.si/*/cookielawinfo.js
@@ -992,6 +993,7 @@ skat.dk##.cookieMaster
 skipton.co.uk###AlertCookieBanner
 slate.fr##.footer_cnil
 smartbox.dk###cookiePopin
+soeren-hentzschel.at###storage-notice
 sofort.com##.small
 sonera.fi##.attention-notice
 soundcloud.com##.announcement

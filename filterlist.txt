@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 6W9Cf052QkBKjAG11LEZ6A==
+! Checksum: J/t2ONsEL8SQRS3jWnLuRw==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 30 Jan 2017 02:46 +00:00
+! Last Modified: 31 Jan 2017 05:28 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -1106,8 +1106,8 @@ www.petzl.com###global > header > .cookieToast
 www.picturehouses.com##.hidden-print.container-fluid.interim-banner
 www.quechoisir.org###bannerCnil
 www.sentres.com##.cookies-eu
-www.theguardian.com##.site-message--cookies.site-message--banner.js-site-message.site-message
 www.tf1.fr##.banner_cookies
+www.theguardian.com##.site-message--cookies.site-message--banner.js-site-message.site-message
 www.wykop.pl##DIV[class="annotation type-alert type-permanent lspace m-reset-position closableContainer"]
 zenska.si#@##cookie-bar
 zonaforo.meristation.com##.inner

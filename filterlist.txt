@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: J/t2ONsEL8SQRS3jWnLuRw==
+! Checksum: VqqXTaEO23MkcmPLu2cMvA==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 31 Jan 2017 05:28 +00:00
+! Last Modified: 08 Jul 2017 12:23 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -698,6 +698,7 @@ anglianwater.co.uk###ctl00_pnlCookie
 area-codes.org.uk###wsjconsent
 arla.dk##.cookie-popup__content
 arla.dk##.cookie-popup__heading
+arte.tv##.next-cookie-banner__wrapper
 asda.com###FT_Cookies
 atletski-klub-olimpija.si##.activebar-container
 atman.pl###gbpl_oba
@@ -1073,8 +1074,10 @@ wizzo.es##.avisoCookie
 wrzucacz.pl##P[class="info"]
 wtatennis.com###prfrm_cookie_bnr
 www.alpenverein.it###CookieT2Bar
+www.audi.fr##.nm-cookiepolicy
 www.bbvaopenmind.com###cg_cookie_bar
 www.cda.pl###box_info.bx-info
+www.charentelibre.fr##.cookie_banner-handled
 www.choisirensemble.fr##.jq_cookies_msg.wgt-cookies
 www.colissimo.fr###cookies
 www.dagospia.com###banner_privacy

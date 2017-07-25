@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: VqqXTaEO23MkcmPLu2cMvA==
+! Checksum: oyhJxfMDzxD7LkXbRxQJjg==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 08 Jul 2017 12:23 +00:00
+! Last Modified: 25 Jul 2017 08:33 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -136,7 +136,6 @@
 ###cookieAlert
 ###cookieBanner
 ###cookieBar
-###cookiechoice
 ###cookieChoiceInfo
 ###cookieComplianceMessage
 ###cookieConsentBar
@@ -225,6 +224,7 @@
 ###cookiebar
 ###cookiebar-container
 ###cookiebnr
+###cookiechoice
 ###cookiediv
 ###cookiefascia
 ###cookielaw
@@ -588,6 +588,7 @@
 ##.notice-cookie
 ##.notice_notice_cookies
 ##.om-cookie-agreement
+##.outerCookieBar
 ##.ow_cookie
 ##.panel_cookie
 ##.pea_cook_wrapper
@@ -609,7 +610,6 @@
 ##.tsAttention--Info--button
 ##.uk-cookie-banner
 ##.uk-cookies
-##.outerCookieBar
 ##.wrapper--cookies
 ##div[data-ng-controller="AcceptCookiesController"]
 ##gh-cookieb-active
@@ -1015,10 +1015,10 @@ soeren-hentzschel.at###storage-notice
 sofort.com##.small
 sonera.fi##.attention-notice
 soundcloud.com##.announcement
+spot-a-shop.fi###popup-notifications
 spotify.com###js-message-bar-cookie-notice
 spotify.com###js-message-notice[data-name="cookieNotice"]
 spotify.com##.notification-bar uk-cookies
-spot-a-shop.fi###popup-notifications
 stargreen.com##div[style^="color: rgb(238, 238, 238); background-color: rgb(102, 102, 51);"]
 startnext.com###head-bar-cookie-info
 stofa.dk###cookie_popup

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 0W/awXVEqZyuNO7h2djibw==
+! Checksum: cSn+kOoAOa/9OFFMAh9gLg==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 26 Jul 2017 01:50 +00:00
+! Last Modified: 29 Jul 2017 12:06 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -762,6 +762,7 @@ clarkewillmott.com###cookiestext
 co-operativebank.co.uk###noticePanel
 codehousegroup.com/js/libs/cookie-check.js$script
 cofunds.co.uk##.idrPageRow[style^="min-height:0;height:auto;padding:0;position:relative;z-index:1;zoom:1;border:none;"]
+coinbase.com##.flash.cookies
 communauto.com##.cookies
 computerworld.dk###rolloverBanner
 concertolive.co.uk##.divCookieWarning

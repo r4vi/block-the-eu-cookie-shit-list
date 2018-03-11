@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 5MMLIDFUysTfx3nTYsZiow==
+! Checksum: dLj3bbb0LMfNWkbtHBObeg==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 29 Jan 2018 10:13 +00:00
+! Last Modified: 11 Mar 2018 07:21 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -1037,6 +1037,7 @@ t-mobile.nl###exposeMask
 tandfonline.com##.b-body
 tandfonline.com##.b-header
 tddirectinvesting.co.uk###cookieWindowContainer
+techradar.com##.cc-banner
 techrepublic.com###cookieCont
 telmore.dk###CookieDiv
 tesco.com###cp

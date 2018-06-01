@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: qWsLTWsKylWRnjSk4sVIqA==
+! Checksum: Rx2qOYE9b9kpes9A+3BK3g==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 05 Jun 2018 06:18 +00:00
+! Last Modified: 22 Jun 2018 03:38 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -927,6 +927,7 @@ moneysavingexpert.com###alertBar
 monitor.si##.cookie-note-content
 monster.co.uk###intMsgCookies
 moski.si#@##cookie-bar
+motor-talk.de###b-cc
 mp.dk##.alert.alert-block.alert-info.fade.in
 myspace.com###siteAlert
 n-mobile.net###infobox3

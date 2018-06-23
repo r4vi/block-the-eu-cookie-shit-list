@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: Rx2qOYE9b9kpes9A+3BK3g==
+! Checksum: RzuafeN31EzVcmdJn0k6kw==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 22 Jun 2018 03:38 +00:00
+! Last Modified: 23 Jun 2018 09:10 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -690,7 +690,7 @@
 /toucanCookie.
 /ttgcookieconsent-
 /warnCookies.
-1and1.es,1and1.pl,1and1.co.uk###cookieinfo-container
+1and1.es,1and1.pl,1and1.co.uk,1and1.com###cookieinfo-container
 20minutes.fr###CNIL-notice
 3.dk##[class="tre-cookie-disclaimer"]
 4d.rtvslo.si###size-window-cookie
@@ -701,10 +701,13 @@
 @@||tweakers.net^$document
 accuweather.com###eu-cookie-notify-wrap
 actu-environnement.com###informations-cookies
+akka.io##.optanon-alert-box-wrapper:has-text(This site uses cookies)
+allrecipes.com###privacyNotification
 ancestry.co.uk###Banner_50001
 ancestry.co.uk###Banner_cookie_1
 android.com.pl##div[class^="pea_cook_wrapper"]
 anglianwater.co.uk###ctl00_pnlCookie
+apollographql.com##.cc-banner
 area-codes.org.uk###wsjconsent
 arla.dk##.cookie-popup__content
 arla.dk##.cookie-popup__heading
@@ -723,6 +726,7 @@ barbie.com###eu_cookies_overlay_content
 barclaycard.co.uk###cookiesMessageBanner
 barclaycard.co.uk##.js-cookie-message
 barclays.co.uk##P.otm
+bbc.co.uk##.cookie-demo
 beatsbydre.com###brand_drawer
 beatsbydre.com##.brand_drawer
 beepworld.de###bw_cookiechoice
@@ -762,6 +766,9 @@ cityoflondon.gov.uk##.container-floating-notifications
 claireperry.org.uk###blanket
 claireperry.org.uk###message
 clarkewillmott.com###cookiestext
+cloud.digitalocean.com##.cc-window[aria-label="cookieconsent"]
+cnbc.com###_evh-ric:has-text(cookies)
+cnn.com##.optanon-alert-box-wrapper:has-text(We use cookies)
 co-operativebank.co.uk###noticePanel
 codehousegroup.com/js/libs/cookie-check.js$script
 cofunds.co.uk##.idrPageRow[style^="min-height:0;height:auto;padding:0;position:relative;z-index:1;zoom:1;border:none;"]
@@ -771,11 +778,14 @@ computerworld.dk###rolloverBanner
 concertolive.co.uk##.divCookieWarning
 cookie-notifications.1380812774.js$script
 cpr.dk##[class="alert alert-info no-cookies"]
+creativebloq.com###cmp-container-id
 crucial.com##.cookieInfo
+dailystar.co.uk###cmp-container-id
 davidlloyd.co.uk###home-cookie2
 dawsonera.com##.cc-cookies-container
 dba.dk,bilbasen.dk##DIV[style^="position: fixed; bottom: 0px; z-index: 10000;"]
 debenhams.com###debCNinfo
+delonghi.com###eucookielawcontainer
 demotywatory.pl##DIV[style^="position: fixed; left:0; right:0; bottom:0"]
 devianne.com###avertissement_cookies
 diabetes.org.uk###policyPopup
@@ -862,6 +872,7 @@ ico.gov.uk###banner
 ico.org.uk###banner
 imedeen.fr###cookiepolicyContainer
 ina.fr##.cookies-bar
+independent.co.uk###cookie-warning-gdpr
 indiegogo.com###fancybox-overlay
 indiegogo.com###fancybox-wrap
 informahealthcare.com##.overlay
@@ -915,6 +926,7 @@ mclaren.com###block-cookie-info
 mclarenstore.com##.widget-notifyBar
 media.netflix.com#@##cookieAlert
 mediapart.fr###cnil-sentence
+meetup.com##div.stripe:has-text(We use cookies)
 mercialys.fr##.info-top
 merlin.pl##.cookies_policy
 miniclip.com###eu-cookie
@@ -932,6 +944,7 @@ mp.dk##.alert.alert-block.alert-info.fade.in
 myspace.com###siteAlert
 n-mobile.net###infobox3
 nationwide.co.uk###cn
+nats.io###gdpr
 nemid.nu##[class="cookie_optin_box"]
 nerc.ac.uk###cookieConsent
 netanttila.com###cookie-warn
@@ -941,6 +954,7 @@ nethouseprices.com###cookieAccept
 netia.pl###cookie_div
 networkrail.co.uk##.CookieNotification
 nfbio.dk###the-cookie
+nginx.com###nx_gdpr_modal
 nike.com##.modal-mask-class
 nintendo.fi###eucookies-note
 nlyman.com,nelly.com###toast-container
@@ -949,6 +963,7 @@ nrc.nl##.cookiemonster
 nwolb.com###ctl00_privacyCookies_LIPCNB_PrivacyandCookiesNoticePanel
 nyhederne.tv2.dk###tv2cookiebar
 nyheter24.se###acceptCookiesDiv
+nytimes.com##div.shown:has-text(Review our cookie policy)
 o2.co.uk#@#.cookies
 olvg.nl###cc
 onlive.co.uk##.top_message
@@ -962,6 +977,7 @@ over-blog.com##.CookiesBar.js-cookies.CookiesBar--visible
 oxfordjournals.org##.cookiepolicyimplied
 packtpub.com###cookie-outer-outer
 parcelmotel.com###cookiemonster
+paypal.com##.xo-gdpr-cookie-banner-wrapper
 pekao.com.pl###box-close
 pekao.com.pl###box-div
 pekao.com.pl###box-layer
@@ -1009,6 +1025,8 @@ santanderbillpayment.co.uk###euPrivacy_control_euPrivacy_cookiesMsg
 savi-france.fr###notifybar
 seetickets.com##.cookieslaw
 seloger.com##.container_cookies
+serverfault.com###js-gdpr-consent-banner
+showcasecinemas.co.uk##div.section-prompt:has-text(About Cookies)
 shropshirestar.com##.inner
 siepisze.pl##div[class^="pea_cook_wrapper"]
 singaporeair.com##.popup--cookie.popup-1
@@ -1025,6 +1043,8 @@ spot-a-shop.fi###popup-notifications
 spotify.com###js-message-bar-cookie-notice
 spotify.com###js-message-notice[data-name="cookieNotice"]
 spotify.com##.notification-bar uk-cookies
+stackexchange.com###js-gdpr-consent-banner
+stackoverflow.com###js-gdpr-consent-banner
 stargreen.com##div[style^="color: rgb(238, 238, 238); background-color: rgb(102, 102, 51);"]
 startnext.com###head-bar-cookie-info
 stofa.dk###cookie_popup
@@ -1041,31 +1061,42 @@ t-mobile.nl###exposeMask
 tandfonline.com##.b-body
 tandfonline.com##.b-header
 tddirectinvesting.co.uk###cookieWindowContainer
+techradar.com###cmp-container-id
 techradar.com##.cc-banner
+techrepublic.com###_evidon_banner:has-text(use cookies for personalized)
 techrepublic.com###cookieCont
 telmore.dk###CookieDiv
 tesco.com###cp
 tfa.net##cccwr
+the-tls.co.uk###cookies
+theatlantic.com##.qc-cmp-ui-container.qc-cmp-showing
+theatlantic.com##.qc-cmp-ui-showing:style(overflow: auto !important)
 thecheshire.co.uk,thederbyshire.co.uk,nationwideinternational.com###cn
 theguardian.com##.identity-noticebar
+theguardian.com##div.site-message--first-pv-consent
 thehanley.co.uk##LI[style="overflow: hidden; background: url(\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAoCAYAAAAPOoFWAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAPZJREFUeNq81tsOgjAMANB2ov7/7ypaN7IlIwi9rGuT8QSc9EIDAsAznxvY4pXPKr05RUE5MEVB+TyWfCEl9LZApYopCmo9C4FKSMtYoI8Bwv79aQJU4l6hXXCZrQbokJEksxHo9KMOgc6w1atHXM8K9DVC7FQnJ0i8iK3QooGgbnyKgMDygBWyYFZoqx4qS27KqLZJjA1D0jK6QJcYEQEiWv9PGkTsbqxQ8oT+ZtZB6AkdsJnQDnMoHXHLGKOgDYuCWmYhEERCI5gaamW0bnHdA3k2ltlIN+2qKRyCND0bhqSYCyTB3CAOc4WusBEIpkeBuPgJMAAX8Hs1NfqHRgAAAABJRU5ErkJggg==\") repeat-x scroll left top lightgreen; border-radius: 5px; border: 1px solid rgb(80, 194, 78); box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); color: darkgreen; width: 310px;"]
 theherbert.org###ico_banner
 thejournal.ie###notify-container
 thelandscapegroup.co.uk##DIV[style="margin-left: 0px; position: fixed; left: 20px; bottom: 20px; width: 300px; height: 250px; background-color: rgb(238, 238, 238); color: rgb(51, 51, 51); border: 1px solid rgb(153, 153, 153); box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); line-height: 1.3em; z-index: 99999; padding-top: 10px;"]
 themeflood.com###gatewayBarFillstacks_in_5416_page4
+theneweuropean.co.uk##.qc-cmp-ui-container.qc-cmp-showing
+theneweuropean.co.uk##.qc-cmp-ui-showing:style(overflow: auto !important)
 thenottingham.com###cookieMsg
 theprogressive.com###wrap-message
 theregister.co.uk,channelregister.co.uk,reghardware.com###RegCCO
 theson.org.uk###msg_top_bar
 thewolseley.com###cookie_policy_banner
+thinkgeek.com##.cc-window[aria-label="cookieconsent"]
 thisengland.co.uk###msg_top_bar
 thisislocallondon.co.uk###cookiewarningiframe
 three.co.uk###rwd-cookie-message
 tidningenjulia.se##.alert.alert-info.page-alert
+tomshardware.com##div.prism-modal-content:has(#accept-all-consents)
 totalmoney.pl###right_widget
 travelsupermarket.com###cookieDirective
 tvcatchup.com###messageBox
 tvlicensing.co.uk###blq-global
+twilio.com###consent_blackbar
 twitch.tv##.noty_bar
 uk.eurosport.yahoo.com###yucs-eprivacy
 uk.yahoo.com###y-shade
@@ -1088,6 +1119,7 @@ which.co.uk###eprivacy-holder
 which.co.uk###eprivacy-outer
 wimbledon.com###wimPrivacyBanner
 wimp.dk##.cookie-warn
+wired.co.uk###domCookieWarning
 wizzo.es##.avisoCookie
 wrzucacz.pl##P[class="info"]
 wtatennis.com###prfrm_cookie_bnr
@@ -1099,6 +1131,7 @@ www.charentelibre.fr##.cookie_banner-handled
 www.choisirensemble.fr##.jq_cookies_msg.wgt-cookies
 www.colissimo.fr###cookies
 www.dagospia.com###banner_privacy
+www.digitalocean.com##.bui-AnnouncementBanner[data-home-announcement-cookie*="gdpr"]
 www.dolomitisuperski.com###pc-cookie-notice
 www.espn.co.uk/##.cookie-overlay
 www.futura-sciences.com###fs-cookiewarning

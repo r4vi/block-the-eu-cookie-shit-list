@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: Dyxm4YfG3VWyzToak4hD9Q==
+! Checksum: aAejs42WQG34REAKyr89rg==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 23 Jun 2018 12:48 +00:00
+! Last Modified: 23 Jun 2018 01:52 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -789,6 +789,9 @@ delonghi.com###eucookielawcontainer
 demotywatory.pl##DIV[style^="position: fixed; left:0; right:0; bottom:0"]
 devianne.com###avertissement_cookies
 diabetes.org.uk###policyPopup
+digitaltrends.com###dtcookie-container
+digitaltrends.com##.dtcookie-overlay
+digitaltrends.com##body.cookie-dialog-up:style(overflow:auto !important)
 diy.com###noScriptCookies
 dolce-gusto.co.uk###nimgrowler
 dostavanadom.com###cookies

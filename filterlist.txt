@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: RzuafeN31EzVcmdJn0k6kw==
+! Checksum: Dyxm4YfG3VWyzToak4hD9Q==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 23 Jun 2018 09:10 +00:00
+! Last Modified: 23 Jun 2018 12:48 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -820,6 +820,7 @@ europarl.org.uk##.cookies-message
 europeantour.com###modalCookieContainer
 eveningtelegraph.co.uk,thecourier.co.uk##.notification
 evm.dk###cookies-acc
+express.co.uk###cmp-container-id
 extremoduro.com,robe.es###dvCookie.cookiesms
 facebook.com##.pam.fbPageBanner._3d9x.uiBoxGray.bottomborder
 fatbeehive.com##div[style^="background-color: #000;"]

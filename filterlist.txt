@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: k6Gmfm+R6k43kuQrGzhnnA==
+! Checksum: +IIXu4ti4Kj351HMq550Xw==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 29 Jun 2018 07:08 +00:00
+! Last Modified: 01 Jul 2018 11:27 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -768,6 +768,7 @@ claireperry.org.uk###blanket
 claireperry.org.uk###message
 clarkewillmott.com###cookiestext
 cloud.digitalocean.com##.cc-window[aria-label="cookieconsent"]
+cloudflare.com##.eu-cookie-banner
 cnbc.com###_evh-ric:has-text(cookies)
 cnn.com##.optanon-alert-box-wrapper:has-text(We use cookies)
 co-operativebank.co.uk###noticePanel

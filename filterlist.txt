@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: +IIXu4ti4Kj351HMq550Xw==
+! Checksum: 9+2B2+ArAvtozLaMXItwNA==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 01 Jul 2018 11:27 +00:00
+! Last Modified: 17 Jul 2018 02:02 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -1143,7 +1143,7 @@ www.colissimo.fr###cookies
 www.dagospia.com###banner_privacy
 www.digitalocean.com##.bui-AnnouncementBanner[data-home-announcement-cookie*="gdpr"]
 www.dolomitisuperski.com###pc-cookie-notice
-www.espn.co.uk/##.cookie-overlay
+www.espn.co.uk##.cookie-overlay
 www.futura-sciences.com###fs-cookiewarning
 www.google.at###pushdown
 www.google.be###pushdown

@@ -602,6 +602,7 @@
 ##.printNone.usermsgCookie
 ##.privacyhint
 ##.qb-cookielaw-bar
+##.qc-cmp-ui-container.qc-cmp-showing
 ##.regional-cookie-warning
 ##.roh-cookies
 ##.row.user-notes-notification

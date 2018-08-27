@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: 9+2B2+ArAvtozLaMXItwNA==
+! Checksum: Pq7s0WDS+xLOvZGHKnLelQ==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 17 Jul 2018 02:02 +00:00
+! Last Modified: 27 Aug 2018 11:53 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -1029,6 +1029,7 @@ royalnavy.mod.uk###cookies-notice
 rugbyworldcup.com###Explanation
 rugbyworldcup.com##.banner
 rumid.dk###banner-floating
+santander.co.uk###_W034_Cookie_Directive_WAR_W034_Cookie_Directiveportlet_contenedor01
 santander.co.uk###cookiebannerAH
 santanderbillpayment.co.uk###euPrivacy_control_euPrivacy_cookiesMsg
 savi-france.fr###notifybar

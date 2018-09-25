@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: Pq7s0WDS+xLOvZGHKnLelQ==
+! Checksum: ODbcAl1BAP6NNwLAWJ/3/w==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 27 Aug 2018 11:53 +00:00
+! Last Modified: 25 Sep 2018 11:56 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -1121,6 +1121,7 @@ vbulletin.com#@#.cookies
 videnskab.dk###block-videnskabdk_custom_blocks-cookie_compliance
 videojug.com##.cp-alert-message
 vpspecialists.co.uk###CookieConsentDiv
+vultr.com###cookieconsent_dialog
 waitrose.com###topEuCookieAlert
 wattsindustries.com###header1_overlay2
 wavesfm.com###footer_width

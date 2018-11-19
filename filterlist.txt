@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: Qr0P+DhlL/c4IOtNa06hsA==
+! Checksum: c644sdlCCQm6ZGzDozcWnA==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 19 Nov 2018 06:30 +00:00
+! Last Modified: 19 Nov 2018 06:34 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -74,6 +74,7 @@
 ###ccm-banner-wrap
 ###ciasteczka
 ###ckWarning
+###cmp-container-id
 ###confirmCookiePolicy
 ###cookie
 ###cookie-accept
@@ -476,6 +477,7 @@
 ##.cookie-banner
 ##.cookie-banner-wrapper
 ##.cookie-bar
+##.cookie-bar
 ##.cookie-block
 ##.cookie-box
 ##.cookie-compliance
@@ -582,6 +584,7 @@
 ##.gb_g.gb_ac.gb_gd
 ##.globalcookiepolicycontainer
 ##.gn-cookie-alert
+##.grdp-popup
 ##.header-cookie-content
 ##.headerCookie
 ##.infoCookies
@@ -1205,4 +1208,5 @@ zonaforo.meristation.com##.inner
 ||myinterrail.co.uk/shared_files/clientscripts/cms/cookie_alert1.js$script
 ||omgubuntu.co.uk/wp-content/plugins/omg-magnific/magnific.min.js$script
 ||onlive.co.uk/account/cookie_notice
+||quantcast.mgr.consensu.org/cmp.js$script
 ||wkd.com.pl/cookies/cookies.js$script

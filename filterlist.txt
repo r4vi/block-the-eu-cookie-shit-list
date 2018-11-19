@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: i1WkCjI/8rV3FXMdF0D+YA==
+! Checksum: g6jkf7DBRBfUbl/em7mELg==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 19 Nov 2018 06:39 +00:00
+! Last Modified: 19 Nov 2018 06:43 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -425,6 +425,7 @@
 ###polityka-cookies
 ###popup-cookie
 ###popup-cookies
+###privacy-consent
 ###privacyPolicyLayerN
 ###privacy_cookie
 ###promoTb > tbody > tr:nth-of-type(1)
@@ -790,6 +791,7 @@ change.org##.flash-message.flash-message-announcement
 channel4.com##.all4nav-cookie-policy-notification
 channel4.com##.cookie-policy-alert
 chefkoch.de###ck-cookie-statement
+christmasfood.marksandspencer.com##.site-stripe
 citymarket.fi###cookie-warn
 cityoflondon.gov.uk##.container-floating-notifications
 claireperry.org.uk###blanket
@@ -1166,6 +1168,7 @@ wired.co.uk###domCookieWarning
 wizzo.es##.avisoCookie
 wrzucacz.pl##P[class="info"]
 wtatennis.com###prfrm_cookie_bnr
+www.aliexpress.com##.overlay
 www.alpenverein.it###CookieT2Bar
 www.audi.fr##.nm-cookiepolicy
 www.bbvaopenmind.com###cg_cookie_bar
@@ -1195,6 +1198,7 @@ www.google.pt###pushdown
 www.google.ru###pushdown
 www.google.si###pushdown
 www.gvcc.net###footer > .cookieleiste
+www.itv.com##.wrapp-cookie
 www.lagazettedescommunes.com###bandeauCookies
 www.ldlc-pro.com###privacy div#container
 www.mediaworld.it###bannerPolicy

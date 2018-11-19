@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Checksum: c644sdlCCQm6ZGzDozcWnA==
+! Checksum: i1WkCjI/8rV3FXMdF0D+YA==
 ! Title: Block-EU-Cookie-Shit-List
-! Last Modified: 19 Nov 2018 06:34 +00:00
+! Last Modified: 19 Nov 2018 06:39 +00:00
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/r4vi/block-the-eu-cookie-shit-list
 ! Licence: http://sam.zoy.org/wtfpl/
@@ -24,6 +24,7 @@
 ###CookielawBanner
 ###CookiesAreBeingUsed
 ###CybotCookiebotDialog
+###DisclaimCookie
 ###EUCookie
 ###EUCookieMsg
 ###EUDirectiveCookiePanel
@@ -53,11 +54,14 @@
 ###avviso_cookie
 ###banner-cookie
 ###banner_cookie
+###banner_privacy
+###bannerprivacy
 ###bauerCookiePolicy
 ###bbccookies
 ###bcmsCookieInfoWrapper
 ###block-cookie_policy-0
 ###blogger_cookie_notice
+###box-cookie
 ###boxZgodaNaCookie
 ###box_cookies_error
 ###ca_banner
@@ -103,6 +107,7 @@
 ###cookie-information
 ###cookie-information-banner
 ###cookie-law
+###cookie-law-banner
 ###cookie-law-bar
 ###cookie-law-compliance
 ###cookie-law-consent-section
@@ -217,6 +222,7 @@
 ###cookie_policy_alert
 ###cookie_policy_bar
 ###cookie_policy_container
+###cookie_policy_div
 ###cookie_privacy_holder
 ###cookie_privacy_info_bar
 ###cookie_privacy_popup
@@ -256,6 +262,7 @@
 ###cookies-info-banner
 ###cookies-message
 ###cookies-modal
+###cookies-notice-container
 ###cookies-overlay
 ###cookies-panel
 ###cookies-policy
@@ -331,6 +338,7 @@
 ###eucookie
 ###eucookielaw
 ###eucookielaw-in-html
+###eucookielawcontainer
 ###fdih-cb
 ###foCookieNotice
 ###footer-cookies
@@ -366,9 +374,11 @@
 ###id_cookieconsent
 ###ietCookiePanel
 ###imPolicycookiemessage
+###info-cookie
 ###info_cookie_container
 ###infocookie
 ###inner > .container.globalhead > .hidden-xs.notice.cookiez
+###iolCookiePolicy
 ###isCookieAccepted
 ###itv-cookie-notification
 ###itv-glob-cookie-policy
@@ -387,6 +397,7 @@
 ###mmmmm-cookies
 ###modal_cookie-mask
 ###mrw_cookielaw_banner
+###mtv-cookies
 ###myCookie
 ###norm_cookies
 ###notForm\:userNot > .notificationBar
@@ -415,6 +426,7 @@
 ###popup-cookie
 ###popup-cookies
 ###privacyPolicyLayerN
+###privacy_cookie
 ###promoTb > tbody > tr:nth-of-type(1)
 ###pronamic_cookie_holder
 ###rbiCookiePolicy_pushDownBoxWrapper
@@ -433,13 +445,16 @@
 ###top-notification-bar-container
 ###tto-cookieMessage
 ###twCookieConsent
+###ukCookiePopup
 ###usrConsent
+###v-cookielaw
 ###viewlet-cookiepolicy
 ###warning_cookie
 ###website-cookies
 ###wk_cookiebar
 ###wk_cookies
 ###wpca-bar
+###wrapCookie
 ###ws-cookie-consent-msg
 ##.COOKIECONSENT_BANDEAU
 ##.CookieDirectiveDisplay
@@ -456,6 +471,7 @@
 ##.annoying.notice
 ##.b-cookies_banner_container
 ##.bannerInformativaEU
+##.bk-cookieBar
 ##.bmj-cookie-noticebar-content
 ##.bottom_message
 ##.box-cookies
@@ -472,6 +488,8 @@
 ##.center_cookies
 ##.cl_dark.cl_bottom.cl_bar
 ##.con-large.cpr-bar
+##.containerCookie
+##.coockie_banner
 ##.cookie-accept-overlay
 ##.cookie-alert
 ##.cookie-banner
@@ -497,6 +515,7 @@
 ##.cookie-note
 ##.cookie-notice
 ##.cookie-notification
+##.cookie-notifier
 ##.cookie-notifier-text
 ##.cookie-opt-in
 ##.cookie-panel
@@ -560,6 +579,7 @@
 ##.cookies-popup
 ##.cookies-warning
 ##.cookiesAlert
+##.cookiesBar
 ##.cookiesContent
 ##.cookiesInfo
 ##.cookiesMessageBanner
@@ -618,6 +638,7 @@
 ##.sys_cc-cookies
 ##.toast-type-newCookie
 ##.tsAttention--Info--button
+##.ubuntu-it.org###_ubuntu-it_cookie_policy
 ##.uk-cookie-banner
 ##.uk-cookies
 ##.wrapper--cookies
@@ -881,6 +902,7 @@ hmrc.gov.uk###CookieReportsPanel
 hpconnected.com###cookiewrap
 hrportfolio.hr##div#kolac
 hsbc.co.uk###cookieBox
+huawei.com##.ReadPolicy.browsehappy
 iblanky.co.cc###update
 ico.gov.uk###banner
 ico.org.uk###banner
@@ -951,6 +973,7 @@ mirror.co.uk##.captify-widget
 mobildebat.dk###cookies_info_header
 momondo.dk##.chrm-content
 monbs.com###cookieFooter
+monclick.it##.mk-cookieBox
 moneysavingexpert.com###alertBar
 monitor.si##.cookie-note-content
 monster.co.uk###intMsgCookies
@@ -1057,6 +1080,7 @@ soeren-hentzschel.at###storage-notice
 sofort.com##.small
 sonera.fi##.attention-notice
 soundcloud.com##.announcement
+sourceforge.net##.truste-sf-banner
 spot-a-shop.fi###popup-notifications
 spotify.com###js-message-bar-cookie-notice
 spotify.com###js-message-notice[data-name="cookieNotice"]

@@ -508,6 +508,7 @@
 ##.cookie-info-layer
 ##.cookie-information-container
 ##.cookie-information-wrapper
+##.cookie-jar
 ##.cookie-law
 ##.cookie-law-overlay
 ##.cookie-law.col-md-12

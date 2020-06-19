@@ -629,6 +629,7 @@
 ##.popup-cookie
 ##.printNone.usermsgCookie
 ##.privacyhint
+##.privacy-controls-banner
 ##.qb-cookielaw-bar
 ##.qc-cmp-ui-container.qc-cmp-showing
 ##.regional-cookie-warning

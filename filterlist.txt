@@ -1214,6 +1214,8 @@ www.quechoisir.org###bannerCnil
 www.sentres.com##.cookies-eu
 www.tf1.fr##.banner_cookies
 www.theguardian.com##.site-message--cookies.site-message--banner.js-site-message.site-message
+www.vobadirekt.de##.lightbox--cookie-consent
+www.vobadirekt.de##:xpath(//*[contains(@class, "darken-layer") and /*//*[contains(@class, "lightbox--cookie-consent")]])
 www.wykop.pl##DIV[class="annotation type-alert type-permanent lspace m-reset-position closableContainer"]
 zenska.si#@##cookie-bar
 zonaforo.meristation.com##.inner
